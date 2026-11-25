@@ -1,0 +1,103 @@
+country,iso,currency,moodys_rating,country_risk_premium,crp_in_excess_of_us,adjusted_multiple_lt500k,adjusted_multiple_500k_1m,adjusted_multiple_1m_2m,adjusted_multiple_2m_5m,adjusted_multiple_5m_50m,method
+United States,US,USD,Aa1,0.0023,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Canada,CA,CAD,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Mexico,MX,MXN,Baa2,0.0246,0.0223,1.91,2.64,2.9,3.67,5.14,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Guatemala,GT,GTQ,Ba1,0.0324,0.0301,1.89,2.58,2.84,3.57,4.94,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+El Salvador,SV,USD,B3,0.0841,0.0818,1.72,2.28,2.47,3.01,3.93,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Honduras,HN,HNL,B1,0.0583,0.0559,1.8,2.42,2.64,3.27,4.38,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Costa Rica,CR,CRC,Ba2,0.039,0.0366,1.86,2.54,2.78,3.49,4.78,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Panama,PA,USD,Baa3,0.0285,0.0261,1.9,2.61,2.87,3.62,5.04,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Dominican Republic,DO,DOP,Ba2,0.039,0.0366,1.86,2.54,2.78,3.49,4.78,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Jamaica,JM,JMD,Ba3,0.0466,0.0442,1.84,2.49,2.73,3.4,4.62,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Trinidad and Tobago,TT,TTD,Ba2,0.039,0.0366,1.86,2.54,2.78,3.49,4.78,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Colombia,CO,COP,Baa3,0.0285,0.0261,1.9,2.61,2.87,3.62,5.04,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Ecuador,EC,USD,Caa3,0.1295,0.1272,1.59,2.06,2.22,2.65,3.34,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Peru,PE,PEN,Baa1,0.0207,0.0184,1.93,2.66,2.93,3.73,5.24,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Bolivia,BO,BOB,Ca,0.1554,0.153,1.53,1.96,2.1,2.48,3.07,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Brazil,BR,BRL,Ba1,0.0324,0.0301,1.89,2.58,2.84,3.57,4.94,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Paraguay,PY,PYG,Baa3,0.0285,0.0261,1.9,2.61,2.87,3.62,5.04,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Uruguay,UY,UYU,Baa1,0.0207,0.0184,1.93,2.66,2.93,3.73,5.24,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Argentina,AR,ARS,Caa1,0.0971,0.0947,1.68,2.21,2.4,2.9,3.74,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Chile,CL,CLP,A2,0.011,0.0086,1.97,2.73,3.02,3.87,5.52,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+United Kingdom,GB,GBP,Aa3,0.0078,0.0055,1.98,2.76,3.05,3.91,5.62,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Ireland,IE,EUR,Aa3,0.0078,0.0055,1.98,2.76,3.05,3.91,5.62,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+France,FR,EUR,Aa3,0.0078,0.0055,1.98,2.76,3.05,3.91,5.62,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Germany,DE,EUR,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Netherlands,NL,EUR,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Belgium,BE,EUR,Aa3,0.0078,0.0055,1.98,2.76,3.05,3.91,5.62,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Luxembourg,LU,EUR,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Austria,AT,EUR,Aa1,0.0036,0.0013,1.99,2.79,3.09,3.98,5.76,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Switzerland,CH,CHF,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Italy,IT,EUR,Baa2,0.0246,0.0223,1.91,2.64,2.9,3.67,5.14,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Spain,ES,EUR,A3,0.0155,0.0132,1.95,2.7,2.98,3.8,5.39,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Portugal,PT,EUR,A3,0.0155,0.0132,1.95,2.7,2.98,3.8,5.39,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Greece,GR,EUR,Baa3,0.0285,0.0262,1.9,2.61,2.87,3.62,5.03,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Cyprus,CY,EUR,A3,0.0155,0.0132,1.95,2.7,2.98,3.8,5.39,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Malta,MT,EUR,A2,0.011,0.0087,1.97,2.73,3.02,3.87,5.52,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Finland,FI,EUR,Aa1,0.0036,0.0013,1.99,2.79,3.09,3.98,5.76,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Estonia,EE,EUR,A1,0.0091,0.0068,1.97,2.75,3.04,3.89,5.58,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Latvia,LV,EUR,A3,0.0155,0.0132,1.95,2.7,2.98,3.8,5.39,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Lithuania,LT,EUR,A2,0.011,0.0087,1.97,2.73,3.02,3.87,5.52,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Slovakia,SK,EUR,A3,0.0155,0.0132,1.95,2.7,2.98,3.8,5.39,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Slovenia,SI,EUR,A3,0.0155,0.0132,1.95,2.7,2.98,3.8,5.39,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Croatia,HR,EUR,A3,0.0155,0.0132,1.95,2.7,2.98,3.8,5.39,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Bulgaria,BG,EUR,Baa1,0.0207,0.0184,1.93,2.66,2.93,3.73,5.24,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Montenegro,ME,EUR,B1,0.0583,0.056,1.8,2.42,2.64,3.27,4.38,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Sweden,SE,SEK,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Norway,NO,NOK,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Denmark,DK,DKK,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Iceland,IS,ISK,A1,0.0091,0.0068,1.97,2.75,3.04,3.89,5.58,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Poland,PL,PLN,A2,0.011,0.0087,1.97,2.73,3.02,3.87,5.52,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Czech Republic,CZ,CZK,Aa3,0.0078,0.0055,1.98,2.76,3.05,3.91,5.62,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Hungary,HU,HUF,Baa2,0.0246,0.0223,1.91,2.64,2.9,3.67,5.14,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Romania,RO,RON,Baa3,0.0285,0.0262,1.9,2.61,2.87,3.62,5.03,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Serbia,RS,RSD,Ba2,0.039,0.0367,1.86,2.54,2.78,3.49,4.78,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+North Macedonia,MK,MKD,Ba3,0.0466,0.0443,1.84,2.49,2.73,3.4,4.61,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Albania,AL,ALL,Ba3,0.0466,0.0443,1.84,2.49,2.73,3.4,4.61,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Bosnia and Herzegovina,BA,BAM,B3,0.0841,0.0818,1.72,2.28,2.47,3.01,3.93,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Moldova,MD,MDL,B3,0.0841,0.0818,1.72,2.28,2.47,3.01,3.93,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Georgia,GE,GEL,Ba2,0.039,0.0367,1.86,2.54,2.78,3.49,4.78,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Armenia,AM,AMD,Ba3,0.0466,0.0443,1.84,2.49,2.73,3.4,4.61,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Azerbaijan,AZ,AZN,Baa3,0.0285,0.0262,1.9,2.61,2.87,3.62,5.03,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Turkey,TR,TRY,Ba3,0.0466,0.0443,1.84,2.49,2.73,3.4,4.61,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+United Arab Emirates,AE,AED,Aa2,0.0064,0.0041,1.98,2.77,3.06,3.94,5.67,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Saudi Arabia,SA,SAR,Aa3,0.0078,0.0055,1.98,2.76,3.05,3.91,5.62,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Qatar,QA,QAR,Aa2,0.0064,0.0041,1.98,2.77,3.06,3.94,5.67,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Kuwait,KW,KWD,A1,0.0091,0.0068,1.97,2.75,3.04,3.89,5.58,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Bahrain,BH,BHD,B2,0.0712,0.0689,1.76,2.35,2.55,3.14,4.14,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Oman,OM,OMR,Baa3,0.0285,0.0262,1.9,2.61,2.87,3.62,5.03,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Israel,IL,ILS,Baa1,0.0207,0.0184,1.93,2.66,2.93,3.73,5.24,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Jordan,JO,JOD,Ba3,0.0466,0.0443,1.84,2.49,2.73,3.4,4.61,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Egypt,EG,EGP,Caa1,0.0971,0.0948,1.68,2.21,2.4,2.9,3.74,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+South Africa,ZA,ZAR,Ba2,0.039,0.0367,1.86,2.54,2.78,3.49,4.78,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Nigeria,NG,NGN,B3,0.0841,0.0818,1.72,2.28,2.47,3.01,3.93,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Kenya,KE,KES,Caa1,0.0971,0.0948,1.68,2.21,2.4,2.9,3.74,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Rwanda,RW,RWF,B2,0.0712,0.0689,1.76,2.35,2.55,3.14,4.14,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Uganda,UG,UGX,B3,0.0841,0.0818,1.72,2.28,2.47,3.01,3.93,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Tanzania,TZ,TZS,B1,0.0583,0.056,1.8,2.42,2.64,3.27,4.38,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Botswana,BW,BWP,Baa1,0.0207,0.0184,1.93,2.66,2.93,3.73,5.24,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Namibia,NA,NAD,B1,0.0583,0.056,1.8,2.42,2.64,3.27,4.38,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Mauritius,MU,MUR,Baa3,0.0285,0.0262,1.9,2.61,2.87,3.62,5.03,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Zambia,ZM,ZMW,Caa2,0.1166,0.1143,1.63,2.12,2.29,2.74,3.49,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Côte d'Ivoire,CI,XOF,Ba2,0.039,0.0367,1.86,2.54,2.78,3.49,4.78,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Senegal,SN,XOF,Caa1,0.0971,0.0948,1.68,2.21,2.4,2.9,3.74,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+India,IN,INR,Baa3,0.0285,0.0262,1.9,2.61,2.87,3.62,5.03,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Pakistan,PK,PKR,Caa1,0.0971,0.0948,1.68,2.21,2.4,2.9,3.74,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Bangladesh,BD,BDT,B2,0.0712,0.0689,1.76,2.35,2.55,3.14,4.14,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Sri Lanka,LK,LKR,Ca,0.1554,0.1531,1.53,1.96,2.1,2.48,3.07,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+China,CN,CNY,A1,0.0091,0.0068,1.97,2.75,3.04,3.89,5.58,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Hong Kong,HK,HKD,Aa3,0.0078,0.0055,1.98,2.76,3.05,3.91,5.62,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Japan,JP,JPY,A1,0.0091,0.0068,1.97,2.75,3.04,3.89,5.58,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Korea,KR,KRW,Aa2,0.0064,0.0041,1.98,2.77,3.06,3.94,5.67,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Singapore,SG,SGD,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Malaysia,MY,MYR,A3,0.0155,0.0132,1.95,2.7,2.98,3.8,5.39,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Thailand,TH,THB,Baa1,0.0207,0.0184,1.93,2.66,2.93,3.73,5.24,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Indonesia,ID,IDR,Baa2,0.0246,0.0223,1.91,2.64,2.9,3.67,5.14,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Philippines,PH,PHP,Baa2,0.0246,0.0223,1.91,2.64,2.9,3.67,5.14,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Vietnam,VN,VND,Ba2,0.039,0.0367,1.86,2.54,2.78,3.49,4.78,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Mongolia,MN,MNT,B1,0.0583,0.056,1.8,2.42,2.64,3.27,4.38,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Uzbekistan,UZ,UZS,Ba3,0.0466,0.0443,1.84,2.49,2.73,3.4,4.61,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Australia,AU,AUD,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+New Zealand,NZ,NZD,Aaa,0,0,2,2.8,3.1,4,5.8,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Fiji,FJ,FJD,B1,0.0583,0.056,1.8,2.42,2.64,3.27,4.38,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base
+Papua New Guinea,PG,PGK,B2,0.0712,0.0689,1.76,2.35,2.55,3.14,4.14,1/(1/US multiple + CRP excess); Damodaran Jan 2026 CRP; IBBA Q2 2026 base

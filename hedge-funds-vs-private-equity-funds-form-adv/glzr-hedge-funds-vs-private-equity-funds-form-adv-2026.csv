@@ -1,0 +1,50 @@
+table,measure,form_adv_question,hedge_funds,private_equity_funds,unit,hedge_funds_base,private_equity_funds_base
+Size,Funds,Question 10,14907,42763,funds,,
+Size,Advisers that report at least one,Question 10,3795,4419,advisers,,
+Size,Gross assets,Question 11,17512674210430,12067309314816,USD,,
+Size,"Median fund, by gross assets",Question 11,111162581,41490396,USD,,
+Size,Funds of $1 billion or more,Question 11,14.2,6.0,percent of funds,14907,42763
+Investors,Median minimum investment,Question 12,1000000,100000,USD,,
+Investors,Funds with no minimum,Question 12,15.2,29.5,percent of funds,14907,42763
+Investors,Funds asking $1 million or more,Question 12,52.8,33.6,percent of funds,14907,42763
+Investors,Median number of beneficial owners,Question 13,12,15,beneficial owners,,
+Investors,Rely on section 3(c)(7): qualified purchasers only,Question 4,79.5,72.2,percent of funds,14907,42763
+Investors,"Owned by non-U.S. persons, weighted by gross assets",Question 16,49.6,48.3,"percent, weighted by gross assets",17512674210430,12067309314816
+Structure,Master funds,Question 6(a),31.3,10.2,percent of funds,14907,42763
+Structure,Feeder funds,Question 6(c),9.5,3.4,percent of funds,14907,42763
+Structure,Funds of funds,Question 8(a),17.8,22.9,percent of funds,14907,42763
+Structure,"Invested in registered investment companies, like mutual funds and ETFs, in the last fiscal year",Question 9,14.6,0.5,percent of funds,14907,42763
+Structure,Organized in Delaware,Question 2,51.8,66.5,percent of funds,14907,42763
+Structure,Organized in the Cayman Islands,Question 2,35.8,13.3,percent of funds,14907,42763
+Service providers,Financial statements audited every year,Question 23(a)(1),95.9,85.9,percent of funds,14907,42763
+Service providers,Use one or more prime brokers,Question 24(a),47.7,3.1,percent of funds,14907,42763
+Service providers,Use custodians to hold some or all assets,Question 25(a),96.4,83.1,percent of funds,14907,42763
+Service providers,Use an administrator other than the adviser,Question 26(a),89.3,65.6,percent of funds,14907,42763
+Service providers,All assets valued by someone who is not a related person of the adviser,Question 27,62.7,19.0,percent of funds,14907,42763
+Service providers,No assets valued that way,Question 27,29.0,78.9,percent of funds,14907,42763
+Service providers,"Use marketers, such as placement agents or finders",Question 28(a),23.5,16.5,percent of funds,14907,42763
+Service providers,Relied on Regulation D for the fund’s securities,Question 21,73.8,74.2,percent of funds,14907,42763
+Spread: Fund size (gross assets),No gross assets,Question 11,569,1587,funds,14907,42763
+Spread: Fund size (gross assets),Under $10 million,Question 11,1929,11618,funds,14907,42763
+Spread: Fund size (gross assets),$10 to 100 million,Question 11,4623,14329,funds,14907,42763
+Spread: Fund size (gross assets),$100 million to $1 billion,Question 11,5664,12684,funds,14907,42763
+Spread: Fund size (gross assets),$1 to 10 billion,Question 11,1910,2462,funds,14907,42763
+Spread: Fund size (gross assets),$10 billion or more,Question 11,212,83,funds,14907,42763
+Spread: Minimum investment,No minimum,Question 12,2264,12610,funds,14907,42763
+Spread: Minimum investment,"Under $250,000",Question 12,2571,11784,funds,14907,42763
+Spread: Minimum investment,"$250,000 to $1 million",Question 12,2205,3982,funds,14907,42763
+Spread: Minimum investment,$1 to 5 million,Question 12,3586,4721,funds,14907,42763
+Spread: Minimum investment,$5 to 25 million,Question 12,3704,8238,funds,14907,42763
+Spread: Minimum investment,$25 million or more,Question 12,577,1428,funds,14907,42763
+Spread: Beneficial owners,Under 10,Question 13,6773,17304,funds,14907,42763
+Spread: Beneficial owners,10 to 24,Question 13,2661,8404,funds,14907,42763
+Spread: Beneficial owners,25 to 99,Question 13,3802,13214,funds,14907,42763
+Spread: Beneficial owners,100 to 499,Question 13,1416,3591,funds,14907,42763
+Spread: Beneficial owners,500 or more,Question 13,255,250,funds,14907,42763
+Organized in,Delaware,Question 2,7725,28454,funds,14907,42763
+Organized in,Cayman Islands,Question 2,5336,5678,funds,14907,42763
+Organized in,Luxembourg,Question 2,353,1996,funds,14907,42763
+Organized in,British Virgin Islands,Question 2,171,432,funds,14907,42763
+Organized in,Texas,Question 2,94,421,funds,14907,42763
+Organized in,Canada,Question 2,91,1025,funds,14907,42763
+Organized in,Guernsey,Question 2,44,453,funds,14907,42763

@@ -1,0 +1,1462 @@
+naics,industry,naics_level,sector,firms,sales_shipments_or_revenue_usd_thousands,top4_share_pct,top8_share_pct,top20_share_pct,top50_share_pct,hhi_50_largest_firms,year
+21,"Mining, quarrying, and oil and gas extraction",2,"Mining, quarrying, and oil and gas extraction",16060,725136706,21.3,31.6,49.3,67.7,185.7,2022
+211,Oil and gas extraction,3,"Mining, quarrying, and oil and gas extraction",3945,532877584,29.0,42.9,67.0,86.4,334.8,2022
+2111,Oil and gas extraction,4,"Mining, quarrying, and oil and gas extraction",3945,532877584,29.0,42.9,67.0,86.4,334.8,2022
+21112,Crude petroleum extraction,5,"Mining, quarrying, and oil and gas extraction",3220,354140164,40.7,59.1,79.6,93.0,572.1,2022
+211120,Crude petroleum extraction,6,"Mining, quarrying, and oil and gas extraction",3220,354140164,40.7,59.1,79.6,93.0,572.1,2022
+21113,Natural gas extraction,5,"Mining, quarrying, and oil and gas extraction",779,178737420,28.7,48.2,76.5,93.6,390.8,2022
+211130,Natural gas extraction,6,"Mining, quarrying, and oil and gas extraction",779,178737420,28.7,48.2,76.5,93.6,390.8,2022
+212,Mining (except oil and gas),3,"Mining, quarrying, and oil and gas extraction",2872,97985775,21.1,32.1,48.7,64.8,187.5,2022
+2121,Coal mining,4,"Mining, quarrying, and oil and gas extraction",218,27425436,39.7,54.5,76.3,92.7,523.1,2022
+21211,Coal mining,5,"Mining, quarrying, and oil and gas extraction",218,27425436,39.7,54.5,76.3,92.7,523.1,2022
+212114,Surface coal mining,6,"Mining, quarrying, and oil and gas extraction",163,10368291,43.7,56.0,75.5,93.0,612.2,2022
+212115,Underground coal mining,6,"Mining, quarrying, and oil and gas extraction",72,17057145,45.1,63.7,90.2,99.7,702.0,2022
+2122,Metal ore mining,4,"Mining, quarrying, and oil and gas extraction",204,34229041,56.5,73.0,89.6,99.1,1021.9,2022
+21229,Other metal ore mining,5,"Mining, quarrying, and oil and gas extraction",21,1966513,78.7,94.2,100.0,100.0,1888.9,2022
+212290,Other metal ore mining,6,"Mining, quarrying, and oil and gas extraction",21,1966513,78.7,94.2,100.0,100.0,1888.9,2022
+2123,Nonmetallic mineral mining and quarrying,4,"Mining, quarrying, and oil and gas extraction",2460,36331298,18.8,26.3,39.9,54.4,137.9,2022
+21231,Stone mining and quarrying,5,"Mining, quarrying, and oil and gas extraction",969,17723915,32.0,40.4,52.4,66.6,340.7,2022
+212311,Dimension stone mining and quarrying,6,"Mining, quarrying, and oil and gas extraction",223,770320,19.8,29.6,44.9,68.8,167.1,2022
+212312,Crushed and broken limestone mining and quarrying,6,"Mining, quarrying, and oil and gas extraction",483,10585207,28.6,38.5,55.2,72.0,287.1,2022
+212313,Crushed and broken granite mining and quarrying,6,"Mining, quarrying, and oil and gas extraction",62,3122039,71.0,80.6,94.7,99.7,1665.6,2022
+212319,Other crushed and broken stone mining and quarrying,6,"Mining, quarrying, and oil and gas extraction",275,3246349,25.3,42.9,61.0,80.2,285.0,2022
+21232,"Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying",5,"Mining, quarrying, and oil and gas extraction",1437,12837083,15.5,22.8,36.4,51.9,101.7,2022
+212321,Construction sand and gravel mining,6,"Mining, quarrying, and oil and gas extraction",1280,8267578,13.5,22.2,34.7,48.1,90.0,2022
+212323,"Kaolin, clay, and ceramic and refractory minerals mining",6,"Mining, quarrying, and oil and gas extraction",74,1610220,49.4,68.0,90.4,99.1,852.7,2022
+21239,Other nonmetallic mineral mining and quarrying,5,"Mining, quarrying, and oil and gas extraction",156,5770300,44.9,65.9,85.1,96.0,674.4,2022
+212390,Other nonmetallic mineral mining and quarrying,6,"Mining, quarrying, and oil and gas extraction",156,5770300,44.9,65.9,85.1,96.0,674.4,2022
+213,Support activities for mining,3,"Mining, quarrying, and oil and gas extraction",9346,94273347,23.6,32.3,42.2,52.8,183.7,2022
+2131,Support activities for mining,4,"Mining, quarrying, and oil and gas extraction",9346,94273347,23.6,32.3,42.2,52.8,183.7,2022
+21311,Support activities for mining,5,"Mining, quarrying, and oil and gas extraction",9346,94273347,23.6,32.3,42.2,52.8,183.7,2022
+213111,Drilling oil and gas wells,6,"Mining, quarrying, and oil and gas extraction",1448,18501238,40.9,51.9,64.1,77.1,559.2,2022
+213112,Support activities for oil and gas operations,6,"Mining, quarrying, and oil and gas extraction",7495,72294001,26.4,34.7,45.0,56.0,241.4,2022
+213113,Support activities for coal mining,6,"Mining, quarrying, and oil and gas extraction",118,889272,31.3,46.1,71.1,93.4,395.3,2022
+213114,Support activities for metal mining,6,"Mining, quarrying, and oil and gas extraction",132,1500267,50.0,68.7,87.0,95.9,757.4,2022
+213115,Support activities for nonmetallic minerals (except fuels) mining,6,"Mining, quarrying, and oil and gas extraction",193,1088569,28.1,40.9,61.0,82.4,295.0,2022
+22,Utilities,2,Utilities,7314,765952367,14.7,25.4,48.0,70.6,147.7,2022
+221,Utilities,3,Utilities,7314,765952367,14.7,25.4,48.0,70.6,147.7,2022
+2211,"Electric power generation, transmission and distribution",4,Utilities,2626,563323475,17.7,29.6,54.2,74.4,186.0,2022
+22111,Electric power generation,5,Utilities,1228,146289953,24.2,33.7,53.4,78.7,274.4,2022
+221112,Fossil fuel electric power generation,6,Utilities,265,85510357,16.2,25.8,49.5,80.9,180.8,2022
+221114,Solar electric power generation,6,Utilities,644,5514711,43.3,59.3,77.3,87.0,615.9,2022
+221116,Geothermal electric power generation,6,Utilities,22,1144273,83.6,97.7,,100.0,2055.1,2022
+221117,Biomass electric power generation,6,Utilities,75,947855,39.9,56.0,80.1,98.4,638.0,2022
+221118,Other electric power generation,6,Utilities,46,41492,50.5,70.9,94.3,100.0,881.4,2022
+22112,"Electric power transmission, control, and distribution",5,Utilities,1475,417033522,17.2,31.3,58.6,78.4,206.6,2022
+221121,Electric bulk power transmission and control,6,Utilities,74,17628072,39.3,61.5,85.4,99.9,602.0,2022
+221122,Electric power distribution,6,Utilities,1421,399405450,17.3,31.4,59.4,79.0,210.6,2022
+2212,Natural gas distribution,4,Utilities,432,182666159,29.5,42.3,66.0,93.1,386.5,2022
+22121,Natural gas distribution,5,Utilities,432,182666159,29.5,42.3,66.0,93.1,386.5,2022
+221210,Natural gas distribution,6,Utilities,432,182666159,29.5,42.3,66.0,93.1,386.5,2022
+22132,Sewage treatment facilities,5,Utilities,401,2420297,54.6,68.0,78.9,87.0,1003.4,2022
+221320,Sewage treatment facilities,6,Utilities,401,2420297,54.6,68.0,78.9,87.0,1003.4,2022
+23,Construction,2,Construction,785917,2920771250,2.6,4.0,6.8,11.4,3.9,2022
+236,Construction of buildings,3,Construction,246042,1223192386,6.1,8.9,14.7,22.3,18.2,2022
+2361,Residential building construction,4,Construction,203762,601377060,11.4,15.7,24.2,29.8,54.3,2022
+23611,Residential building construction,5,Construction,203762,601377060,11.4,15.7,24.2,29.8,54.3,2022
+236115,New single-family housing construction (except for-sale builders),6,Construction,54266,117777547,6.5,8.3,10.4,13.7,14.5,2022
+236116,New multifamily housing construction (except for-sale builders),6,Construction,3811,77852053,5.5,9.0,16.9,30.7,22.8,2022
+236117,New housing for-sale builders,6,Construction,18094,276632153,24.6,34.1,51.3,60.9,248.9,2022
+236118,Residential remodelers,6,Construction,127652,129115307,1.9,2.7,4.4,7.2,1.9,2022
+2362,Nonresidential building construction,4,Construction,42367,621815326,6.4,10.1,16.9,24.7,21.3,2022
+23621,Industrial building construction,5,Construction,2972,36207628,13.1,19.1,31.1,48.4,90.6,2022
+236210,Industrial building construction,6,Construction,2972,36207628,13.1,19.1,31.1,48.4,90.6,2022
+23622,Commercial and institutional building construction,5,Construction,39454,585607698,6.8,10.5,17.6,25.4,23.1,2022
+236220,Commercial and institutional building construction,6,Construction,39454,585607698,6.8,10.5,17.6,25.4,23.1,2022
+237,Heavy and civil engineering construction,3,Construction,34900,416052292,7.2,11.4,18.1,26.2,24.2,2022
+2371,Utility system construction,4,Construction,17649,203854535,11.7,18.3,29.4,37.5,63.1,2022
+23711,Water and sewer line and related structures construction,5,Construction,10380,56912725,4.2,6.5,11.3,19.2,11.1,2022
+237110,Water and sewer line and related structures construction,6,Construction,10380,56912725,4.2,6.5,11.3,19.2,11.1,2022
+23712,Oil and gas pipeline and related structures construction,5,Construction,1790,44071809,21.6,32.1,44.6,57.4,173.6,2022
+237120,Oil and gas pipeline and related structures construction,6,Construction,1790,44071809,21.6,32.1,44.6,57.4,173.6,2022
+23713,Power and communication line and related structures construction,5,Construction,5526,102870001,19.2,31.6,44.5,56.9,156.2,2022
+237130,Power and communication line and related structures construction,6,Construction,5526,102870001,19.2,31.6,44.5,56.9,156.2,2022
+2373,"Highway, street, and bridge construction",4,Construction,8901,160342128,5.4,9.0,16.9,26.8,19.6,2022
+23731,"Highway, street, and bridge construction",5,Construction,8901,160342128,5.4,9.0,16.9,26.8,19.6,2022
+237310,"Highway, street, and bridge construction",6,Construction,8901,160342128,5.4,9.0,16.9,26.8,19.6,2022
+2379,Other heavy and civil engineering construction,4,Construction,4377,34016402,17.9,26.7,39.3,51.7,139.4,2022
+23799,Other heavy and civil engineering construction,5,Construction,4377,34016402,17.9,26.7,39.3,51.7,139.4,2022
+237990,Other heavy and civil engineering construction,6,Construction,4377,34016402,17.9,26.7,39.3,51.7,139.4,2022
+238,Specialty trade contractors,3,Construction,505580,1281526572,1.8,2.7,4.6,7.1,1.7,2022
+2381,"Foundation, structure, and building exterior contractors",4,Construction,102718,266361721,1.8,3.0,5.1,8.2,1.9,2022
+23811,Poured concrete foundation and structure contractors,5,Construction,22865,78743872,5.2,7.8,12.7,19.1,12.8,2022
+238110,Poured concrete foundation and structure contractors,6,Construction,22865,78743872,5.2,7.8,12.7,19.1,12.8,2022
+23812,Structural steel and precast concrete contractors,5,Construction,3898,19678130,6.9,10.7,17.9,28.3,25.4,2022
+238120,Structural steel and precast concrete contractors,6,Construction,3898,19678130,6.9,10.7,17.9,28.3,25.4,2022
+23813,Framing contractors,5,Construction,13016,29126868,5.9,9.0,16.0,25.1,20.0,2022
+238130,Framing contractors,6,Construction,13016,29126868,5.9,9.0,16.0,25.1,20.0,2022
+23814,Masonry contractors,5,Construction,17971,28593793,4.1,6.6,11.1,17.5,9.0,2022
+238140,Masonry contractors,6,Construction,17971,28593793,4.1,6.6,11.1,17.5,9.0,2022
+23815,Glass and glazing contractors,5,Construction,6618,18880965,6.8,10.3,15.3,23.1,19.2,2022
+238150,Glass and glazing contractors,6,Construction,6618,18880965,6.8,10.3,15.3,23.1,19.2,2022
+23819,"Other foundation, structure, and building exterior contractors",5,Construction,5722,10609999,8.3,11.6,17.8,26.9,27.4,2022
+238190,"Other foundation, structure, and building exterior contractors",6,Construction,5722,10609999,8.3,11.6,17.8,26.9,27.4,2022
+2382,Building equipment contractors,4,Construction,197549,589277528,3.8,5.9,9.5,13.8,7.0,2022
+23821,Electrical contractors and other wiring installation contractors,5,Construction,78975,249247389,4.8,7.8,12.6,19.1,11.6,2022
+238210,Electrical contractors and other wiring installation contractors,6,Construction,78975,249247389,4.8,7.8,12.6,19.1,11.6,2022
+23822,"Plumbing, heating, and air-conditioning contractors",5,Construction,112088,297608835,4.7,6.7,10.2,14.4,9.3,2022
+238220,"Plumbing, heating, and air-conditioning contractors",6,Construction,112088,297608835,4.7,6.7,10.2,14.4,9.3,2022
+23829,Other building equipment contractors,5,Construction,6611,42421304,27.7,32.6,40.1,49.0,221.8,2022
+238290,Other building equipment contractors,6,Construction,6611,42421304,27.7,32.6,40.1,49.0,221.8,2022
+2383,Building finishing contractors,4,Construction,124233,184380038,3.1,4.3,6.5,9.9,4.2,2022
+23832,Painting and wall covering contractors,5,Construction,38036,33027179,2.1,3.4,6.1,10.5,2.9,2022
+238320,Painting and wall covering contractors,6,Construction,38036,33027179,2.1,3.4,6.1,10.5,2.9,2022
+23833,Flooring contractors,5,Construction,17269,24184307,4.7,7.6,13.0,20.9,12.4,2022
+238330,Flooring contractors,6,Construction,17269,24184307,4.7,7.6,13.0,20.9,12.4,2022
+23834,Tile and terrazzo contractors,5,Construction,10469,12231379,6.4,9.3,13.8,20.7,18.6,2022
+238340,Tile and terrazzo contractors,6,Construction,10469,12231379,6.4,9.3,13.8,20.7,18.6,2022
+23835,Finish carpentry contractors,5,Construction,31865,42726232,4.4,6.9,10.8,16.5,9.1,2022
+238350,Finish carpentry contractors,6,Construction,31865,42726232,4.4,6.9,10.8,16.5,9.1,2022
+23839,Other building finishing contractors,5,Construction,7065,14419677,6.6,10.5,17.4,26.3,23.2,2022
+238390,Other building finishing contractors,6,Construction,7065,14419677,6.6,10.5,17.4,26.3,23.2,2022
+2389,Other specialty trade contractors,4,Construction,81322,241507285,2.3,3.5,5.9,9.6,3.2,2022
+23891,Site preparation contractors,5,Construction,39460,158711766,2.2,3.8,7.3,12.3,3.8,2022
+238910,Site preparation contractors,6,Construction,39460,158711766,2.2,3.8,7.3,12.3,3.8,2022
+31-33,Manufacturing,2,Manufacturing,240644,7048663670,6.9,10.8,18.4,29.0,24.9,2022
+311,Food manufacturing,3,Manufacturing,24888,1039160583,16.2,23.2,34.5,47.5,97.4,2022
+3111,Animal food manufacturing,4,Manufacturing,1241,74730488,25.4,37.4,52.3,68.2,276.2,2022
+31111,Animal food manufacturing,5,Manufacturing,1241,74730488,25.4,37.4,52.3,68.2,276.2,2022
+311119,Other animal food manufacturing,6,Manufacturing,890,47276859,23.3,36.6,50.5,68.4,218.9,2022
+3112,Grain and oilseed milling,4,Manufacturing,628,130432621,49.7,61.0,76.0,89.0,827.7,2022
+31121,Flour milling and malt manufacturing,5,Manufacturing,339,24076040,35.4,48.2,67.9,87.5,479.1,2022
+311211,Flour milling,6,Manufacturing,238,18525930,45.4,61.0,79.7,93.5,738.9,2022
+311212,Rice milling,6,Manufacturing,67,4554571,47.2,66.6,91.2,99.6,745.4,2022
+311213,Malt manufacturing,6,Manufacturing,37,995539,84.2,97.2,99.3,100.0,1909.3,2022
+31122,Starch and vegetable fats and oils manufacturing,5,Manufacturing,221,95380938,64.2,75.1,88.7,97.6,1286.3,2022
+311221,Wet corn milling and starch manufacturing,6,Manufacturing,40,17480531,79.9,97.9,99.7,100.0,1974.3,2022
+311225,Fats and oils refining and blending,6,Manufacturing,91,17847749,54.1,71.0,93.5,99.7,891.0,2022
+31123,Breakfast cereal manufacturing,5,Manufacturing,77,10975643,86.6,93.3,99.3,99.9,2539.1,2022
+311230,Breakfast cereal manufacturing,6,Manufacturing,77,10975643,86.6,93.3,99.3,99.9,2539.1,2022
+3113,Sugar and confectionery product manufacturing,4,Manufacturing,1773,42128019,31.4,41.6,59.5,78.0,390.4,2022
+31131,Sugar manufacturing,5,Manufacturing,46,10962064,44.1,66.3,93.5,100.0,759.7,2022
+311313,Beet sugar manufacturing,6,Manufacturing,12,4359901,78.6,99.0,100.0,100.0,2075.0,2022
+311314,Cane sugar manufacturing,6,Manufacturing,34,6602163,58.2,78.5,98.2,100.0,1189.5,2022
+31134,Nonchocolate confectionery manufacturing,5,Manufacturing,534,11509278,33.0,44.6,68.2,87.4,433.6,2022
+311340,Nonchocolate confectionery manufacturing,6,Manufacturing,534,11509278,33.0,44.6,68.2,87.4,433.6,2022
+31135,Chocolate and chocolate confectionery manufacturing,5,Manufacturing,1208,19656677,51.2,66.1,78.9,89.2,902.8,2022
+311351,Chocolate and confectionery manufacturing from cacao beans,6,Manufacturing,296,5266311,53.4,78.7,93.2,97.0,960.7,2022
+3114,Fruit and vegetable preserving and specialty food manufacturing,4,Manufacturing,1674,89715762,20.6,31.1,46.8,64.2,171.3,2022
+31141,Frozen food manufacturing,5,Manufacturing,649,43837679,31.5,45.8,65.4,80.6,360.5,2022
+311411,"Frozen fruit, juice, and vegetable manufacturing",6,Manufacturing,140,18310280,58.4,71.2,85.0,97.4,1035.4,2022
+311412,Frozen specialty food manufacturing,6,Manufacturing,513,25527399,34.8,49.4,69.1,83.4,495.0,2022
+31142,"Fruit and vegetable canning, pickling, and drying",5,Manufacturing,1040,45878083,23.1,32.2,49.9,70.2,269.2,2022
+311421,Fruit and vegetable canning,6,Manufacturing,709,27392979,19.8,32.3,55.1,78.8,205.6,2022
+311423,Dried and dehydrated food manufacturing,6,Manufacturing,239,8641507,33.3,47.6,70.2,86.9,478.2,2022
+3115,Dairy product manufacturing,4,Manufacturing,1176,157245210,19.0,30.1,52.6,75.3,202.8,2022
+31151,Dairy product (except frozen) manufacturing,5,Manufacturing,766,146858804,19.6,31.3,54.1,77.4,213.6,2022
+311511,Fluid milk manufacturing,6,Manufacturing,241,50571309,40.4,54.3,74.6,92.2,652.3,2022
+311513,Cheese manufacturing,6,Manufacturing,397,66303118,28.5,47.1,71.9,90.8,364.1,2022
+311514,"Dry, condensed, and evaporated dairy product manufacturing",6,Manufacturing,129,21105376,35.3,50.3,75.0,94.4,478.9,2022
+31152,Ice cream and frozen dessert manufacturing,5,Manufacturing,421,10386406,47.5,62.6,80.1,92.9,691.9,2022
+311520,Ice cream and frozen dessert manufacturing,6,Manufacturing,421,10386406,47.5,62.6,80.1,92.9,691.9,2022
+3116,Animal slaughtering and processing,4,Manufacturing,3149,303646203,42.7,52.9,65.0,77.2,559.4,2022
+31161,Animal slaughtering and processing,5,Manufacturing,3149,303646203,42.7,52.9,65.0,77.2,559.4,2022
+311611,Animal (except poultry) slaughtering,6,Manufacturing,1429,124669571,66.0,79.3,89.2,95.1,1250.7,2022
+311612,Meat processed from carcasses,6,Manufacturing,1395,81126161,33.6,41.1,55.0,70.2,335.9,2022
+311615,Poultry processing,6,Manufacturing,302,89913007,39.2,55.4,76.1,91.9,568.1,2022
+3117,Seafood product preparation and packaging,4,Manufacturing,401,14628998,20.4,32.6,59.0,80.2,229.1,2022
+31171,Seafood product preparation and packaging,5,Manufacturing,401,14628998,20.4,32.6,59.0,80.2,229.1,2022
+311710,Seafood product preparation and packaging,6,Manufacturing,401,14628998,20.4,32.6,59.0,80.2,229.1,2022
+3118,Bakeries and tortilla manufacturing,4,Manufacturing,11024,84055439,19.7,28.1,42.3,57.2,147.4,2022
+31181,Bread and bakery product manufacturing,5,Manufacturing,9932,52447439,25.1,33.1,44.7,58.0,243.6,2022
+311811,Retail bakeries,6,Manufacturing,7156,6118018,2.6,4.4,8.4,14.8,5.3,2022
+311812,Commercial bakeries,6,Manufacturing,2609,38164287,34.5,43.7,57.2,70.7,439.9,2022
+311813,"Frozen cakes, pies, and other pastries manufacturing",6,Manufacturing,214,8165134,25.6,39.1,65.3,89.8,301.5,2022
+31182,"Cookie, cracker, and pasta manufacturing",5,Manufacturing,724,25682151,27.4,40.8,63.3,82.7,332.6,2022
+311821,Cookie and cracker manufacturing,6,Manufacturing,386,10292170,38.0,55.7,76.9,92.6,523.9,2022
+311824,"Dry pasta, dough, and flour mixes manufacturing from purchased flour",6,Manufacturing,344,15389981,38.3,53.2,75.4,91.5,641.6,2022
+311911,Roasted nuts and peanut butter manufacturing,6,Manufacturing,239,14422347,29.6,46.3,72.3,92.7,370.4,2022
+31192,Coffee and tea manufacturing,5,Manufacturing,1030,14715412,41.6,54.2,71.9,85.7,589.0,2022
+311920,Coffee and tea manufacturing,6,Manufacturing,1030,14715412,41.6,54.2,71.9,85.7,589.0,2022
+31194,Seasoning and dressing manufacturing,5,Manufacturing,800,29830233,23.6,33.8,51.2,70.8,216.0,2022
+311941,"Mayonnaise, dressing, and other prepared sauce manufacturing",6,Manufacturing,361,14719378,34.0,48.9,70.4,89.1,454.1,2022
+311942,Spice and extract manufacturing,6,Manufacturing,447,15110855,30.0,41.1,58.7,78.5,370.2,2022
+31199,All other food manufacturing,5,Manufacturing,1656,43654914,23.0,31.1,46.2,63.9,226.4,2022
+311999,All other miscellaneous food manufacturing,6,Manufacturing,741,16524968,26.9,37.8,57.0,78.9,301.1,2022
+312,Beverage and tobacco product manufacturing,3,Manufacturing,11425,174997491,34.2,48.0,62.4,75.0,391.8,2022
+3121,Beverage manufacturing,4,Manufacturing,11304,124092068,27.1,38.9,54.5,69.1,263.1,2022
+31211,Soft drink and ice manufacturing,5,Manufacturing,863,51547051,43.5,55.4,74.5,89.6,695.0,2022
+312113,Ice manufacturing,6,Manufacturing,268,1178393,60.6,65.7,74.8,86.7,1274.3,2022
+31214,Distilleries,5,Manufacturing,1230,18833463,45.3,67.4,82.3,89.7,699.8,2022
+312140,Distilleries,6,Manufacturing,1230,18833463,45.3,67.4,82.3,89.7,699.8,2022
+313,Textile mills,3,Manufacturing,1461,27023353,19.3,27.6,41.9,58.8,144.7,2022
+3131,"Fiber, yarn, and thread mills",4,Manufacturing,215,6637831,54.2,72.2,86.3,96.0,952.5,2022
+31311,"Fiber, yarn, and thread mills",5,Manufacturing,215,6637831,54.2,72.2,86.3,96.0,952.5,2022
+313110,"Fiber, yarn, and thread mills",6,Manufacturing,215,6637831,54.2,72.2,86.3,96.0,952.5,2022
+3132,Fabric mills,4,Manufacturing,651,13597602,17.6,27.8,45.9,66.5,151.3,2022
+31321,Broadwoven fabric mills,5,Manufacturing,228,3625631,34.0,45.9,70.6,88.6,441.9,2022
+313210,Broadwoven fabric mills,6,Manufacturing,228,3625631,34.0,45.9,70.6,88.6,441.9,2022
+31322,Narrow fabric mills and schiffli machine embroidery,5,Manufacturing,154,983686,30.8,46.1,69.5,88.8,385.1,2022
+313220,Narrow fabric mills and schiffli machine embroidery,6,Manufacturing,154,983686,30.8,46.1,69.5,88.8,385.1,2022
+31323,Nonwoven fabric mills,5,Manufacturing,182,7697185,26.5,42.3,66.0,87.1,322.8,2022
+313230,Nonwoven fabric mills,6,Manufacturing,182,7697185,26.5,42.3,66.0,87.1,322.8,2022
+31324,Knit fabric mills,5,Manufacturing,97,1291100,37.5,54.6,77.1,95.7,494.4,2022
+313240,Knit fabric mills,6,Manufacturing,97,1291100,37.5,54.6,77.1,95.7,494.4,2022
+3133,Textile and fabric finishing and fabric coating mills,4,Manufacturing,635,6787920,18.4,27.6,46.7,68.5,177.7,2022
+31331,Textile and fabric finishing mills,5,Manufacturing,501,3903614,29.8,42.3,59.8,79.2,386.4,2022
+313310,Textile and fabric finishing mills,6,Manufacturing,501,3903614,29.8,42.3,59.8,79.2,386.4,2022
+31332,Fabric coating mills,5,Manufacturing,138,2884306,24.7,39.2,64.3,88.7,288.6,2022
+313320,Fabric coating mills,6,Manufacturing,138,2884306,24.7,39.2,64.3,88.7,288.6,2022
+314,Textile product mills,3,Manufacturing,4734,23081651,26.7,32.5,42.5,54.7,262.3,2022
+3141,Textile furnishings mills,4,Manufacturing,1188,12670188,41.8,51.9,68.1,82.0,616.2,2022
+31411,Carpet and rug mills,5,Manufacturing,184,9343351,56.7,70.4,87.8,96.9,1110.9,2022
+314110,Carpet and rug mills,6,Manufacturing,184,9343351,56.7,70.4,87.8,96.9,1110.9,2022
+31412,Curtain and linen mills,5,Manufacturing,1004,3326837,21.1,32.2,52.3,67.3,192.1,2022
+314120,Curtain and linen mills,6,Manufacturing,1004,3326837,21.1,32.2,52.3,67.3,192.1,2022
+3149,Other textile product mills,4,Manufacturing,3552,10411463,12.7,17.7,28.1,44.2,71.1,2022
+31491,Textile bag and canvas mills,5,Manufacturing,1340,4360223,11.7,19.1,36.1,54.5,87.5,2022
+314910,Textile bag and canvas mills,6,Manufacturing,1340,4360223,11.7,19.1,36.1,54.5,87.5,2022
+31499,All other textile product mills,5,Manufacturing,2213,6051240,20.0,27.7,41.5,57.1,155.0,2022
+314994,"Rope, cordage, twine, tire cord, and tire fabric mills",6,Manufacturing,106,1886722,39.0,57.2,80.8,95.2,607.0,2022
+315,Apparel manufacturing,3,Manufacturing,4634,9938117,7.3,11.9,20.3,34.3,31.6,2022
+3151,Apparel knitting mills,4,Manufacturing,222,1215674,24.3,36.8,59.1,82.5,273.8,2022
+31512,Apparel knitting mills,5,Manufacturing,222,1215674,24.3,36.8,59.1,82.5,273.8,2022
+315120,Apparel knitting mills,6,Manufacturing,222,1215674,24.3,36.8,59.1,82.5,273.8,2022
+3152,Cut and sew apparel manufacturing,4,Manufacturing,3770,7521952,9.6,15.0,25.0,41.0,48.8,2022
+31521,Cut and sew apparel contractors,5,Manufacturing,2106,2041335,13.3,19.7,31.0,46.0,80.1,2022
+315210,Cut and sew apparel contractors,6,Manufacturing,2106,2041335,13.3,19.7,31.0,46.0,80.1,2022
+31525,Cut and sew apparel manufacturing (except contractors),5,Manufacturing,1678,5480617,13.2,19.8,33.1,52.1,84.3,2022
+315250,Cut and sew apparel manufacturing (except contractors),6,Manufacturing,1678,5480617,13.2,19.8,33.1,52.1,84.3,2022
+3159,Apparel accessories and other apparel manufacturing,4,Manufacturing,650,1200491,19.1,27.6,43.3,63.1,151.4,2022
+31599,Apparel accessories and other apparel manufacturing,5,Manufacturing,650,1200491,19.1,27.6,43.3,63.1,151.4,2022
+315990,Apparel accessories and other apparel manufacturing,6,Manufacturing,650,1200491,19.1,27.6,43.3,63.1,151.4,2022
+316,Leather and allied product manufacturing,3,Manufacturing,1051,4800813,19.4,30.9,52.0,69.1,178.6,2022
+3161,Leather and hide tanning and finishing,4,Manufacturing,156,1148391,60.1,71.0,87.9,96.1,1155.6,2022
+31611,Leather and hide tanning and finishing,5,Manufacturing,156,1148391,60.1,71.0,87.9,96.1,1155.6,2022
+316110,Leather and hide tanning and finishing,6,Manufacturing,156,1148391,60.1,71.0,87.9,96.1,1155.6,2022
+3162,Footwear manufacturing,4,Manufacturing,175,1603240,36.6,58.5,80.9,94.9,523.1,2022
+31621,Footwear manufacturing,5,Manufacturing,175,1603240,36.6,58.5,80.9,94.9,523.1,2022
+316210,Footwear manufacturing,6,Manufacturing,175,1603240,36.6,58.5,80.9,94.9,523.1,2022
+3169,Other leather and allied product manufacturing,4,Manufacturing,722,2049182,25.5,37.6,54.5,69.0,249.8,2022
+31699,Other leather and allied product manufacturing,5,Manufacturing,722,2049182,25.5,37.6,54.5,69.0,249.8,2022
+316990,Other leather and allied product manufacturing,6,Manufacturing,722,2049182,25.5,37.6,54.5,69.0,249.8,2022
+321,Wood product manufacturing,3,Manufacturing,12029,172445535,12.7,19.7,32.7,46.1,76.2,2022
+3211,Sawmills and wood preservation,4,Manufacturing,2677,51782571,19.5,32.4,47.4,59.3,166.9,2022
+32111,Sawmills and wood preservation,5,Manufacturing,2677,51782571,19.5,32.4,47.4,59.3,166.9,2022
+321113,Sawmills,6,Manufacturing,2439,41310536,22.2,35.7,47.0,59.3,191.0,2022
+321114,Wood preservation,6,Manufacturing,250,10472035,54.9,66.1,78.8,91.0,926.6,2022
+3212,"Veneer, plywood, and engineered wood product manufacturing",4,Manufacturing,1026,41161913,23.8,39.8,58.0,71.5,247.3,2022
+32121,"Veneer, plywood, and engineered wood product manufacturing",5,Manufacturing,1026,41161913,23.8,39.8,58.0,71.5,247.3,2022
+321211,Hardwood veneer and plywood manufacturing,6,Manufacturing,174,3523885,39.8,54.4,73.7,90.2,579.2,2022
+321212,Softwood veneer and plywood manufacturing,6,Manufacturing,52,6611995,53.3,69.3,93.0,,1036.2,2022
+321215,Engineered wood member manufacturing,6,Manufacturing,715,19802753,31.8,45.0,57.2,70.0,340.8,2022
+321219,Reconstituted wood product manufacturing,6,Manufacturing,109,11223280,51.5,73.8,91.9,99.0,882.7,2022
+3219,Other wood product manufacturing,4,Manufacturing,8457,79501051,15.1,25.0,36.9,46.4,99.4,2022
+32191,Millwork,5,Manufacturing,2976,37262087,27.4,40.8,53.0,64.0,263.4,2022
+321911,Wood window and door manufacturing,6,Manufacturing,936,19020657,48.8,60.9,74.0,84.6,718.0,2022
+321918,Other millwork (including flooring),6,Manufacturing,1459,10191900,22.0,29.9,44.5,60.0,225.3,2022
+32192,Wood container and pallet manufacturing,5,Manufacturing,2516,18265295,16.2,21.8,30.8,41.1,88.1,2022
+321920,Wood container and pallet manufacturing,6,Manufacturing,2516,18265295,16.2,21.8,30.8,41.1,88.1,2022
+32199,All other wood product manufacturing,5,Manufacturing,3008,23973669,28.9,37.8,48.0,59.2,252.9,2022
+321992,Prefabricated wood building manufacturing,6,Manufacturing,655,8085416,38.2,46.9,57.2,70.5,494.6,2022
+321999,All other miscellaneous wood product manufacturing,6,Manufacturing,2205,8823755,21.0,28.3,40.9,53.8,164.3,2022
+322,Paper manufacturing,3,Manufacturing,2301,220327671,32.5,44.5,57.2,68.9,348.3,2022
+3221,"Pulp, paper, and paperboard mills",4,Manufacturing,156,82523903,44.6,62.6,79.3,93.4,665.2,2022
+32211,Pulp mills,5,Manufacturing,18,8716945,78.2,95.7,100.0,100.0,2005.0,2022
+322110,Pulp mills,6,Manufacturing,18,8716945,78.2,95.7,100.0,100.0,2005.0,2022
+32212,Paper mills,5,Manufacturing,89,32583224,43.2,58.9,82.2,98.1,617.4,2022
+322120,Paper mills,6,Manufacturing,89,32583224,43.2,58.9,82.2,98.1,617.4,2022
+32213,Paperboard mills,5,Manufacturing,63,41223734,67.5,81.6,93.2,99.8,1461.5,2022
+322130,Paperboard mills,6,Manufacturing,63,41223734,67.5,81.6,93.2,99.8,1461.5,2022
+3222,Converted paper product manufacturing,4,Manufacturing,2197,137803768,25.8,35.6,48.1,61.0,230.4,2022
+32221,Paperboard container manufacturing,5,Manufacturing,1062,85060320,41.3,53.0,64.9,75.0,535.7,2022
+322211,Corrugated and solid fiber box manufacturing,6,Manufacturing,603,57188311,52.1,62.5,73.0,81.9,882.2,2022
+322219,Other paperboard container manufacturing,6,Manufacturing,159,9178090,53.4,74.2,85.9,94.4,872.1,2022
+32222,Paper bag and coated and treated paper manufacturing,5,Manufacturing,485,26755674,22.7,32.9,51.3,71.9,221.4,2022
+322220,Paper bag and coated and treated paper manufacturing,6,Manufacturing,485,26755674,22.7,32.9,51.3,71.9,221.4,2022
+32223,Stationery product manufacturing,5,Manufacturing,295,6280826,39.0,50.2,67.5,86.1,511.7,2022
+322230,Stationery product manufacturing,6,Manufacturing,295,6280826,39.0,50.2,67.5,86.1,511.7,2022
+322299,All other converted paper product manufacturing,6,Manufacturing,318,5593892,17.8,27.3,47.7,72.7,165.5,2022
+323,Printing and related support activities,3,Manufacturing,21467,90913743,9.3,13.8,21.7,32.7,41.1,2022
+3231,Printing and related support activities,4,Manufacturing,21467,90913743,9.3,13.8,21.7,32.7,41.1,2022
+32311,Printing,5,Manufacturing,20629,88141961,9.5,14.1,22.3,33.4,42.7,2022
+323111,Commercial printing (except screen and books),6,Manufacturing,14115,70699618,11.4,16.4,25.5,36.9,58.7,2022
+323113,Commercial screen printing,6,Manufacturing,5708,12483532,16.4,21.0,30.1,40.5,102.8,2022
+323117,Books printing,6,Manufacturing,852,4958811,38.7,54.3,72.1,86.6,508.4,2022
+32312,Support activities for printing,5,Manufacturing,867,2771782,28.9,36.8,49.3,65.0,262.5,2022
+323120,Support activities for printing,6,Manufacturing,867,2771782,28.9,36.8,49.3,65.0,262.5,2022
+324,Petroleum and coal products manufacturing,3,Manufacturing,790,883348475,49.5,68.4,89.5,96.6,763.8,2022
+3241,Petroleum and coal products manufacturing,4,Manufacturing,790,883348475,49.5,68.4,89.5,96.6,763.8,2022
+32411,Petroleum refineries,5,Manufacturing,50,825220146,52.2,72.2,94.6,100.0,853.2,2022
+324110,Petroleum refineries,6,Manufacturing,50,825220146,52.2,72.2,94.6,100.0,853.2,2022
+32412,"Asphalt paving, roofing, and saturated materials manufacturing",5,Manufacturing,525,33122340,31.2,43.8,59.6,74.8,341.9,2022
+324121,Asphalt paving mixture and block manufacturing,6,Manufacturing,459,18168879,22.2,31.5,47.4,66.0,192.3,2022
+324122,Asphalt shingle and coating materials manufacturing,6,Manufacturing,72,14953461,66.9,83.7,95.9,99.8,1366.0,2022
+325,Chemical manufacturing,3,Manufacturing,10806,900972532,13.0,20.0,32.2,46.5,76.8,2022
+3251,Basic chemical manufacturing,4,Manufacturing,1374,297894043,23.8,33.2,48.2,64.9,221.7,2022
+32512,Industrial gas manufacturing,5,Manufacturing,93,16411762,66.8,85.5,97.3,99.8,1299.4,2022
+325120,Industrial gas manufacturing,6,Manufacturing,93,16411762,66.8,85.5,97.3,99.8,1299.4,2022
+32513,Synthetic dye and pigment manufacturing,5,Manufacturing,100,6449989,47.8,67.9,88.6,98.2,852.6,2022
+325130,Synthetic dye and pigment manufacturing,6,Manufacturing,100,6449989,47.8,67.9,88.6,98.2,852.6,2022
+32518,Other basic inorganic chemical manufacturing,5,Manufacturing,413,41859212,24.9,33.7,51.1,73.9,255.2,2022
+325180,Other basic inorganic chemical manufacturing,6,Manufacturing,413,41859212,24.9,33.7,51.1,73.9,255.2,2022
+32519,Other basic organic chemical manufacturing,5,Manufacturing,806,155615286,18.8,28.3,45.3,65.5,157.0,2022
+325193,Ethyl alcohol manufacturing,6,Manufacturing,118,50039523,35.5,46.8,64.8,85.2,470.2,2022
+325194,"Cyclic crude, intermediate, and gum and wood chemical manufacturing",6,Manufacturing,40,5490928,57.1,77.2,97.5,100.0,1294.9,2022
+325199,All other basic organic chemical manufacturing,6,Manufacturing,663,100084835,24.6,35.7,54.7,76.1,254.6,2022
+3252,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",4,Manufacturing,1291,129679869,30.9,42.0,58.5,74.0,338.8,2022
+32521,Resin and synthetic rubber manufacturing,5,Manufacturing,1195,122875063,32.7,44.3,60.2,75.3,371.8,2022
+325211,Plastics material and resin manufacturing,6,Manufacturing,1071,114389117,35.0,47.5,64.1,78.7,424.0,2022
+325212,Synthetic rubber manufacturing,6,Manufacturing,141,8485946,34.3,50.8,78.4,95.5,473.0,2022
+32522,Artificial and synthetic fibers and filaments manufacturing,5,Manufacturing,107,6804806,44.4,61.8,83.5,97.0,712.4,2022
+325220,Artificial and synthetic fibers and filaments manufacturing,6,Manufacturing,107,6804806,44.4,61.8,83.5,97.0,712.4,2022
+3253,"Pesticide, fertilizer, and other agricultural chemical manufacturing",4,Manufacturing,766,48810581,38.9,57.9,73.8,85.3,530.5,2022
+32531,Fertilizer and compost manufacturing,5,Manufacturing,563,30186863,54.9,68.3,79.9,87.8,948.4,2022
+325312,Phosphatic fertilizer manufacturing,6,Manufacturing,60,8927961,86.4,92.0,97.6,99.9,2402.4,2022
+325314,Fertilizer (mixing only) manufacturing,6,Manufacturing,321,5502613,30.6,41.6,59.0,80.3,421.5,2022
+325315,Compost manufacturing,6,Manufacturing,88,755865,41.9,54.7,75.9,95.1,642.8,2022
+32532,Pesticide and other agricultural chemical manufacturing,5,Manufacturing,209,18623718,59.6,71.3,87.2,96.1,1088.7,2022
+325320,Pesticide and other agricultural chemical manufacturing,6,Manufacturing,209,18623718,59.6,71.3,87.2,96.1,1088.7,2022
+3254,Pharmaceutical and medicine manufacturing,4,Manufacturing,2222,234230172,28.4,40.8,57.4,71.6,313.7,2022
+32541,Pharmaceutical and medicine manufacturing,5,Manufacturing,2222,234230172,28.4,40.8,57.4,71.6,313.7,2022
+325411,Medicinal and botanical manufacturing,6,Manufacturing,650,13906044,24.7,33.3,50.7,72.0,258.3,2022
+325412,Pharmaceutical preparation manufacturing,6,Manufacturing,1131,149880541,39.8,54.1,69.8,80.8,557.0,2022
+325413,In-vitro diagnostic substance manufacturing,6,Manufacturing,207,23121300,48.8,65.6,86.2,96.1,752.2,2022
+325414,Biological product (except diagnostic) manufacturing,6,Manufacturing,304,47322287,30.7,48.6,73.9,93.1,404.8,2022
+3255,"Paint, coating, and adhesive manufacturing",4,Manufacturing,1422,53230004,31.3,45.3,62.2,74.0,401.4,2022
+32551,Paint and coating manufacturing,5,Manufacturing,1082,33176861,45.5,62.1,72.2,81.3,785.1,2022
+325510,Paint and coating manufacturing,6,Manufacturing,1082,33176861,45.5,62.1,72.2,81.3,785.1,2022
+32552,Adhesive manufacturing,5,Manufacturing,358,20053143,30.7,42.8,62.4,81.8,359.6,2022
+325520,Adhesive manufacturing,6,Manufacturing,358,20053143,30.7,42.8,62.4,81.8,359.6,2022
+32561,Soap and cleaning compound manufacturing,5,Manufacturing,1252,45830926,42.8,51.5,63.7,77.7,651.8,2022
+325612,Polish and other sanitation good manufacturing,6,Manufacturing,421,8430277,24.7,35.8,57.1,80.7,251.7,2022
+3259,Other chemical product and preparation manufacturing,4,Manufacturing,1760,54747816,8.6,15.1,28.8,49.0,59.4,2022
+32591,Printing ink manufacturing,5,Manufacturing,182,4561134,47.2,60.4,77.2,92.3,667.2,2022
+325910,Printing ink manufacturing,6,Manufacturing,182,4561134,47.2,60.4,77.2,92.3,667.2,2022
+32592,Explosives manufacturing,5,Manufacturing,48,3162578,53.3,76.0,95.9,100.0,1014.1,2022
+325920,Explosives manufacturing,6,Manufacturing,48,3162578,53.3,76.0,95.9,100.0,1014.1,2022
+32599,All other chemical product and preparation manufacturing,5,Manufacturing,1534,47024104,10.0,17.5,32.3,52.8,72.8,2022
+325991,Custom compounding of purchased resins,6,Manufacturing,318,13691685,22.3,35.6,60.3,80.1,240.6,2022
+325992,"Photographic film, paper, plate, chemical, and copy toner manufacturing",6,Manufacturing,115,4896895,63.9,84.2,96.6,99.4,1252.2,2022
+325998,All other miscellaneous chemical product and preparation manufacturing,6,Manufacturing,1112,28435524,15.8,24.5,40.2,61.9,121.2,2022
+326,Plastics and rubber products manufacturing,3,Manufacturing,8491,303212658,8.0,12.3,20.8,33.2,32.8,2022
+3261,Plastics product manufacturing,4,Manufacturing,7270,253228580,8.1,12.4,20.9,33.2,34.5,2022
+32611,Plastics packaging materials and unlaminated film and sheet manufacturing,5,Manufacturing,864,50487224,20.3,31.3,47.8,65.1,171.1,2022
+326111,Plastics bag and pouch manufacturing,6,Manufacturing,276,16370399,34.9,51.4,70.3,85.6,473.1,2022
+326112,Plastics packaging film and sheet (including laminated) manufacturing,6,Manufacturing,316,17084328,29.0,39.9,59.6,77.4,314.1,2022
+326113,Unlaminated plastics film and sheet (except packaging) manufacturing,6,Manufacturing,320,17032497,26.6,37.9,59.2,82.5,294.7,2022
+32612,"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",5,Manufacturing,531,27181158,27.8,40.8,59.9,78.0,290.7,2022
+326122,Plastics pipe and pipe fitting manufacturing,6,Manufacturing,269,18162585,33.1,50.0,74.4,91.3,419.8,2022
+32613,"Laminated plastics plate, sheet (except packaging), and shape manufacturing",5,Manufacturing,190,4657791,28.1,43.0,65.7,89.6,368.9,2022
+326130,"Laminated plastics plate, sheet (except packaging), and shape manufacturing",6,Manufacturing,190,4657791,28.1,43.0,65.7,89.6,368.9,2022
+32615,Urethane and other foam product (except polystyrene) manufacturing,5,Manufacturing,472,13209893,27.9,38.2,54.4,72.0,277.7,2022
+326150,Urethane and other foam product (except polystyrene) manufacturing,6,Manufacturing,472,13209893,27.9,38.2,54.4,72.0,277.7,2022
+32616,Plastics bottle manufacturing,5,Manufacturing,200,17141130,47.4,62.3,82.7,93.7,700.5,2022
+326160,Plastics bottle manufacturing,6,Manufacturing,200,17141130,47.4,62.3,82.7,93.7,700.5,2022
+32619,Other plastics product manufacturing,5,Manufacturing,4939,128772421,8.1,11.9,20.3,34.6,35.8,2022
+326191,Plastics plumbing fixture manufacturing,6,Manufacturing,249,6051009,37.4,52.5,71.6,90.2,517.7,2022
+326199,All other plastics product manufacturing,6,Manufacturing,4697,122721412,8.5,12.5,21.2,35.7,38.8,2022
+3262,Rubber product manufacturing,4,Manufacturing,1280,49984078,31.1,42.6,59.2,71.0,344.0,2022
+32621,Tire manufacturing,5,Manufacturing,273,22873780,60.4,82.2,91.3,96.6,1127.2,2022
+326211,Tire manufacturing (except retreading),6,Manufacturing,72,21250856,64.0,87.4,97.0,99.9,1279.1,2022
+326212,Tire retreading,6,Manufacturing,206,1622924,27.4,39.9,60.3,81.1,327.0,2022
+32622,Rubber and plastics hoses and belting manufacturing,5,Manufacturing,187,7077342,42.3,55.0,71.4,90.0,600.4,2022
+326220,Rubber and plastics hoses and belting manufacturing,6,Manufacturing,187,7077342,42.3,55.0,71.4,90.0,600.4,2022
+32629,Other rubber product manufacturing,5,Manufacturing,839,20032956,18.5,30.6,47.3,63.0,161.7,2022
+326291,Rubber product manufacturing for mechanical use,6,Manufacturing,328,7708825,29.5,45.5,64.5,79.9,333.6,2022
+326299,All other rubber product manufacturing,6,Manufacturing,531,12324131,24.6,37.3,51.3,70.1,229.3,2022
+327,Nonmetallic mineral product manufacturing,3,Manufacturing,9104,164789647,9.3,16.9,30.6,45.3,61.0,2022
+3271,Clay product and refractory manufacturing,4,Manufacturing,866,9334029,22.4,33.8,53.8,71.4,213.0,2022
+32711,"Pottery, ceramics, and plumbing fixture manufacturing",5,Manufacturing,536,2654389,52.4,62.9,76.4,88.5,954.7,2022
+327110,"Pottery, ceramics, and plumbing fixture manufacturing",6,Manufacturing,536,2654389,52.4,62.9,76.4,88.5,954.7,2022
+32712,Clay building material and refractories manufacturing,5,Manufacturing,334,6679640,23.3,35.7,57.1,77.2,256.4,2022
+327120,Clay building material and refractories manufacturing,6,Manufacturing,334,6679640,23.3,35.7,57.1,77.2,256.4,2022
+327211,Flat glass manufacturing,6,Manufacturing,61,5329560,69.4,81.6,93.5,99.8,1437.3,2022
+327212,Other pressed and blown glass and glassware manufacturing,6,Manufacturing,349,3611514,48.6,64.1,82.7,94.2,766.1,2022
+327215,Glass product manufacturing made of purchased glass,6,Manufacturing,942,16285718,35.7,48.4,64.0,79.8,439.3,2022
+3273,Cement and concrete product manufacturing,4,Manufacturing,3879,80291806,16.4,22.6,35.4,49.1,100.5,2022
+32731,Cement manufacturing,5,Manufacturing,95,11712435,51.7,72.4,96.3,99.5,1033.8,2022
+327310,Cement manufacturing,6,Manufacturing,95,11712435,51.7,72.4,96.3,99.5,1033.8,2022
+32732,Ready-mix concrete manufacturing,5,Manufacturing,1994,42951826,15.0,22.0,35.2,50.2,99.2,2022
+327320,Ready-mix concrete manufacturing,6,Manufacturing,1994,42951826,15.0,22.0,35.2,50.2,99.2,2022
+32733,"Concrete pipe, brick, and block manufacturing",5,Manufacturing,424,7547417,30.8,40.7,57.7,73.6,358.1,2022
+327332,Concrete pipe manufacturing,6,Manufacturing,69,1723849,47.6,66.1,84.7,99.0,857.2,2022
+32739,Other concrete product manufacturing,5,Manufacturing,1488,18080128,16.3,26.2,40.3,54.4,125.9,2022
+327390,Other concrete product manufacturing,6,Manufacturing,1488,18080128,16.3,26.2,40.3,54.4,125.9,2022
+3274,Lime and gypsum product manufacturing,4,Manufacturing,124,11952232,64.7,86.3,96.9,99.5,1246.8,2022
+32741,Lime manufacturing,5,Manufacturing,29,2762276,82.6,94.6,99.8,100.0,1931.3,2022
+327410,Lime manufacturing,6,Manufacturing,29,2762276,82.6,94.6,99.8,100.0,1931.3,2022
+32742,Gypsum product manufacturing,5,Manufacturing,95,9189956,84.1,96.1,98.8,99.8,1934.6,2022
+327420,Gypsum product manufacturing,6,Manufacturing,95,9189956,84.1,96.1,98.8,99.8,1934.6,2022
+3279,Other nonmetallic mineral product manufacturing,4,Manufacturing,2979,31325117,19.3,31.9,45.4,59.1,159.2,2022
+32799,All other nonmetallic mineral product manufacturing,5,Manufacturing,2745,27536799,20.9,32.7,46.5,60.7,172.3,2022
+327991,Cut stone and stone product manufacturing,6,Manufacturing,2203,7964526,11.5,15.2,21.8,32.3,52.0,2022
+327992,Ground or treated mineral and earth manufacturing,6,Manufacturing,148,6446945,36.1,51.8,72.6,92.7,503.2,2022
+327993,Mineral wool manufacturing,6,Manufacturing,145,7917903,61.4,79.3,92.3,97.6,1106.0,2022
+331,Primary metal manufacturing,3,Manufacturing,2387,323086883,26.4,34.7,49.2,64.6,234.7,2022
+3311,Iron and steel mills and ferroalloy manufacturing,4,Manufacturing,73,129831729,59.5,75.1,94.4,99.7,1071.9,2022
+33111,Iron and steel mills and ferroalloy manufacturing,5,Manufacturing,73,129831729,59.5,75.1,94.4,99.7,1071.9,2022
+331110,Iron and steel mills and ferroalloy manufacturing,6,Manufacturing,73,129831729,59.5,75.1,94.4,99.7,1071.9,2022
+3312,Steel product manufacturing from purchased steel,4,Manufacturing,457,45997887,21.8,31.5,48.6,69.0,196.0,2022
+33121,Iron and steel pipe and tube manufacturing from purchased steel,5,Manufacturing,162,21368091,30.3,45.5,68.5,87.5,388.8,2022
+331210,Iron and steel pipe and tube manufacturing from purchased steel,6,Manufacturing,162,21368091,30.3,45.5,68.5,87.5,388.8,2022
+33122,Rolling and drawing of purchased steel,5,Manufacturing,305,24629796,25.3,36.4,56.1,78.1,249.8,2022
+331221,Rolled steel shape manufacturing,6,Manufacturing,158,16110197,38.7,54.5,76.0,92.7,508.3,2022
+331222,Steel wire drawing,6,Manufacturing,150,8519599,25.2,40.8,65.4,87.4,297.3,2022
+3313,Alumina and aluminum production and processing,4,Manufacturing,257,51142298,38.3,52.9,69.9,85.4,500.4,2022
+33131,Alumina and aluminum production and processing,5,Manufacturing,257,51142298,38.3,52.9,69.9,85.4,500.4,2022
+331314,Secondary smelting and alloying of aluminum,6,Manufacturing,63,8965804,46.9,69.4,90.1,99.8,766.0,2022
+331315,"Aluminum sheet, plate, and foil manufacturing",6,Manufacturing,38,22603978,69.4,89.4,98.8,100.0,1497.5,2022
+3314,Nonferrous metal (except aluminum) production and processing,4,Manufacturing,465,63352936,22.6,35.0,56.3,76.3,235.8,2022
+33141,Nonferrous metal (except aluminum) smelting and refining,5,Manufacturing,81,12285690,56.3,68.3,86.6,99.0,881.9,2022
+331410,Nonferrous metal (except aluminum) smelting and refining,6,Manufacturing,81,12285690,56.3,68.3,86.6,99.0,881.9,2022
+33142,"Copper rolling, drawing, extruding, and alloying",5,Manufacturing,135,35874028,36.6,52.3,78.5,94.8,527.0,2022
+331420,"Copper rolling, drawing, extruding, and alloying",6,Manufacturing,135,35874028,36.6,52.3,78.5,94.8,527.0,2022
+33149,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying",5,Manufacturing,265,15193218,29.7,41.9,59.7,81.8,337.6,2022
+331492,"Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)",6,Manufacturing,143,8591300,29.6,45.0,69.6,91.6,357.4,2022
+3315,Foundries,4,Manufacturing,1211,32762033,20.2,30.4,48.2,63.7,170.4,2022
+33151,Ferrous metal foundries,5,Manufacturing,411,19512420,29.1,46.3,63.8,78.5,337.4,2022
+331511,Iron foundries,6,Manufacturing,214,11890929,41.4,57.8,73.7,88.3,593.1,2022
+331513,Steel foundries (except investment),6,Manufacturing,121,3668100,44.1,59.3,75.1,91.7,730.0,2022
+33152,Nonferrous metal foundries,5,Manufacturing,811,13249613,19.8,32.4,48.8,66.8,177.6,2022
+331523,Nonferrous metal die-casting foundries,6,Manufacturing,273,7627120,25.0,40.8,62.2,82.1,282.5,2022
+331529,Other nonferrous metal foundries (except die-casting),6,Manufacturing,230,2767806,41.4,55.7,73.7,88.7,588.4,2022
+332,Fabricated metal product manufacturing,3,Manufacturing,49631,465673224,5.0,7.9,13.4,20.9,13.7,2022
+3321,Forging and stamping,4,Manufacturing,1671,33200397,12.0,17.3,28.0,42.2,62.2,2022
+33211,Forging and stamping,5,Manufacturing,1671,33200397,12.0,17.3,28.0,42.2,62.2,2022
+332111,Iron and steel forging,6,Manufacturing,155,7205454,36.6,51.2,70.5,89.1,458.9,2022
+332114,Custom roll forming,6,Manufacturing,319,6880414,22.4,35.2,56.0,77.7,225.1,2022
+332117,Powder metallurgy part manufacturing,6,Manufacturing,119,2209252,31.6,46.0,68.7,91.3,387.3,2022
+332119,"Metal crown, closure, and other metal stamping (except automotive)",6,Manufacturing,1062,14138575,9.4,15.8,27.6,44.7,54.7,2022
+3322,Cutlery and handtool manufacturing,4,Manufacturing,901,11002632,26.4,39.9,56.3,73.8,295.8,2022
+33221,Cutlery and handtool manufacturing,5,Manufacturing,901,11002632,26.4,39.9,56.3,73.8,295.8,2022
+332216,Saw blade and handtool manufacturing,6,Manufacturing,699,7801071,26.3,39.9,56.6,74.1,259.4,2022
+3323,Architectural and structural metals manufacturing,4,Manufacturing,13645,153379881,10.7,14.5,21.1,29.3,53.5,2022
+332311,Prefabricated metal building and component manufacturing,6,Manufacturing,746,14480974,26.3,34.8,50.3,67.0,300.3,2022
+332312,Fabricated structural metal manufacturing,6,Manufacturing,2955,55530085,23.9,31.6,41.0,51.4,212.5,2022
+332313,Plate work manufacturing,6,Manufacturing,1980,13580011,8.7,12.0,18.6,30.8,35.0,2022
+33232,Ornamental and architectural metal products manufacturing,5,Manufacturing,8050,69788811,7.4,11.8,19.3,29.1,27.3,2022
+332321,Metal window and door manufacturing,6,Manufacturing,876,19486133,24.8,35.1,51.5,69.2,225.5,2022
+332322,Sheet metal work manufacturing,6,Manufacturing,4434,39514794,7.3,11.5,19.1,29.8,28.2,2022
+332323,Ornamental and architectural metal work manufacturing,6,Manufacturing,2764,10787884,11.2,15.4,24.2,37.0,54.7,2022
+3324,"Boiler, tank, and shipping container manufacturing",4,Manufacturing,1066,43739401,30.9,44.2,58.5,70.7,328.0,2022
+33241,Power boiler and heat exchanger manufacturing,5,Manufacturing,185,7103848,33.9,44.4,63.9,84.1,482.0,2022
+332410,Power boiler and heat exchanger manufacturing,6,Manufacturing,185,7103848,33.9,44.4,63.9,84.1,482.0,2022
+33242,Metal tank (heavy gauge) manufacturing,5,Manufacturing,611,10337800,21.4,28.5,42.3,61.4,195.7,2022
+332420,Metal tank (heavy gauge) manufacturing,6,Manufacturing,611,10337800,21.4,28.5,42.3,61.4,195.7,2022
+33243,"Metal can, box, and other metal container (light gauge) manufacturing",5,Manufacturing,276,26297753,51.4,71.8,86.0,95.9,844.3,2022
+332431,Metal can manufacturing,6,Manufacturing,62,21648002,62.5,84.9,96.8,100.0,1201.7,2022
+332439,Other metal container manufacturing,6,Manufacturing,218,4649751,37.0,54.3,77.5,91.8,491.5,2022
+3325,Hardware manufacturing,4,Manufacturing,534,10740727,34.3,46.3,65.0,82.0,437.6,2022
+33251,Hardware manufacturing,5,Manufacturing,534,10740727,34.3,46.3,65.0,82.0,437.6,2022
+332510,Hardware manufacturing,6,Manufacturing,534,10740727,34.3,46.3,65.0,82.0,437.6,2022
+3326,Spring and wire product manufacturing,4,Manufacturing,874,11094068,17.2,24.4,38.4,55.1,136.5,2022
+33261,Spring and wire product manufacturing,5,Manufacturing,874,11094068,17.2,24.4,38.4,55.1,136.5,2022
+332618,Other fabricated wire product manufacturing,6,Manufacturing,589,6057660,15.2,23.2,38.4,58.0,114.2,2022
+3327,"Machine shops; turned product; and screw, nut, and bolt manufacturing",4,Manufacturing,21402,81097215,3.4,5.5,9.4,15.0,6.4,2022
+33271,Machine shops,5,Manufacturing,16876,44731288,2.0,3.6,7.0,12.0,3.5,2022
+332710,Machine shops,6,Manufacturing,16876,44731288,2.0,3.6,7.0,12.0,3.5,2022
+33272,"Turned product and screw, nut, and bolt manufacturing",5,Manufacturing,4607,36365927,6.5,11.1,19.1,29.7,25.4,2022
+332721,Precision turned product manufacturing,6,Manufacturing,3951,23500308,4.4,7.2,13.5,23.0,13.4,2022
+332722,"Bolt, nut, screw, rivet, and washer manufacturing",6,Manufacturing,669,12865619,18.0,29.6,47.8,67.4,160.2,2022
+3328,"Coating, engraving, heat treating, and allied activities",4,Manufacturing,4690,31687028,21.1,30.1,41.4,51.1,157.5,2022
+33281,"Coating, engraving, heat treating, and allied activities",5,Manufacturing,4690,31687028,21.1,30.1,41.4,51.1,157.5,2022
+332811,Metal heat treating,6,Manufacturing,524,5786168,41.8,51.3,63.1,75.0,517.2,2022
+332812,"Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers",6,Manufacturing,2317,17981609,32.9,45.7,57.5,67.3,365.9,2022
+332813,"Electroplating, plating, polishing, anodizing, and coloring",6,Manufacturing,1899,7919251,10.9,15.8,22.9,33.5,45.8,2022
+3329,Other fabricated metal product manufacturing,4,Manufacturing,5508,89731875,11.1,16.6,27.8,43.6,59.5,2022
+33291,Metal valve manufacturing,5,Manufacturing,893,36654208,20.8,29.6,46.4,66.4,192.1,2022
+332911,Industrial valve manufacturing,6,Manufacturing,395,14281165,22.6,36.1,60.0,81.0,244.8,2022
+332919,Other metal valve and pipe fitting manufacturing,6,Manufacturing,175,4860866,21.1,32.4,56.8,84.1,230.5,2022
+33299,All other fabricated metal product manufacturing,5,Manufacturing,4648,53077667,13.4,20.7,33.5,46.6,83.4,2022
+332991,Ball and roller bearing manufacturing,6,Manufacturing,107,5808676,49.7,73.4,89.2,97.9,900.1,2022
+332992,Small arms ammunition manufacturing,6,Manufacturing,151,5825535,75.4,88.2,94.2,98.4,1766.1,2022
+332994,"Small arms, ordnance, and ordnance accessories manufacturing",6,Manufacturing,511,10555395,34.4,50.9,71.7,84.5,427.2,2022
+332996,Fabricated pipe and pipe fitting manufacturing,6,Manufacturing,655,8017928,14.7,21.6,35.0,55.1,111.5,2022
+332999,All other miscellaneous fabricated metal product manufacturing,6,Manufacturing,3202,18696105,8.1,13.5,23.9,37.7,40.9,2022
+333,Machinery manufacturing,3,Manufacturing,18779,445515810,12.5,16.3,24.4,35.8,67.7,2022
+333112,Lawn and garden tractor and home lawn and garden equipment manufacturing,6,Manufacturing,94,9638246,50.1,78.4,96.1,99.5,976.0,2022
+33312,Construction machinery manufacturing,5,Manufacturing,561,41175635,54.5,66.0,77.8,88.1,857.9,2022
+333120,Construction machinery manufacturing,6,Manufacturing,561,41175635,54.5,66.0,77.8,88.1,857.9,2022
+33313,Mining and oil and gas field machinery manufacturing,5,Manufacturing,710,16275232,24.4,32.3,47.6,66.7,249.2,2022
+333131,Mining machinery and equipment manufacturing,6,Manufacturing,223,4385006,25.1,42.4,64.4,84.2,296.2,2022
+333132,Oil and gas field machinery and equipment manufacturing,6,Manufacturing,496,11890226,31.8,40.8,57.2,74.5,382.7,2022
+3332,Industrial machinery manufacturing,4,Manufacturing,2526,40225441,20.8,27.2,39.3,52.8,152.7,2022
+33324,Industrial machinery manufacturing,5,Manufacturing,2526,40225441,20.8,27.2,39.3,52.8,152.7,2022
+333241,Food product machinery manufacturing,6,Manufacturing,399,6615719,25.3,36.1,56.0,75.3,273.6,2022
+333242,Semiconductor machinery manufacturing,6,Manufacturing,144,13751994,60.7,78.2,92.7,98.2,1153.0,2022
+333243,"Sawmill, woodworking, and paper machinery manufacturing",6,Manufacturing,316,3968908,25.7,38.7,57.5,77.4,255.0,2022
+333248,All other industrial machinery manufacturing,6,Manufacturing,1678,15888820,11.1,18.3,30.1,45.8,65.7,2022
+3333,Commercial and service industry machinery manufacturing,4,Manufacturing,1630,32058682,15.5,23.7,37.1,54.6,111.1,2022
+33331,Commercial and service industry machinery manufacturing,5,Manufacturing,1630,32058682,15.5,23.7,37.1,54.6,111.1,2022
+333310,Commercial and service industry machinery manufacturing,6,Manufacturing,1630,32058682,15.5,23.7,37.1,54.6,111.1,2022
+3334,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",4,Manufacturing,1388,55033779,22.0,33.5,50.0,65.4,199.4,2022
+33341,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",5,Manufacturing,1388,55033779,22.0,33.5,50.0,65.4,199.4,2022
+333413,Industrial and commercial fan and blower and air purification equipment manufacturing,6,Manufacturing,395,8021174,19.2,30.8,52.7,72.1,185.8,2022
+333414,Heating equipment (except warm air furnaces) manufacturing,6,Manufacturing,321,6859109,25.9,37.7,58.9,80.9,267.3,2022
+333415,Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing,6,Manufacturing,688,40153496,30.2,45.1,64.6,79.4,348.4,2022
+3335,Metalworking machinery manufacturing,4,Manufacturing,5301,33870108,9.4,13.4,20.4,30.1,37.2,2022
+33351,Metalworking machinery manufacturing,5,Manufacturing,5301,33870108,9.4,13.4,20.4,30.1,37.2,2022
+333511,Industrial mold manufacturing,6,Manufacturing,1095,6263593,9.1,14.6,25.6,42.8,50.4,2022
+333514,"Special die and tool, die set, jig, and fixture manufacturing",6,Manufacturing,2074,9827827,16.6,21.3,31.4,43.6,99.9,2022
+333515,Cutting tool and machine tool accessory manufacturing,6,Manufacturing,1050,5548956,17.6,25.7,41.6,60.4,130.2,2022
+333517,Machine tool manufacturing,6,Manufacturing,862,9255991,28.6,35.1,47.5,64.8,314.4,2022
+333519,Rolling mill and other metalworking machinery manufacturing,6,Manufacturing,280,2973741,19.3,31.0,51.3,75.6,190.5,2022
+3336,"Engine, turbine, and power transmission equipment manufacturing",4,Manufacturing,657,49667715,42.8,53.9,68.7,83.0,589.4,2022
+33361,"Engine, turbine, and power transmission equipment manufacturing",5,Manufacturing,657,49667715,42.8,53.9,68.7,83.0,589.4,2022
+333612,"Speed changer, industrial high-speed drive, and gear manufacturing",6,Manufacturing,167,4135801,32.0,50.8,72.9,90.0,427.0,2022
+333613,Mechanical power transmission equipment manufacturing,6,Manufacturing,176,5485984,27.3,47.7,72.0,89.4,354.8,2022
+333618,Other engine equipment manufacturing,6,Manufacturing,246,28069298,62.7,76.2,88.3,95.9,1303.1,2022
+3339,Other general purpose machinery manufacturing,4,Manufacturing,5293,124744463,7.2,12.9,24.0,38.8,39.4,2022
+33391,Pump and compressor manufacturing,5,Manufacturing,676,26765336,19.9,31.7,52.6,74.0,191.6,2022
+333912,Air and gas compressor manufacturing,6,Manufacturing,238,8850292,31.2,44.7,66.6,85.9,377.8,2022
+333914,"Measuring, dispensing, and other pumping equipment manufacturing",6,Manufacturing,446,17915044,25.9,39.9,63.2,82.5,294.7,2022
+33392,Material handling equipment manufacturing,5,Manufacturing,1444,40769210,19.1,28.9,42.3,57.0,142.0,2022
+333921,Elevator and moving stairway manufacturing,6,Manufacturing,168,4317253,55.1,68.1,83.4,93.7,991.9,2022
+333922,Conveyor and conveying equipment manufacturing,6,Manufacturing,734,14176832,10.9,19.4,33.0,49.7,77.5,2022
+333923,"Overhead traveling crane, hoist, and monorail system manufacturing",6,Manufacturing,276,9091040,55.0,64.3,76.1,87.4,957.2,2022
+333924,"Industrial truck, trailer, and stacker machinery manufacturing",6,Manufacturing,277,13184085,45.2,58.8,75.6,90.1,699.4,2022
+33399,All other general purpose machinery manufacturing,5,Manufacturing,3225,57209917,12.8,19.9,32.7,47.3,77.7,2022
+333993,Packaging machinery manufacturing,6,Manufacturing,490,10087435,24.4,36.3,53.1,71.8,233.1,2022
+333994,Industrial process furnace and oven manufacturing,6,Manufacturing,298,3450839,19.8,30.8,50.9,72.3,190.0,2022
+333995,Fluid power cylinder and actuator manufacturing,6,Manufacturing,236,7231497,36.0,48.5,68.9,86.2,439.0,2022
+333996,Fluid power pump and motor manufacturing,6,Manufacturing,120,5330371,56.1,67.6,86.3,97.6,1021.9,2022
+333998,All other miscellaneous general purpose machinery manufacturing,6,Manufacturing,1565,22041053,14.8,23.5,37.5,53.7,110.1,2022
+334,Computer and electronic product manufacturing,3,Manufacturing,9861,352323904,15.2,22.1,34.7,49.8,93.9,2022
+3341,Computer and peripheral equipment manufacturing,4,Manufacturing,384,19837661,43.9,58.6,78.0,89.2,706.8,2022
+33411,Computer and peripheral equipment manufacturing,5,Manufacturing,384,19837661,43.9,58.6,78.0,89.2,706.8,2022
+3342,Communications equipment manufacturing,4,Manufacturing,1062,41261175,40.8,54.7,67.7,78.8,506.4,2022
+33422,Radio and television broadcasting and wireless communications equipment manufacturing,5,Manufacturing,606,32293478,52.1,68.0,79.0,88.3,795.4,2022
+334220,Radio and television broadcasting and wireless communications equipment manufacturing,6,Manufacturing,606,32293478,52.1,68.0,79.0,88.3,795.4,2022
+3343,Audio and video equipment manufacturing,4,Manufacturing,506,5092585,43.6,53.8,69.0,83.7,682.8,2022
+33431,Audio and video equipment manufacturing,5,Manufacturing,506,5092585,43.6,53.8,69.0,83.7,682.8,2022
+334310,Audio and video equipment manufacturing,6,Manufacturing,506,5092585,43.6,53.8,69.0,83.7,682.8,2022
+3344,Semiconductor and other electronic component manufacturing,4,Manufacturing,3376,115901224,29.3,40.2,53.2,65.8,317.5,2022
+33441,Semiconductor and other electronic component manufacturing,5,Manufacturing,3376,115901224,29.3,40.2,53.2,65.8,317.5,2022
+334413,Semiconductor and related device manufacturing,6,Manufacturing,675,62435106,48.0,65.0,81.2,91.9,897.0,2022
+334416,"Capacitor, resistor, coil, transformer, and other inductor manufacturing",6,Manufacturing,285,3333307,24.1,36.0,54.3,73.7,226.3,2022
+334417,Electronic connector manufacturing,6,Manufacturing,168,7053755,39.6,59.5,80.2,94.2,582.5,2022
+334419,Other electronic component manufacturing,6,Manufacturing,1189,14236731,10.7,18.4,35.9,56.1,84.6,2022
+3345,"Navigational, measuring, electromedical, and control instruments manufacturing",4,Manufacturing,4427,168617589,19.0,27.9,43.4,58.9,163.2,2022
+33451,"Navigational, measuring, electromedical, and control instruments manufacturing",5,Manufacturing,4427,168617589,19.0,27.9,43.4,58.9,163.2,2022
+334510,Electromedical and electrotherapeutic apparatus manufacturing,6,Manufacturing,822,39564761,28.6,40.0,57.8,78.3,297.6,2022
+334511,"Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing",6,Manufacturing,404,53454072,57.9,78.2,90.6,96.2,1200.2,2022
+334512,"Automatic environmental control manufacturing for residential, commercial, and appliance use",6,Manufacturing,207,3007474,40.8,56.1,74.2,90.4,602.8,2022
+334513,"Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables",6,Manufacturing,841,14234763,27.9,36.5,50.7,68.7,297.1,2022
+334514,Totalizing fluid meter and counting device manufacturing,6,Manufacturing,163,5293593,32.3,49.4,73.9,93.2,422.6,2022
+334515,Instrument manufacturing for measuring and testing electricity and electrical signals,6,Manufacturing,615,11663326,29.3,42.9,61.7,77.0,336.3,2022
+334516,Analytical laboratory instrument manufacturing,6,Manufacturing,629,19354336,25.2,40.2,60.7,78.7,273.0,2022
+334517,Irradiation apparatus manufacturing,6,Manufacturing,111,9177835,67.5,82.2,93.4,98.7,1573.9,2022
+334519,Other measuring and controlling device manufacturing,6,Manufacturing,789,12867429,23.5,32.6,47.3,65.5,228.2,2022
+335,"Electrical equipment, appliance, and component manufacturing",3,Manufacturing,4552,172684075,18.7,25.8,37.8,53.1,144.3,2022
+3351,Electric lighting equipment manufacturing,4,Manufacturing,963,15361299,26.2,38.7,56.0,71.2,255.8,2022
+33513,Electric lighting equipment manufacturing,5,Manufacturing,963,15361299,26.2,38.7,56.0,71.2,255.8,2022
+335132,"Commercial, industrial, and institutional electric lighting fixture manufacturing",6,Manufacturing,404,6951223,33.7,48.8,64.0,79.1,387.9,2022
+33521,Small electrical appliance manufacturing,5,Manufacturing,135,3651053,58.6,77.5,92.0,98.1,1093.7,2022
+335210,Small electrical appliance manufacturing,6,Manufacturing,135,3651053,58.6,77.5,92.0,98.1,1093.7,2022
+3353,Electrical equipment manufacturing,4,Manufacturing,1541,48649252,21.8,32.7,49.8,66.6,186.2,2022
+33531,Electrical equipment manufacturing,5,Manufacturing,1541,48649252,21.8,32.7,49.8,66.6,186.2,2022
+335311,"Power, distribution, and specialty transformer manufacturing",6,Manufacturing,217,9556000,36.5,50.8,72.3,91.0,471.8,2022
+335312,Motor and generator manufacturing,6,Manufacturing,336,13790392,43.7,59.3,76.2,90.0,675.7,2022
+335313,Switchgear and switchboard apparatus manufacturing,6,Manufacturing,372,15009387,42.9,57.0,74.3,86.8,621.9,2022
+335314,Relay and industrial control manufacturing,6,Manufacturing,661,10293473,28.0,36.9,53.9,71.4,293.5,2022
+335921,Fiber optic cable manufacturing,6,Manufacturing,99,3762544,64.6,82.0,91.9,98.6,1364.7,2022
+335929,Other communication and energy wire manufacturing,6,Manufacturing,169,10004072,48.3,65.7,83.9,95.1,837.9,2022
+33593,Wiring device manufacturing,5,Manufacturing,464,18005023,27.4,40.3,61.5,80.1,294.1,2022
+335931,Current-carrying wiring device manufacturing,6,Manufacturing,359,8376690,27.5,38.8,57.4,76.6,313.0,2022
+335932,Noncurrent-carrying wiring device manufacturing,6,Manufacturing,111,9628333,42.8,62.5,89.3,98.6,648.3,2022
+33599,All other electrical equipment and component manufacturing,5,Manufacturing,926,21376504,22.9,34.0,52.2,71.3,242.6,2022
+335991,Carbon and graphite product manufacturing,6,Manufacturing,150,3995351,41.6,60.3,79.8,92.7,702.9,2022
+335999,All other miscellaneous electrical equipment and component manufacturing,6,Manufacturing,776,17381153,27.3,40.0,59.0,76.0,332.5,2022
+336,Transportation equipment manufacturing,3,Manufacturing,9473,1023728929,24.1,38.2,57.1,69.9,251.6,2022
+3361,Motor vehicle manufacturing,4,Manufacturing,252,390234668,53.3,79.5,97.6,99.5,1017.8,2022
+33611,Automobile and light duty motor vehicle manufacturing,5,Manufacturing,170,357155770,58.3,85.5,99.5,99.9,1185.8,2022
+336110,Automobile and light duty motor vehicle manufacturing,6,Manufacturing,170,357155770,58.3,85.5,99.5,99.9,1185.8,2022
+3362,Motor vehicle body and trailer manufacturing,4,Manufacturing,1880,72312940,37.1,46.5,59.8,72.0,494.0,2022
+33621,Motor vehicle body and trailer manufacturing,5,Manufacturing,1880,72312940,37.1,46.5,59.8,72.0,494.0,2022
+336211,Motor vehicle body manufacturing,6,Manufacturing,781,20264702,24.6,37.8,55.0,71.3,238.1,2022
+336212,Truck trailer manufacturing,6,Manufacturing,497,17068125,33.3,45.9,64.7,79.9,380.9,2022
+336213,Motor home manufacturing,6,Manufacturing,58,7414703,82.5,94.8,99.3,100.0,2023.2,2022
+3363,Motor vehicle parts manufacturing,4,Manufacturing,3814,278236415,14.3,22.4,37.2,53.8,102.2,2022
+33631,Motor vehicle gasoline engine and engine parts manufacturing,5,Manufacturing,610,38967381,45.7,64.8,82.0,92.5,662.8,2022
+336310,Motor vehicle gasoline engine and engine parts manufacturing,6,Manufacturing,610,38967381,45.7,64.8,82.0,92.5,662.8,2022
+33632,Motor vehicle electrical and electronic equipment manufacturing,5,Manufacturing,519,28038554,29.4,43.7,67.6,84.4,387.4,2022
+336320,Motor vehicle electrical and electronic equipment manufacturing,6,Manufacturing,519,28038554,29.4,43.7,67.6,84.4,387.4,2022
+33633,Motor vehicle steering and suspension components (except spring) manufacturing,5,Manufacturing,248,16979065,34.5,54.6,76.0,91.9,487.2,2022
+336330,Motor vehicle steering and suspension components (except spring) manufacturing,6,Manufacturing,248,16979065,34.5,54.6,76.0,91.9,487.2,2022
+33634,Motor vehicle brake system manufacturing,5,Manufacturing,137,10217537,38.4,58.7,79.0,95.7,555.2,2022
+336340,Motor vehicle brake system manufacturing,6,Manufacturing,137,10217537,38.4,58.7,79.0,95.7,555.2,2022
+33635,Motor vehicle transmission and power train parts manufacturing,5,Manufacturing,383,47186478,39.5,54.0,77.7,91.7,567.7,2022
+336350,Motor vehicle transmission and power train parts manufacturing,6,Manufacturing,383,47186478,39.5,54.0,77.7,91.7,567.7,2022
+33636,Motor vehicle seating and interior trim manufacturing,5,Manufacturing,328,29884925,40.7,54.5,72.3,87.5,575.7,2022
+336360,Motor vehicle seating and interior trim manufacturing,6,Manufacturing,328,29884925,40.7,54.5,72.3,87.5,575.7,2022
+33637,Motor vehicle metal stamping,5,Manufacturing,556,40483468,23.5,36.5,53.0,69.4,225.7,2022
+336370,Motor vehicle metal stamping,6,Manufacturing,556,40483468,23.5,36.5,53.0,69.4,225.7,2022
+33639,Other motor vehicle parts manufacturing,5,Manufacturing,1227,66479007,13.6,23.4,44.0,65.3,125.4,2022
+336390,Other motor vehicle parts manufacturing,6,Manufacturing,1227,66479007,13.6,23.4,44.0,65.3,125.4,2022
+3364,Aerospace product and parts manufacturing,4,Manufacturing,1379,203522434,63.4,76.9,86.0,91.9,1182.7,2022
+33641,Aerospace product and parts manufacturing,5,Manufacturing,1379,203522434,63.4,76.9,86.0,91.9,1182.7,2022
+336414,Guided missile and space vehicle manufacturing,6,Manufacturing,18,14851952,96.7,99.6,100.0,100.0,3377.1,2022
+336419,Other guided missile and space vehicle parts and auxiliary equipment manufacturing,6,Manufacturing,33,2366738,69.0,85.9,99.6,100.0,1378.8,2022
+3365,Railroad rolling stock manufacturing,4,Manufacturing,140,12021670,54.9,72.5,89.0,96.8,1017.4,2022
+33651,Railroad rolling stock manufacturing,5,Manufacturing,140,12021670,54.9,72.5,89.0,96.8,1017.4,2022
+336510,Railroad rolling stock manufacturing,6,Manufacturing,140,12021670,54.9,72.5,89.0,96.8,1017.4,2022
+336612,Boat building,6,Manufacturing,845,16830290,26.7,40.8,59.1,77.1,278.8,2022
+3369,Other transportation equipment manufacturing,4,Manufacturing,852,20447526,42.5,66.7,83.1,89.7,655.8,2022
+33699,Other transportation equipment manufacturing,5,Manufacturing,852,20447526,42.5,66.7,83.1,89.7,655.8,2022
+336992,"Military armored vehicle, tank, and tank component manufacturing",6,Manufacturing,38,6884222,85.1,92.8,98.6,100.0,2289.1,2022
+336999,All other transportation equipment manufacturing,6,Manufacturing,409,9763791,61.9,82.3,89.2,95.1,1229.2,2022
+337,Furniture and related product manufacturing,3,Manufacturing,13818,88686569,10.9,17.7,27.8,38.4,57.7,2022
+3371,Household and institutional furniture and kitchen cabinet manufacturing,4,Manufacturing,9824,48938689,18.9,24.6,34.3,45.7,121.9,2022
+33711,Wood kitchen cabinet and countertop manufacturing,5,Manufacturing,6287,21029313,29.3,34.2,42.8,52.7,265.6,2022
+337110,Wood kitchen cabinet and countertop manufacturing,6,Manufacturing,6287,21029313,29.3,34.2,42.8,52.7,265.6,2022
+337126,Household furniture (except wood and upholstered) manufacturing,6,Manufacturing,361,3735782,43.7,60.1,75.6,89.2,631.4,2022
+337127,Institutional furniture manufacturing,6,Manufacturing,531,5681041,14.6,22.8,36.4,57.6,107.7,2022
+3372,Office furniture (including fixtures) manufacturing,4,Manufacturing,3409,28377681,17.5,24.2,33.8,45.2,109.7,2022
+33721,Office furniture (including fixtures) manufacturing,5,Manufacturing,3409,28377681,17.5,24.2,33.8,45.2,109.7,2022
+337211,Wood office furniture manufacturing,6,Manufacturing,316,3335761,54.3,65.2,79.9,90.1,944.9,2022
+337212,Custom architectural woodwork and millwork manufacturing,6,Manufacturing,2227,10017333,6.7,11.1,18.1,28.8,24.4,2022
+337214,Office furniture (except wood) manufacturing,6,Manufacturing,174,5827651,57.7,75.1,86.2,96.0,1075.0,2022
+337215,"Showcase, partition, shelving, and locker manufacturing",6,Manufacturing,710,9196936,18.7,27.0,44.6,64.8,150.5,2022
+3379,Other furniture related product manufacturing,4,Manufacturing,628,11370199,47.2,56.0,68.6,82.0,642.2,2022
+33791,Mattress manufacturing,5,Manufacturing,336,8776904,56.1,64.6,76.8,89.1,981.5,2022
+337910,Mattress manufacturing,6,Manufacturing,336,8776904,56.1,64.6,76.8,89.1,981.5,2022
+339,Miscellaneous manufacturing,3,Manufacturing,23712,161952007,11.5,19.0,29.0,40.5,62.1,2022
+3391,Medical equipment and supplies manufacturing,4,Manufacturing,7941,96834253,19.3,31.5,47.3,62.0,164.4,2022
+33911,Medical equipment and supplies manufacturing,5,Manufacturing,7941,96834253,19.3,31.5,47.3,62.0,164.4,2022
+339112,Surgical and medical instrument manufacturing,6,Manufacturing,1033,40260371,26.3,35.9,53.7,73.5,271.3,2022
+339113,Surgical appliance and supplies manufacturing,6,Manufacturing,1546,37927233,35.1,52.3,65.2,77.5,417.7,2022
+339114,Dental equipment and supplies manufacturing,6,Manufacturing,464,5800169,45.1,66.3,83.0,92.6,664.6,2022
+339116,Dental laboratories,6,Manufacturing,4669,6334094,24.1,30.6,37.3,46.3,173.1,2022
+3399,Other miscellaneous manufacturing,4,Manufacturing,15786,65117754,6.4,10.8,19.1,30.9,26.2,2022
+33991,Jewelry and silverware manufacturing,5,Manufacturing,1653,7877810,37.4,48.4,62.7,74.8,484.5,2022
+339910,Jewelry and silverware manufacturing,6,Manufacturing,1653,7877810,37.4,48.4,62.7,74.8,484.5,2022
+33992,Sporting and athletic goods manufacturing,5,Manufacturing,1562,11063895,21.3,31.4,49.6,66.7,182.4,2022
+339920,Sporting and athletic goods manufacturing,6,Manufacturing,1562,11063895,21.3,31.4,49.6,66.7,182.4,2022
+33994,Office supplies (except paper) manufacturing,5,Manufacturing,336,3228897,45.3,59.1,77.3,91.3,780.7,2022
+339940,Office supplies (except paper) manufacturing,6,Manufacturing,336,3228897,45.3,59.1,77.3,91.3,780.7,2022
+33995,Sign manufacturing,5,Manufacturing,5661,14480142,10.0,15.1,22.6,31.6,45.2,2022
+339950,Sign manufacturing,6,Manufacturing,5661,14480142,10.0,15.1,22.6,31.6,45.2,2022
+33999,All other miscellaneous manufacturing,5,Manufacturing,6141,26720033,12.7,18.5,30.7,47.7,75.3,2022
+339991,"Gasket, packing, and sealing device manufacturing",6,Manufacturing,492,7219059,21.1,32.5,52.6,71.7,199.3,2022
+339992,Musical instrument manufacturing,6,Manufacturing,571,2297391,40.0,60.2,75.8,84.7,547.2,2022
+339994,"Broom, brush, and mop manufacturing",6,Manufacturing,136,2760441,41.8,61.3,81.6,95.2,598.7,2022
+339999,All other miscellaneous manufacturing,6,Manufacturing,4799,12906888,25.0,33.4,44.7,56.3,212.6,2022
+42,Wholesale trade,2,Wholesale trade,265472,11870055103,6.7,11.0,20.1,30.5,26.8,2022
+423,"Merchant wholesalers, durable goods",3,Wholesale trade,144016,4917521572,9.0,14.9,21.4,30.7,36.5,2022
+4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,4,Wholesale trade,13976,1072269552,39.2,50.9,64.8,76.0,454.1,2022
+42311,Automobile and other motor vehicle merchant wholesalers,5,Wholesale trade,4730,768311836,51.1,66.5,81.9,88.8,755.8,2022
+423110,Automobile and other motor vehicle merchant wholesalers,6,Wholesale trade,4730,768311836,51.1,66.5,81.9,88.8,755.8,2022
+42312,Motor vehicle supplies and new parts merchant wholesalers,5,Wholesale trade,6957,217860210,16.5,26.8,44.6,61.8,137.1,2022
+423120,Motor vehicle supplies and new parts merchant wholesalers,6,Wholesale trade,6957,217860210,16.5,26.8,44.6,61.8,137.1,2022
+42313,Tire and tube merchant wholesalers,5,Wholesale trade,1199,75970263,43.3,55.6,71.9,83.7,612.1,2022
+423130,Tire and tube merchant wholesalers,6,Wholesale trade,1199,75970263,43.3,55.6,71.9,83.7,612.1,2022
+42314,Motor vehicle parts (used) merchant wholesalers,5,Wholesale trade,1341,10127243,50.0,57.3,63.9,72.7,861.4,2022
+423140,Motor vehicle parts (used) merchant wholesalers,6,Wholesale trade,1341,10127243,50.0,57.3,63.9,72.7,861.4,2022
+4232,Furniture and home furnishing merchant wholesalers,4,Wholesale trade,9568,149721247,12.9,19.3,28.0,36.7,65.9,2022
+42321,Furniture merchant wholesalers,5,Wholesale trade,4120,63293859,16.2,23.5,32.8,44.6,94.8,2022
+423210,Furniture merchant wholesalers,6,Wholesale trade,4120,63293859,16.2,23.5,32.8,44.6,94.8,2022
+42322,Home furnishing merchant wholesalers,5,Wholesale trade,5472,86427388,21.6,26.9,34.4,45.4,148.2,2022
+423220,Home furnishing merchant wholesalers,6,Wholesale trade,5472,86427388,21.6,26.9,34.4,45.4,148.2,2022
+4233,Lumber and other construction materials merchant wholesalers,4,Wholesale trade,10026,323952253,16.7,24.6,39.6,54.0,124.9,2022
+42331,"Lumber, plywood, millwork, and wood panel merchant wholesalers",5,Wholesale trade,4298,172993698,22.3,31.3,45.1,57.9,209.6,2022
+423310,"Lumber, plywood, millwork, and wood panel merchant wholesalers",6,Wholesale trade,4298,172993698,22.3,31.3,45.1,57.9,209.6,2022
+42332,"Brick, stone, and related construction material merchant wholesalers",5,Wholesale trade,2111,37451719,29.5,42.4,54.8,66.1,289.8,2022
+423320,"Brick, stone, and related construction material merchant wholesalers",6,Wholesale trade,2111,37451719,29.5,42.4,54.8,66.1,289.8,2022
+42333,"Roofing, siding, and insulation material merchant wholesalers",5,Wholesale trade,828,74678827,51.3,71.8,81.8,89.5,915.9,2022
+423330,"Roofing, siding, and insulation material merchant wholesalers",6,Wholesale trade,828,74678827,51.3,71.8,81.8,89.5,915.9,2022
+4234,Professional and commercial equipment and supplies merchant wholesalers,4,Wholesale trade,19491,766475865,15.2,24.3,42.9,59.5,133.7,2022
+42341,Photographic equipment and supplies merchant wholesalers,5,Wholesale trade,391,9510795,50.3,64.7,78.1,88.3,763.2,2022
+423410,Photographic equipment and supplies merchant wholesalers,6,Wholesale trade,391,9510795,50.3,64.7,78.1,88.3,763.2,2022
+42342,Office equipment merchant wholesalers,5,Wholesale trade,1901,33256094,40.5,52.0,63.6,74.5,581.9,2022
+423420,Office equipment merchant wholesalers,6,Wholesale trade,1901,33256094,40.5,52.0,63.6,74.5,581.9,2022
+42343,Computer and computer peripheral equipment and software merchant wholesalers,5,Wholesale trade,4057,331349644,33.8,50.0,65.6,77.5,462.3,2022
+423430,Computer and computer peripheral equipment and software merchant wholesalers,6,Wholesale trade,4057,331349644,33.8,50.0,65.6,77.5,462.3,2022
+42344,Other commercial equipment merchant wholesalers,5,Wholesale trade,2693,32988059,19.3,29.1,42.9,57.4,151.3,2022
+423440,Other commercial equipment merchant wholesalers,6,Wholesale trade,2693,32988059,19.3,29.1,42.9,57.4,151.3,2022
+42345,"Medical, dental, and hospital equipment and supplies merchant wholesalers",5,Wholesale trade,7394,311466913,23.9,40.6,62.6,75.7,273.9,2022
+423450,"Medical, dental, and hospital equipment and supplies merchant wholesalers",6,Wholesale trade,7394,311466913,23.9,40.6,62.6,75.7,273.9,2022
+42346,Ophthalmic goods merchant wholesalers,5,Wholesale trade,859,12700964,37.0,50.9,69.8,82.2,457.5,2022
+423460,Ophthalmic goods merchant wholesalers,6,Wholesale trade,859,12700964,37.0,50.9,69.8,82.2,457.5,2022
+42349,Other professional equipment and supplies merchant wholesalers,5,Wholesale trade,2282,35203396,37.5,47.4,57.8,69.2,517.3,2022
+423490,Other professional equipment and supplies merchant wholesalers,6,Wholesale trade,2282,35203396,37.5,47.4,57.8,69.2,517.3,2022
+4235,Metal and mineral (except petroleum) merchant wholesalers,4,Wholesale trade,6239,329309175,15.6,23.3,39.0,54.1,108.7,2022
+42351,Metal service centers and other metal merchant wholesalers,5,Wholesale trade,6006,305346854,16.8,25.1,41.6,55.4,122.0,2022
+423510,Metal service centers and other metal merchant wholesalers,6,Wholesale trade,6006,305346854,16.8,25.1,41.6,55.4,122.0,2022
+42352,Coal and other mineral and ore merchant wholesalers,5,Wholesale trade,238,23962321,47.8,69.3,88.4,96.6,776.6,2022
+423520,Coal and other mineral and ore merchant wholesalers,6,Wholesale trade,238,23962321,47.8,69.3,88.4,96.6,776.6,2022
+4236,Household appliances and electrical and electronic goods merchant wholesalers,4,Wholesale trade,15781,895229207,31.0,36.9,49.5,63.0,331.1,2022
+42361,"Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers",5,Wholesale trade,7035,219352299,18.6,32.3,46.9,58.6,162.5,2022
+423610,"Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers",6,Wholesale trade,7035,219352299,18.6,32.3,46.9,58.6,162.5,2022
+42369,Other electronic parts and equipment merchant wholesalers,5,Wholesale trade,7173,535761320,45.4,54.3,67.1,77.0,688.3,2022
+423690,Other electronic parts and equipment merchant wholesalers,6,Wholesale trade,7173,535761320,45.4,54.3,67.1,77.0,688.3,2022
+4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers",4,Wholesale trade,9368,298635589,19.8,30.2,46.2,57.5,177.1,2022
+42371,Hardware merchant wholesalers,5,Wholesale trade,4389,94210369,34.8,45.3,58.5,68.3,363.3,2022
+423710,Hardware merchant wholesalers,6,Wholesale trade,4389,94210369,34.8,45.3,58.5,68.3,363.3,2022
+42373,Warm air heating and air-conditioning equipment and supplies merchant wholesalers,5,Wholesale trade,2398,96618311,35.4,44.0,53.2,63.0,374.0,2022
+423730,Warm air heating and air-conditioning equipment and supplies merchant wholesalers,6,Wholesale trade,2398,96618311,35.4,44.0,53.2,63.0,374.0,2022
+4238,"Machinery, equipment, and supplies merchant wholesalers",4,Wholesale trade,35802,725585463,10.1,14.1,20.8,29.9,40.9,2022
+42383,Industrial machinery and equipment merchant wholesalers,5,Wholesale trade,18795,282320837,8.3,13.2,22.4,31.7,34.7,2022
+423830,Industrial machinery and equipment merchant wholesalers,6,Wholesale trade,18795,282320837,8.3,13.2,22.4,31.7,34.7,2022
+42384,Industrial supplies merchant wholesalers,5,Wholesale trade,5526,94627532,19.7,29.4,39.9,49.7,139.2,2022
+423840,Industrial supplies merchant wholesalers,6,Wholesale trade,5526,94627532,19.7,29.4,39.9,49.7,139.2,2022
+42385,Service establishment equipment and supplies merchant wholesalers,5,Wholesale trade,3321,28579182,19.5,28.6,41.4,52.5,154.6,2022
+423850,Service establishment equipment and supplies merchant wholesalers,6,Wholesale trade,3321,28579182,19.5,28.6,41.4,52.5,154.6,2022
+42386,Transportation equipment and supplies (except motor vehicle) merchant wholesalers,5,Wholesale trade,1920,48791288,29.3,44.4,57.8,69.7,307.7,2022
+423860,Transportation equipment and supplies (except motor vehicle) merchant wholesalers,6,Wholesale trade,1920,48791288,29.3,44.4,57.8,69.7,307.7,2022
+4239,Miscellaneous durable goods merchant wholesalers,4,Wholesale trade,25517,356343221,8.5,13.5,22.7,34.5,38.6,2022
+42391,Sporting and recreational goods and supplies merchant wholesalers,5,Wholesale trade,4234,67882121,16.8,25.2,38.7,53.5,130.3,2022
+423910,Sporting and recreational goods and supplies merchant wholesalers,6,Wholesale trade,4234,67882121,16.8,25.2,38.7,53.5,130.3,2022
+42392,Toy and hobby goods and supplies merchant wholesalers,5,Wholesale trade,1746,46441391,27.4,42.8,59.5,74.5,298.6,2022
+423920,Toy and hobby goods and supplies merchant wholesalers,6,Wholesale trade,1746,46441391,27.4,42.8,59.5,74.5,298.6,2022
+42393,Recyclable material merchant wholesalers,5,Wholesale trade,5985,107749500,22.1,28.8,37.4,46.8,183.5,2022
+423930,Recyclable material merchant wholesalers,6,Wholesale trade,5985,107749500,22.1,28.8,37.4,46.8,183.5,2022
+42394,"Jewelry, watch, precious stone, and precious metal merchant wholesalers",5,Wholesale trade,6688,76237781,28.2,38.5,48.8,57.8,254.9,2022
+423940,"Jewelry, watch, precious stone, and precious metal merchant wholesalers",6,Wholesale trade,6688,76237781,28.2,38.5,48.8,57.8,254.9,2022
+424,"Merchant wholesalers, nondurable goods",3,Wholesale trade,90578,6166611027,12.5,20.4,31.7,46.1,73.6,2022
+4241,Paper and paper product merchant wholesalers,4,Wholesale trade,6108,176781287,24.2,36.0,54.1,70.3,242.4,2022
+42411,Printing and writing paper merchant wholesalers,5,Wholesale trade,421,18519389,43.3,61.1,82.3,93.7,639.4,2022
+424110,Printing and writing paper merchant wholesalers,6,Wholesale trade,421,18519389,43.3,61.1,82.3,93.7,639.4,2022
+42412,Stationery and office supplies merchant wholesalers,5,Wholesale trade,2454,36189160,40.0,56.6,71.2,79.3,604.9,2022
+424120,Stationery and office supplies merchant wholesalers,6,Wholesale trade,2454,36189160,40.0,56.6,71.2,79.3,604.9,2022
+42413,Industrial and personal service paper merchant wholesalers,5,Wholesale trade,3264,122072738,35.1,47.1,65.5,75.7,422.7,2022
+424130,Industrial and personal service paper merchant wholesalers,6,Wholesale trade,3264,122072738,35.1,47.1,65.5,75.7,422.7,2022
+4242,Drugs and druggists' sundries merchant wholesalers,4,Wholesale trade,6632,1280938681,50.3,61.3,78.9,88.8,805.7,2022
+42421,Drugs and druggists' sundries merchant wholesalers,5,Wholesale trade,6632,1280938681,50.3,61.3,78.9,88.8,805.7,2022
+424210,Drugs and druggists' sundries merchant wholesalers,6,Wholesale trade,6632,1280938681,50.3,61.3,78.9,88.8,805.7,2022
+4243,"Apparel, piece goods, and notions merchant wholesalers",4,Wholesale trade,12591,182546431,12.2,17.3,28.7,42.3,79.1,2022
+42435,Clothing and clothing accessories merchant wholesalers,5,Wholesale trade,9208,124894949,10.0,16.4,29.0,42.8,56.3,2022
+424350,Clothing and clothing accessories merchant wholesalers,6,Wholesale trade,9208,124894949,10.0,16.4,29.0,42.8,56.3,2022
+4244,Grocery and related product merchant wholesalers,4,Wholesale trade,27414,1298727054,15.1,23.5,38.1,53.5,105.7,2022
+42441,General line grocery merchant wholesalers,5,Wholesale trade,2438,265542202,41.4,57.8,80.3,89.6,706.9,2022
+424410,General line grocery merchant wholesalers,6,Wholesale trade,2438,265542202,41.4,57.8,80.3,89.6,706.9,2022
+42443,Dairy product (except dried or canned) merchant wholesalers,5,Wholesale trade,1399,87120513,29.9,43.5,64.3,81.0,345.4,2022
+424430,Dairy product (except dried or canned) merchant wholesalers,6,Wholesale trade,1399,87120513,29.9,43.5,64.3,81.0,345.4,2022
+42444,Poultry and poultry product merchant wholesalers,5,Wholesale trade,421,14234464,22.1,34.3,51.8,72.5,209.1,2022
+424440,Poultry and poultry product merchant wholesalers,6,Wholesale trade,421,14234464,22.1,34.3,51.8,72.5,209.1,2022
+42445,Confectionery merchant wholesalers,5,Wholesale trade,1937,77247292,58.8,73.1,83.9,89.2,1182.9,2022
+424450,Confectionery merchant wholesalers,6,Wholesale trade,1937,77247292,58.8,73.1,83.9,89.2,1182.9,2022
+42446,Fish and seafood merchant wholesalers,5,Wholesale trade,1816,23095505,10.5,17.1,28.6,42.4,58.1,2022
+424460,Fish and seafood merchant wholesalers,6,Wholesale trade,1816,23095505,10.5,17.1,28.6,42.4,58.1,2022
+42447,Meat and meat product merchant wholesalers,5,Wholesale trade,1978,113162507,33.1,41.3,56.3,72.0,374.0,2022
+424470,Meat and meat product merchant wholesalers,6,Wholesale trade,1978,113162507,33.1,41.3,56.3,72.0,374.0,2022
+42449,Other grocery and related products merchant wholesalers,5,Wholesale trade,10705,418844059,17.9,29.2,48.6,66.1,164.5,2022
+424490,Other grocery and related products merchant wholesalers,6,Wholesale trade,10705,418844059,17.9,29.2,48.6,66.1,164.5,2022
+4245,Farm product raw material merchant wholesalers,4,Wholesale trade,3487,309882823,27.4,44.7,59.3,70.1,306.1,2022
+42451,Grain and field bean merchant wholesalers,5,Wholesale trade,2068,278640354,30.2,48.3,64.2,74.6,360.8,2022
+424510,Grain and field bean merchant wholesalers,6,Wholesale trade,2068,278640354,30.2,48.3,64.2,74.6,360.8,2022
+42452,Livestock merchant wholesalers,5,Wholesale trade,463,8589439,29.9,43.0,60.9,79.6,382.9,2022
+424520,Livestock merchant wholesalers,6,Wholesale trade,463,8589439,29.9,43.0,60.9,79.6,382.9,2022
+42459,Other farm product raw material merchant wholesalers,5,Wholesale trade,970,22653030,37.4,49.9,65.9,80.6,493.2,2022
+424590,Other farm product raw material merchant wholesalers,6,Wholesale trade,970,22653030,37.4,49.9,65.9,80.6,493.2,2022
+4246,Chemical and allied products merchant wholesalers,4,Wholesale trade,7346,316179278,14.4,22.6,41.9,57.9,119.3,2022
+42461,Plastics materials and basic forms and shapes merchant wholesalers,5,Wholesale trade,1910,56284536,19.4,27.5,43.0,61.5,154.7,2022
+424610,Plastics materials and basic forms and shapes merchant wholesalers,6,Wholesale trade,1910,56284536,19.4,27.5,43.0,61.5,154.7,2022
+42469,Other chemical and allied products merchant wholesalers,5,Wholesale trade,5465,259894742,17.5,27.1,48.9,66.1,165.3,2022
+424690,Other chemical and allied products merchant wholesalers,6,Wholesale trade,5465,259894742,17.5,27.1,48.9,66.1,165.3,2022
+4247,Petroleum and petroleum products merchant wholesalers,4,Wholesale trade,3491,1933626051,28.5,45.1,68.3,83.4,338.1,2022
+42471,Petroleum bulk stations and terminals,5,Wholesale trade,1855,1101016025,40.5,57.4,77.6,88.0,579.5,2022
+424710,Petroleum bulk stations and terminals,6,Wholesale trade,1855,1101016025,40.5,57.4,77.6,88.0,579.5,2022
+42472,Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals),5,Wholesale trade,1826,832610026,33.2,53.8,75.1,87.4,454.7,2022
+424720,Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals),6,Wholesale trade,1826,832610026,33.2,53.8,75.1,87.4,454.7,2022
+4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",4,Wholesale trade,3734,208181470,25.4,35.7,49.4,63.4,261.9,2022
+42481,Beer and ale merchant wholesalers,5,Wholesale trade,1510,83129261,23.3,30.8,40.5,52.9,203.5,2022
+424810,Beer and ale merchant wholesalers,6,Wholesale trade,1510,83129261,23.3,30.8,40.5,52.9,203.5,2022
+4249,Miscellaneous nondurable goods merchant wholesalers,4,Wholesale trade,20491,459747952,20.0,28.2,41.9,54.4,150.0,2022
+42491,Farm supplies merchant wholesalers,5,Wholesale trade,4928,206965886,22.8,35.3,54.3,66.3,221.0,2022
+424910,Farm supplies merchant wholesalers,6,Wholesale trade,4928,206965886,22.8,35.3,54.3,66.3,221.0,2022
+42492,"Book, periodical, and newspaper merchant wholesalers",5,Wholesale trade,927,10273328,49.5,60.1,72.9,85.1,831.0,2022
+424920,"Book, periodical, and newspaper merchant wholesalers",6,Wholesale trade,927,10273328,49.5,60.1,72.9,85.1,831.0,2022
+42494,Tobacco product and electronic cigarette merchant wholesalers,5,Wholesale trade,1641,143643325,56.2,67.1,76.2,83.5,1017.7,2022
+424940,Tobacco product and electronic cigarette merchant wholesalers,6,Wholesale trade,1641,143643325,56.2,67.1,76.2,83.5,1017.7,2022
+42495,"Paint, varnish, and supplies merchant wholesalers",5,Wholesale trade,939,22406182,48.5,63.8,74.5,84.1,769.9,2022
+424950,"Paint, varnish, and supplies merchant wholesalers",6,Wholesale trade,939,22406182,48.5,63.8,74.5,84.1,769.9,2022
+42499,Other miscellaneous nondurable goods merchant wholesalers,5,Wholesale trade,9341,55684667,10.4,17.1,26.4,37.9,54.4,2022
+424990,Other miscellaneous nondurable goods merchant wholesalers,6,Wholesale trade,9341,55684667,10.4,17.1,26.4,37.9,54.4,2022
+44-45,Retail trade,2,Retail trade,644146,6974691329,16.5,23.7,33.7,42.7,108.6,2022
+441,Motor vehicle and parts dealers,3,Retail trade,80419,1595315461,7.1,10.9,17.9,22.0,21.5,2022
+4411,Automobile dealers,4,Retail trade,40014,1345924794,8.4,12.7,17.6,21.5,26.0,2022
+44111,New car dealers,5,Retail trade,17242,1186395950,8.4,12.7,16.4,20.5,25.4,2022
+441110,New car dealers,6,Retail trade,17242,1186395950,8.4,12.7,16.4,20.5,25.4,2022
+44122,"Motorcycle, boat, and other motor vehicle dealers",5,Retail trade,10098,67471267,6.5,8.9,12.8,17.6,16.9,2022
+441227,"Motorcycle, ATV, and all other motor vehicle dealers",6,Retail trade,6569,43536909,4.6,6.7,10.4,15.7,10.6,2022
+4413,"Automotive parts, accessories, and tire retailers",4,Retail trade,28285,138686386,34.2,45.2,53.9,59.4,353.9,2022
+44133,Automotive parts and accessories retailers,5,Retail trade,17199,95347894,46.9,55.4,60.3,65.3,645.3,2022
+441330,Automotive parts and accessories retailers,6,Retail trade,17199,95347894,46.9,55.4,60.3,65.3,645.3,2022
+44134,Tire dealers,5,Retail trade,11132,43338492,37.0,44.8,51.4,56.3,480.4,2022
+441340,Tire dealers,6,Retail trade,11132,43338492,37.0,44.8,51.4,56.3,480.4,2022
+44418,Other building material dealers,5,Retail trade,23208,166602481,13.0,17.9,22.9,28.2,58.9,2022
+444180,Other building material dealers,6,Retail trade,23208,166602481,13.0,17.9,22.9,28.2,58.9,2022
+44423,Outdoor power equipment retailers,5,Retail trade,3584,13569422,9.9,15.8,25.4,36.2,46.4,2022
+444230,Outdoor power equipment retailers,6,Retail trade,3584,13569422,9.9,15.8,25.4,36.2,46.4,2022
+445,Food and beverage retailers,3,Retail trade,126254,972255189,32.7,44.0,54.8,63.2,352.1,2022
+4451,Grocery and convenience retailers,4,Retail trade,74052,855861066,37.1,50.0,62.1,70.7,452.6,2022
+44511,Supermarkets and other grocery retailers (except convenience retailers),5,Retail trade,41556,808759234,39.2,52.9,65.7,74.6,506.7,2022
+445110,Supermarkets and other grocery retailers (except convenience retailers),6,Retail trade,41556,808759234,39.2,52.9,65.7,74.6,506.7,2022
+44513,Convenience retailers and vending machine operators,5,Retail trade,32556,47101832,13.2,17.1,20.9,24.0,54.7,2022
+445131,Convenience retailers,6,Retail trade,29905,38815301,10.6,12.8,15.9,18.0,37.4,2022
+44524,Meat retailers,5,Retail trade,5189,11654628,15.2,18.1,22.4,28.1,75.4,2022
+445240,Meat retailers,6,Retail trade,5189,11654628,15.2,18.1,22.4,28.1,75.4,2022
+44525,Fish and seafood retailers,5,Retail trade,2168,3758557,7.0,9.9,16.7,28.3,23.8,2022
+445250,Fish and seafood retailers,6,Retail trade,2168,3758557,7.0,9.9,16.7,28.3,23.8,2022
+445291,Baked goods retailers,6,Retail trade,2407,1765000,6.2,9.2,14.5,23.7,17.6,2022
+4453,"Beer, wine, and liquor retailers",4,Retail trade,32201,73752497,14.7,18.9,23.7,26.8,80.6,2022
+44532,"Beer, wine, and liquor retailers",5,Retail trade,32201,73752497,14.7,18.9,23.7,26.8,80.6,2022
+445320,"Beer, wine, and liquor retailers",6,Retail trade,32201,73752497,14.7,18.9,23.7,26.8,80.6,2022
+4491,Furniture and home furnishings retailers,4,Retail trade,35253,191730447,18.2,27.0,40.1,51.4,129.0,2022
+44911,Furniture retailers,5,Retail trade,14197,91495919,18.9,27.5,41.0,54.0,133.9,2022
+449110,Furniture retailers,6,Retail trade,14197,91495919,18.9,27.5,41.0,54.0,133.9,2022
+44912,Home furnishings retailers,5,Retail trade,21107,100234528,33.3,45.3,54.0,59.8,357.1,2022
+449122,Window treatment retailers,6,Retail trade,2988,4775642,18.6,25.6,30.6,36.8,116.0,2022
+449129,All other home furnishings retailers,6,Retail trade,9761,64851987,51.3,65.4,74.7,79.9,802.6,2022
+455,General merchandise retailers,3,Retail trade,11060,1288961936,79.6,88.3,95.9,98.0,2090.2,2022
+4551,Department stores,4,Retail trade,63,60695753,84.9,98.8,99.9,100.0,2386.8,2022
+45511,Department stores,5,Retail trade,63,60695753,84.9,98.8,99.9,100.0,2386.8,2022
+455110,Department stores,6,Retail trade,63,60695753,84.9,98.8,99.9,100.0,2386.8,2022
+4552,"Warehouse clubs, supercenters, and other general merchandise retailers",4,Retail trade,11002,1228266183,83.5,92.3,96.8,98.1,2295.9,2022
+45521,"Warehouse clubs, supercenters, and other general merchandise retailers",5,Retail trade,11002,1228266183,83.5,92.3,96.8,98.1,2295.9,2022
+456,Health and personal care retailers,3,Retail trade,49659,654625300,59.0,64.6,70.0,74.1,1186.7,2022
+4561,Health and personal care retailers,4,Retail trade,49659,654625300,59.0,64.6,70.0,74.1,1186.7,2022
+45611,Pharmacies and drug retailers,5,Retail trade,19676,543941952,71.0,76.3,79.2,82.0,1710.8,2022
+456110,Pharmacies and drug retailers,6,Retail trade,19676,543941952,71.0,76.3,79.2,82.0,1710.8,2022
+45612,"Cosmetics, beauty supplies, and perfume retailers",5,Retail trade,10885,50312886,49.8,57.5,66.3,73.7,774.8,2022
+456120,"Cosmetics, beauty supplies, and perfume retailers",6,Retail trade,10885,50312886,49.8,57.5,66.3,73.7,774.8,2022
+45619,Other health and personal care retailers,5,Retail trade,15263,44685891,11.9,18.6,29.7,40.5,63.4,2022
+456191,Food (health) supplement retailers,6,Retail trade,8087,21644132,21.5,29.3,42.7,55.1,167.4,2022
+456199,All other health and personal care retailers,6,Retail trade,7176,23041759,15.8,24.3,33.1,43.5,96.6,2022
+457,Gasoline stations and fuel dealers,3,Retail trade,68576,764978138,25.2,34.4,45.4,52.1,206.1,2022
+4571,Gasoline stations,4,Retail trade,64783,721659344,26.7,36.5,48.0,54.4,231.2,2022
+45711,Gasoline stations with convenience stores,5,Retail trade,56502,533830270,23.4,33.2,43.4,50.2,196.1,2022
+457110,Gasoline stations with convenience stores,6,Retail trade,56502,533830270,23.4,33.2,43.4,50.2,196.1,2022
+4572,Fuel dealers,4,Retail trade,3984,43318794,19.5,27.5,35.3,45.2,132.8,2022
+45721,Fuel dealers,5,Retail trade,3984,43318794,19.5,27.5,35.3,45.2,132.8,2022
+457210,Fuel dealers,6,Retail trade,3984,43318794,19.5,27.5,35.3,45.2,132.8,2022
+458,"Clothing, clothing accessories, shoe, and jewelry retailers",3,Retail trade,63241,398929022,19.3,28.2,41.4,56.9,148.2,2022
+4581,Clothing and clothing accessories retailers,4,Retail trade,41966,284788056,27.1,35.6,49.9,65.6,251.4,2022
+45811,Clothing and clothing accessories retailers,5,Retail trade,41966,284788056,27.1,35.6,49.9,65.6,251.4,2022
+458110,Clothing and clothing accessories retailers,6,Retail trade,41966,284788056,27.1,35.6,49.9,65.6,251.4,2022
+4582,Shoe retailers,4,Retail trade,5329,56952789,37.6,50.9,71.7,82.5,565.5,2022
+45821,Shoe retailers,5,Retail trade,5329,56952789,37.6,50.9,71.7,82.5,565.5,2022
+458210,Shoe retailers,6,Retail trade,5329,56952789,37.6,50.9,71.7,82.5,565.5,2022
+459,"Sporting goods, hobby, musical instrument, book and miscellaneous retailers",3,Retail trade,145400,383680068,13.4,20.1,30.6,39.3,74.5,2022
+4591,"Sporting goods, hobby, and musical instrument retailers",4,Retail trade,31766,122177579,26.3,37.3,48.9,55.7,238.0,2022
+45911,Sporting goods retailers,5,Retail trade,17834,81678108,34.8,44.4,52.4,58.4,395.8,2022
+459110,Sporting goods retailers,6,Retail trade,17834,81678108,34.8,44.4,52.4,58.4,395.8,2022
+4594,"Office supplies, stationery, and gift retailers",4,Retail trade,19835,57147427,46.4,54.3,61.9,67.1,683.6,2022
+45941,Office supplies and stationery retailers,5,Retail trade,3182,32695011,78.2,83.3,87.0,89.6,2004.5,2022
+459410,Office supplies and stationery retailers,6,Retail trade,3182,32695011,78.2,83.3,87.0,89.6,2004.5,2022
+45942,"Gift, novelty, and souvenir retailers",5,Retail trade,16663,24452416,22.3,29.5,37.0,44.7,151.5,2022
+459420,"Gift, novelty, and souvenir retailers",6,Retail trade,16663,24452416,22.3,29.5,37.0,44.7,151.5,2022
+4595,Used merchandise retailers,4,Retail trade,15344,24760611,9.8,14.6,22.2,32.2,39.4,2022
+45951,Used merchandise retailers,5,Retail trade,15344,24760611,9.8,14.6,22.2,32.2,39.4,2022
+459510,Used merchandise retailers,6,Retail trade,15344,24760611,9.8,14.6,22.2,32.2,39.4,2022
+45992,Art dealers,5,Retail trade,5009,11082262,23.4,33.7,43.1,52.7,186.5,2022
+459920,Art dealers,6,Retail trade,5009,11082262,23.4,33.7,43.1,52.7,186.5,2022
+45999,All other miscellaneous retailers,5,Retail trade,50424,93541287,10.3,14.6,20.8,27.1,40.5,2022
+459991,"Tobacco, electronic cigarette, and other smoking supplies retailers",6,Retail trade,19453,31282988,6.1,8.5,12.7,18.3,14.6,2022
+459999,All other miscellaneous retailers,6,Retail trade,30996,62258299,15.4,21.9,29.4,37.0,87.7,2022
+48-49,Transportation and warehousing,2,Transportation and warehousing,237360,1316303546,17.2,24.4,31.8,40.8,99.8,2022
+481,Air transportation,3,Transportation and warehousing,2447,277254892,60.2,70.6,83.8,90.8,1010.5,2022
+4811,Scheduled air transportation,4,Transportation and warehousing,539,238990432,69.8,81.7,93.0,98.0,1349.3,2022
+48111,Scheduled air transportation,5,Transportation and warehousing,539,238990432,69.8,81.7,93.0,98.0,1349.3,2022
+481111,Scheduled passenger air transportation,6,Transportation and warehousing,372,228878532,72.9,84.8,94.9,98.9,1465.5,2022
+4812,Nonscheduled air transportation,4,Transportation and warehousing,1921,38264460,35.2,44.5,58.1,70.2,408.9,2022
+48121,Nonscheduled air transportation,5,Transportation and warehousing,1921,38264460,35.2,44.5,58.1,70.2,408.9,2022
+481219,Other nonscheduled air transportation,6,Transportation and warehousing,464,2347688,24.7,40.3,61.6,79.2,296.0,2022
+483,Water transportation,3,Transportation and warehousing,1301,52218192,47.5,59.3,76.5,87.3,786.4,2022
+4831,"Deep sea, coastal, and great lakes water transportation",4,Transportation and warehousing,742,43950000,56.4,69.6,83.8,92.6,1081.5,2022
+48311,"Deep sea, coastal, and great lakes water transportation",5,Transportation and warehousing,742,43950000,56.4,69.6,83.8,92.6,1081.5,2022
+483111,Deep sea freight transportation,6,Transportation and warehousing,227,9772334,61.3,82.0,92.3,97.6,1174.0,2022
+483112,Deep sea passenger transportation,6,Transportation and warehousing,72,23234570,97.7,99.6,99.9,100.0,3436.1,2022
+483113,Coastal and great lakes freight transportation,6,Transportation and warehousing,334,10018393,35.9,51.5,72.7,91.0,503.3,2022
+4832,Inland water transportation,4,Transportation and warehousing,565,8268192,50.3,62.9,76.4,90.2,735.4,2022
+48321,Inland water transportation,5,Transportation and warehousing,565,8268192,50.3,62.9,76.4,90.2,735.4,2022
+483211,Inland water freight transportation,6,Transportation and warehousing,299,7587285,54.9,68.6,83.0,95.1,870.5,2022
+483212,Inland water passenger transportation,6,Transportation and warehousing,267,680907,31.6,51.6,69.7,85.9,423.6,2022
+484,Truck transportation,3,Transportation and warehousing,156156,423270958,8.3,13.5,20.8,28.3,32.7,2022
+4841,General freight trucking,4,Transportation and warehousing,104388,293066873,11.8,19.2,29.0,37.6,63.9,2022
+48411,"General freight trucking, local",5,Transportation and warehousing,43243,54661073,2.3,3.7,6.4,10.5,3.1,2022
+484110,"General freight trucking, local",6,Transportation and warehousing,43243,54661073,2.3,3.7,6.4,10.5,3.1,2022
+48412,"General freight trucking, long-distance",5,Transportation and warehousing,61319,238405800,14.4,23.5,35.4,45.7,95.6,2022
+484121,"General freight trucking, long-distance, truckload",6,Transportation and warehousing,53705,172717339,16.7,22.1,29.4,37.4,98.0,2022
+484122,"General freight trucking, long-distance, less than truckload",6,Transportation and warehousing,7675,65688461,40.8,58.9,76.3,82.9,572.3,2022
+4842,Specialized freight trucking,4,Transportation and warehousing,52012,130204085,6.0,9.0,13.6,18.6,15.0,2022
+48421,Used household and office goods moving,5,Transportation and warehousing,9519,20117014,18.6,22.8,29.4,37.2,111.7,2022
+484210,Used household and office goods moving,6,Transportation and warehousing,9519,20117014,18.6,22.8,29.4,37.2,111.7,2022
+48422,"Specialized freight (except used goods) trucking, local",5,Transportation and warehousing,31927,57501045,1.8,2.9,5.4,9.9,2.4,2022
+484220,"Specialized freight (except used goods) trucking, local",6,Transportation and warehousing,31927,57501045,1.8,2.9,5.4,9.9,2.4,2022
+48423,"Specialized freight (except used goods) trucking, long-distance",5,Transportation and warehousing,10701,52586026,14.3,19.2,27.7,38.1,74.0,2022
+484230,"Specialized freight (except used goods) trucking, long-distance",6,Transportation and warehousing,10701,52586026,14.3,19.2,27.7,38.1,74.0,2022
+4851,Urban transit systems,4,Transportation and warehousing,348,5249844,45.8,65.5,81.1,91.7,673.6,2022
+48511,Urban transit systems,5,Transportation and warehousing,348,5249844,45.8,65.5,81.1,91.7,673.6,2022
+485111,Mixed mode transit systems,6,Transportation and warehousing,20,8902,65.8,83.6,100.0,100.0,1638.0,2022
+485113,Bus and other motor vehicle transit systems,6,Transportation and warehousing,273,4054395,49.8,68.8,83.0,93.1,757.3,2022
+485119,Other urban transit systems,6,Transportation and warehousing,44,227022,56.6,81.7,97.7,100.0,1070.6,2022
+48532,Limousine service,5,Transportation and warehousing,4125,4423342,12.6,17.1,24.6,36.1,55.2,2022
+485320,Limousine service,6,Transportation and warehousing,4125,4423342,12.6,17.1,24.6,36.1,55.2,2022
+4854,School and employee bus transportation,4,Transportation and warehousing,2502,12239935,30.1,37.5,47.2,58.5,324.1,2022
+48541,School and employee bus transportation,5,Transportation and warehousing,2502,12239935,30.1,37.5,47.2,58.5,324.1,2022
+485410,School and employee bus transportation,6,Transportation and warehousing,2502,12239935,30.1,37.5,47.2,58.5,324.1,2022
+4855,Charter bus industry,4,Transportation and warehousing,1074,4367901,15.6,21.8,32.7,47.6,100.3,2022
+48551,Charter bus industry,5,Transportation and warehousing,1074,4367901,15.6,21.8,32.7,47.6,100.3,2022
+485510,Charter bus industry,6,Transportation and warehousing,1074,4367901,15.6,21.8,32.7,47.6,100.3,2022
+4859,Other transit and ground passenger transportation,4,Transportation and warehousing,5065,8211533,14.2,19.9,30.0,39.4,103.1,2022
+48599,Other transit and ground passenger transportation,5,Transportation and warehousing,5065,8211533,14.2,19.9,30.0,39.4,103.1,2022
+485999,All other transit and ground passenger transportation,6,Transportation and warehousing,1618,2405287,18.6,29.5,42.4,54.9,143.1,2022
+486,Pipeline transportation,3,Transportation and warehousing,318,67744423,45.3,60.4,81.2,95.9,636.2,2022
+4861,Pipeline transportation of crude oil,4,Transportation and warehousing,102,15041057,52.5,69.8,92.0,99.7,910.7,2022
+48611,Pipeline transportation of crude oil,5,Transportation and warehousing,102,15041057,52.5,69.8,92.0,99.7,910.7,2022
+486110,Pipeline transportation of crude oil,6,Transportation and warehousing,102,15041057,52.5,69.8,92.0,99.7,910.7,2022
+4862,Pipeline transportation of natural gas,4,Transportation and warehousing,161,38293418,51.7,73.7,91.6,99.2,837.6,2022
+48621,Pipeline transportation of natural gas,5,Transportation and warehousing,161,38293418,51.7,73.7,91.6,99.2,837.6,2022
+486210,Pipeline transportation of natural gas,6,Transportation and warehousing,161,38293418,51.7,73.7,91.6,99.2,837.6,2022
+4869,Other pipeline transportation,4,Transportation and warehousing,95,14409948,51.2,78.8,94.8,99.8,961.1,2022
+48691,Pipeline transportation of refined petroleum products,5,Transportation and warehousing,85,14035688,52.5,80.8,95.6,99.9,1007.0,2022
+486910,Pipeline transportation of refined petroleum products,6,Transportation and warehousing,85,14035688,52.5,80.8,95.6,99.9,1007.0,2022
+4871,"Scenic and sightseeing transportation, land",4,Transportation and warehousing,598,1226946,20.3,30.6,48.3,66.1,199.8,2022
+48711,"Scenic and sightseeing transportation, land",5,Transportation and warehousing,598,1226946,20.3,30.6,48.3,66.1,199.8,2022
+487110,"Scenic and sightseeing transportation, land",6,Transportation and warehousing,598,1226946,20.3,30.6,48.3,66.1,199.8,2022
+4879,"Scenic and sightseeing transportation, other",4,Transportation and warehousing,250,776596,42.0,50.6,65.4,83.5,668.8,2022
+48799,"Scenic and sightseeing transportation, other",5,Transportation and warehousing,250,776596,42.0,50.6,65.4,83.5,668.8,2022
+487990,"Scenic and sightseeing transportation, other",6,Transportation and warehousing,250,776596,42.0,50.6,65.4,83.5,668.8,2022
+488,Support activities for transportation,3,Transportation and warehousing,37886,223924385,6.0,10.0,15.8,25.1,19.3,2022
+4881,Support activities for air transportation,4,Transportation and warehousing,4565,38175672,11.3,19.8,35.3,52.4,82.5,2022
+48811,Airport operations,5,Transportation and warehousing,1095,14465979,25.7,35.9,53.9,70.6,240.5,2022
+488119,Other airport operations,6,Transportation and warehousing,1071,14260232,26.0,36.4,54.7,71.2,247.1,2022
+48819,Other support activities for air transportation,5,Transportation and warehousing,3513,23709693,15.4,24.4,41.5,57.3,115.2,2022
+488190,Other support activities for air transportation,6,Transportation and warehousing,3513,23709693,15.4,24.4,41.5,57.3,115.2,2022
+4882,Support activities for rail transportation,4,Transportation and warehousing,581,7636853,23.9,36.6,59.8,78.5,258.7,2022
+48821,Support activities for rail transportation,5,Transportation and warehousing,581,7636853,23.9,36.6,59.8,78.5,258.7,2022
+488210,Support activities for rail transportation,6,Transportation and warehousing,581,7636853,23.9,36.6,59.8,78.5,258.7,2022
+4883,Support activities for water transportation,4,Transportation and warehousing,2032,22656476,19.7,31.1,47.3,65.1,173.5,2022
+48831,Port and harbor operations,5,Transportation and warehousing,263,4447603,41.1,53.1,72.9,88.5,600.8,2022
+488310,Port and harbor operations,6,Transportation and warehousing,263,4447603,41.1,53.1,72.9,88.5,600.8,2022
+48832,Marine cargo handling,5,Transportation and warehousing,270,10637554,41.3,59.2,79.5,92.1,592.9,2022
+488320,Marine cargo handling,6,Transportation and warehousing,270,10637554,41.3,59.2,79.5,92.1,592.9,2022
+48833,Navigational services to shipping,5,Transportation and warehousing,936,4981408,17.5,28.7,49.6,70.7,163.5,2022
+488330,Navigational services to shipping,6,Transportation and warehousing,936,4981408,17.5,28.7,49.6,70.7,163.5,2022
+48839,Other support activities for water transportation,5,Transportation and warehousing,617,2589911,24.7,37.9,55.7,73.1,251.0,2022
+488390,Other support activities for water transportation,6,Transportation and warehousing,617,2589911,24.7,37.9,55.7,73.1,251.0,2022
+4884,Support activities for road transportation,4,Transportation and warehousing,12285,17117460,6.1,10.0,16.4,22.8,18.6,2022
+48841,Motor vehicle towing,5,Transportation and warehousing,10066,11959942,4.1,5.8,9.2,13.7,7.1,2022
+488410,Motor vehicle towing,6,Transportation and warehousing,10066,11959942,4.1,5.8,9.2,13.7,7.1,2022
+48849,Other support activities for road transportation,5,Transportation and warehousing,2221,5157518,20.1,31.9,48.0,61.9,172.0,2022
+488490,Other support activities for road transportation,6,Transportation and warehousing,2221,5157518,20.1,31.9,48.0,61.9,172.0,2022
+4885,Freight transportation arrangement,4,Transportation and warehousing,17130,134898260,9.9,15.5,23.4,34.3,43.4,2022
+48851,Freight transportation arrangement,5,Transportation and warehousing,17130,134898260,9.9,15.5,23.4,34.3,43.4,2022
+488510,Freight transportation arrangement,6,Transportation and warehousing,17130,134898260,9.9,15.5,23.4,34.3,43.4,2022
+4889,Other support activities for transportation,4,Transportation and warehousing,1438,3439664,14.0,21.5,34.3,50.1,95.9,2022
+48899,Other support activities for transportation,5,Transportation and warehousing,1438,3439664,14.0,21.5,34.3,50.1,95.9,2022
+488991,Packing and crating,6,Transportation and warehousing,1404,3336042,14.4,22.2,34.9,50.6,100.3,2022
+4922,Local messengers and local delivery,4,Transportation and warehousing,4956,23569739,55.5,59.0,62.9,66.2,1074.7,2022
+49221,Local messengers and local delivery,5,Transportation and warehousing,4956,23569739,55.5,59.0,62.9,66.2,1074.7,2022
+492210,Local messengers and local delivery,6,Transportation and warehousing,4956,23569739,55.5,59.0,62.9,66.2,1074.7,2022
+493,Warehousing and storage,3,Transportation and warehousing,9473,60324095,18.5,27.8,39.0,48.2,147.9,2022
+4931,Warehousing and storage,4,Transportation and warehousing,9473,60324095,18.5,27.8,39.0,48.2,147.9,2022
+49313,Farm product warehousing and storage,5,Transportation and warehousing,411,1015319,13.2,21.4,41.2,64.5,118.0,2022
+493130,Farm product warehousing and storage,6,Transportation and warehousing,411,1015319,13.2,21.4,41.2,64.5,118.0,2022
+51,Information,2,Information,91800,2214611787,24.4,38.8,51.7,60.8,231.6,2022
+512,Motion picture and sound recording industries,3,Information,27348,130943339,35.2,51.0,64.4,70.1,420.6,2022
+5121,Motion picture and video industries,4,Information,23344,108616953,40.2,54.5,64.4,69.7,520.5,2022
+51211,Motion picture and video production,5,Information,17547,87527874,49.7,66.4,71.9,76.3,773.7,2022
+512110,Motion picture and video production,6,Information,17547,87527874,49.7,66.4,71.9,76.3,773.7,2022
+51212,Motion picture and video distribution,5,Information,474,1354426,25.5,38.5,55.8,73.7,259.5,2022
+512120,Motion picture and video distribution,6,Information,474,1354426,25.5,38.5,55.8,73.7,259.5,2022
+51213,Motion picture and video exhibition,5,Information,2076,13075677,55.5,61.8,70.4,78.4,1001.5,2022
+512131,Motion picture theaters (except drive-ins),6,Information,1916,12975366,56.0,62.3,70.9,79.0,1017.0,2022
+51219,Postproduction services and other motion picture and video industries,5,Information,3280,6658976,21.5,29.1,42.0,55.7,176.3,2022
+512191,Teleproduction and other postproduction services,6,Information,3102,6423107,21.9,29.8,43.2,56.8,184.2,2022
+512199,Other motion picture and video industries,6,Information,179,235869,47.2,57.6,73.1,87.7,709.1,2022
+5122,Sound recording industries,4,Information,4015,22326386,62.7,74.5,82.7,86.8,1394.1,2022
+51223,Music publishers,5,Information,726,7012840,66.4,80.9,90.2,93.7,1380.3,2022
+512230,Music publishers,6,Information,726,7012840,66.4,80.9,90.2,93.7,1380.3,2022
+5131,"Newspaper, periodical, book, and directory publishers",4,Information,13326,99410725,14.2,23.3,40.6,58.0,110.2,2022
+51311,Newspaper publishers,5,Information,3891,23235013,41.0,53.8,68.1,77.9,522.4,2022
+513110,Newspaper publishers,6,Information,3891,23235013,41.0,53.8,68.1,77.9,522.4,2022
+51312,Periodical publishers,5,Information,3805,24359246,22.8,33.5,47.6,64.4,201.3,2022
+513120,Periodical publishers,6,Information,3805,24359246,22.8,33.5,47.6,64.4,201.3,2022
+51313,Book publishers,5,Information,2191,29149395,35.2,52.6,71.2,81.9,461.5,2022
+513130,Book publishers,6,Information,2191,29149395,35.2,52.6,71.2,81.9,461.5,2022
+51314,Directory and mailing list publishers,5,Information,469,5145874,45.6,63.6,83.0,92.7,841.4,2022
+513140,Directory and mailing list publishers,6,Information,469,5145874,45.6,63.6,83.0,92.7,841.4,2022
+51319,Other publishers,5,Information,3070,17521197,35.4,53.5,69.2,78.7,461.3,2022
+513199,All other publishers,6,Information,2984,14520211,38.1,51.8,66.7,76.8,497.7,2022
+516,Broadcasting and content providers,3,Information,8167,345536397,38.7,56.7,74.8,86.8,544.2,2022
+5162,"Media streaming distribution services, social networks, and other media networks and content providers",4,Information,5217,300837239,41.2,59.0,79.1,89.4,638.2,2022
+51621,"Media streaming distribution services, social networks, and other media networks and content providers",5,Information,5217,300837239,41.2,59.0,79.1,89.4,638.2,2022
+516210,"Media streaming distribution services, social networks, and other media networks and content providers",6,Information,5217,300837239,41.2,59.0,79.1,89.4,638.2,2022
+517,Telecommunications,3,Information,11600,669317530,64.7,79.0,85.6,90.1,1248.4,2022
+5171,Wired and wireless telecommunications carriers (except satellite),4,Information,9628,640810026,67.6,82.5,88.2,91.8,1360.1,2022
+51711,Wired and wireless telecommunications carriers (except satellite),5,Information,4568,605690703,70.3,86.1,91.9,94.7,1467.8,2022
+517111,Wired telecommunications carriers,6,Information,3403,322720357,65.4,80.1,87.7,92.0,1285.9,2022
+517112,Wireless telecommunications carriers (except satellite),6,Information,1184,282970346,96.6,98.1,98.9,99.4,3074.2,2022
+517122,Agents for wireless telecommunications services,6,Information,4191,20396505,25.1,36.0,49.8,65.2,239.4,2022
+5178,All other telecommunications,4,Information,1673,21256687,59.5,69.7,81.1,89.0,1232.4,2022
+51781,All other telecommunications,5,Information,1673,21256687,59.5,69.7,81.1,89.0,1232.4,2022
+517810,All other telecommunications,6,Information,1673,21256687,59.5,69.7,81.1,89.0,1232.4,2022
+51921,Libraries and archives,5,Information,2030,2695128,27.9,35.2,46.6,58.0,254.8,2022
+519210,Libraries and archives,6,Information,2030,2695128,27.9,35.2,46.6,58.0,254.8,2022
+52,Finance and insurance,2,Finance and insurance,242954,5853167294,12.1,19.6,32.8,48.2,78.1,2022
+521,Monetary authorities - central bank,3,Finance and insurance,12,170352000,76.6,94.1,100.0,100.0,3074.0,2022
+5211,Monetary authorities - central bank,4,Finance and insurance,12,170352000,76.6,94.1,100.0,100.0,3074.0,2022
+52111,Monetary authorities - central bank,5,Finance and insurance,12,170352000,76.6,94.1,100.0,100.0,3074.0,2022
+521110,Monetary authorities - central bank,6,Finance and insurance,12,170352000,76.6,94.1,100.0,100.0,3074.0,2022
+522,Credit intermediation and related activities,3,Finance and insurance,38314,1620084430,20.7,30.6,43.3,56.4,162.8,2022
+5221,Depository credit intermediation,4,Finance and insurance,9076,723279296,20.9,29.6,42.0,55.4,164.0,2022
+52211,Commercial banking,5,Finance and insurance,4021,591119249,25.5,36.2,50.7,65.7,241.9,2022
+522110,Commercial banking,6,Finance and insurance,4021,591119249,25.5,36.2,50.7,65.7,241.9,2022
+52218,Savings institutions and other depository credit intermediation,5,Finance and insurance,556,36702480,29.9,41.8,55.4,71.0,384.1,2022
+522180,Savings institutions and other depository credit intermediation,6,Finance and insurance,556,36702480,29.9,41.8,55.4,71.0,384.1,2022
+5222,Nondepository credit intermediation,4,Finance and insurance,13616,716927023,37.8,48.2,62.8,75.5,515.7,2022
+52221,Credit card issuing,5,Finance and insurance,195,161591705,63.1,86.5,98.5,99.9,1245.6,2022
+522210,Credit card issuing,6,Finance and insurance,195,161591705,63.1,86.5,98.5,99.9,1245.6,2022
+52222,Sales financing,5,Finance and insurance,2180,133607705,29.3,47.9,73.2,88.2,378.9,2022
+522220,Sales financing,6,Finance and insurance,2180,133607705,29.3,47.9,73.2,88.2,378.9,2022
+522291,Consumer lending,6,Finance and insurance,2918,47581097,34.8,48.8,66.5,80.9,450.4,2022
+522292,Real estate credit,6,Finance and insurance,3835,109119306,24.8,34.7,50.9,67.4,261.7,2022
+5223,Activities related to credit intermediation,4,Finance and insurance,16131,179878111,35.3,49.4,61.2,73.6,388.1,2022
+52231,Mortgage and nonmortgage loan brokers,5,Finance and insurance,9456,17136412,24.3,33.8,46.9,56.6,217.7,2022
+522310,Mortgage and nonmortgage loan brokers,6,Finance and insurance,9456,17136412,24.3,33.8,46.9,56.6,217.7,2022
+52232,"Financial transactions processing, reserve, and clearinghouse activities",5,Finance and insurance,3551,136661685,46.5,64.7,77.6,89.0,659.6,2022
+522320,"Financial transactions processing, reserve, and clearinghouse activities",6,Finance and insurance,3551,136661685,46.5,64.7,77.6,89.0,659.6,2022
+52239,Other activities related to credit intermediation,5,Finance and insurance,3155,26080014,25.4,37.7,55.7,76.6,263.0,2022
+522390,Other activities related to credit intermediation,6,Finance and insurance,3155,26080014,25.4,37.7,55.7,76.6,263.0,2022
+523,"Securities, commodity contracts, and other financial investments and related activities",3,Finance and insurance,70170,792929795,14.5,23.2,37.5,53.2,101.1,2022
+5231,Securities and commodity contracts intermediation and brokerage,4,Finance and insurance,9111,324832415,26.8,44.1,67.7,80.9,318.2,2022
+52315,Investment banking and securities intermediation,5,Finance and insurance,7815,306672615,28.3,46.5,71.3,84.9,354.8,2022
+523150,Investment banking and securities intermediation,6,Finance and insurance,7815,306672615,28.3,46.5,71.3,84.9,354.8,2022
+52316,Commodity contracts intermediation,5,Finance and insurance,1317,18159800,25.1,42.0,64.7,81.1,301.2,2022
+523160,Commodity contracts intermediation,6,Finance and insurance,1317,18159800,25.1,42.0,64.7,81.1,301.2,2022
+5232,Securities and commodity exchanges,4,Finance and insurance,17,16491745,95.1,99.7,100.0,100.0,2434.7,2022
+52321,Securities and commodity exchanges,5,Finance and insurance,17,16491745,95.1,99.7,100.0,100.0,2434.7,2022
+523210,Securities and commodity exchanges,6,Finance and insurance,17,16491745,95.1,99.7,100.0,100.0,2434.7,2022
+5239,Other financial investment activities,4,Finance and insurance,61233,451605635,12.6,19.1,31.9,45.5,75.3,2022
+52391,Miscellaneous intermediation,5,Finance and insurance,8885,45812392,14.0,19.5,28.8,39.5,84.4,2022
+523910,Miscellaneous intermediation,6,Finance and insurance,8885,45812392,14.0,19.5,28.8,39.5,84.4,2022
+52394,Portfolio management and investment advice,5,Finance and insurance,49678,372863644,15.0,22.5,35.5,49.9,97.8,2022
+523940,Portfolio management and investment advice,6,Finance and insurance,49678,372863644,15.0,22.5,35.5,49.9,97.8,2022
+52399,All other financial investment activities,5,Finance and insurance,2839,32929599,38.3,55.7,75.5,86.1,537.5,2022
+523991,"Trust, fiduciary, and custody activities",6,Finance and insurance,1952,19078263,42.3,57.2,77.4,86.7,705.1,2022
+523999,Miscellaneous financial investment activities,6,Finance and insurance,893,13851336,60.1,81.0,90.4,95.2,1209.3,2022
+524,Insurance carriers and related activities,3,Finance and insurance,135425,3269801069,21.7,32.5,48.7,66.7,193.1,2022
+5241,Insurance carriers,4,Finance and insurance,4644,2774399187,20.7,31.3,50.0,70.4,190.7,2022
+52411,"Direct life, health, and medical insurance carriers",5,Finance and insurance,1345,1899436350,30.2,42.7,62.3,80.6,336.6,2022
+524113,Direct life insurance carriers,6,Finance and insurance,614,600733976,26.4,43.0,70.0,92.2,331.2,2022
+524114,Direct health and medical insurance carriers,6,Finance and insurance,747,1298702374,44.2,62.0,79.2,90.2,649.3,2022
+52412,"Direct insurance (except life, health, and medical) carriers",5,Finance and insurance,3233,776216917,29.1,48.1,66.9,82.4,360.3,2022
+524126,Direct property and casualty insurance carriers,6,Finance and insurance,2079,727460358,31.0,51.3,70.9,84.7,405.8,2022
+524127,Direct title insurance carriers,6,Finance and insurance,813,23431265,80.2,90.7,95.6,97.1,1796.5,2022
+524128,"Other direct insurance (except life, health, and medical) carriers",6,Finance and insurance,354,25325294,57.2,71.2,87.7,96.9,1189.4,2022
+52413,Reinsurance carriers,5,Finance and insurance,132,98745920,57.8,73.7,91.9,99.7,1119.5,2022
+524130,Reinsurance carriers,6,Finance and insurance,132,98745920,57.8,73.7,91.9,99.7,1119.5,2022
+5242,"Agencies, brokerages, and other insurance related activities",4,Finance and insurance,131043,495401882,44.5,50.1,57.8,64.5,548.8,2022
+52421,Insurance agencies and brokerages,5,Finance and insurance,122475,194292060,11.2,18.4,29.3,37.8,59.5,2022
+524210,Insurance agencies and brokerages,6,Finance and insurance,122475,194292060,11.2,18.4,29.3,37.8,59.5,2022
+52429,Other insurance related activities,5,Finance and insurance,8692,301109822,72.8,79.4,84.0,88.8,1449.4,2022
+524291,Claims adjusting,6,Finance and insurance,3862,8878939,21.3,31.0,43.8,55.9,161.3,2022
+524292,Pharmacy benefit management and other third party administration of insurance and pension funds,6,Finance and insurance,2480,283554088,77.3,84.3,88.9,93.0,1633.5,2022
+524298,All other insurance related activities,6,Finance and insurance,2390,8676795,40.1,47.9,61.3,74.0,492.9,2022
+53,Real estate and rental and leasing,2,Real estate and rental and leasing,368958,946391561,5.8,8.9,15.8,24.5,19.6,2022
+531,Real estate,3,Real estate and rental and leasing,343078,672216067,4.3,7.3,13.7,21.4,12.8,2022
+5311,Lessors of real estate,4,Real estate and rental and leasing,104669,349885033,5.4,9.6,18.2,28.6,21.9,2022
+53111,Lessors of residential buildings and dwellings,5,Real estate and rental and leasing,55397,162306133,8.8,13.7,21.9,29.8,34.9,2022
+531110,Lessors of residential buildings and dwellings,6,Real estate and rental and leasing,55397,162306133,8.8,13.7,21.9,29.8,34.9,2022
+53112,Lessors of nonresidential buildings (except miniwarehouses),5,Real estate and rental and leasing,33656,155238316,11.1,18.5,29.4,45.0,64.0,2022
+531120,Lessors of nonresidential buildings (except miniwarehouses),6,Real estate and rental and leasing,33656,155238316,11.1,18.5,29.4,45.0,64.0,2022
+53113,Lessors of miniwarehouses and self-storage units,5,Real estate and rental and leasing,8946,20615435,42.7,52.5,58.8,64.0,606.0,2022
+531130,Lessors of miniwarehouses and self-storage units,6,Real estate and rental and leasing,8946,20615435,42.7,52.5,58.8,64.0,606.0,2022
+53119,Lessors of other real estate property,5,Real estate and rental and leasing,7019,11725149,29.4,34.0,41.0,47.3,258.9,2022
+531190,Lessors of other real estate property,6,Real estate and rental and leasing,7019,11725149,29.4,34.0,41.0,47.3,258.9,2022
+5312,Offices of real estate agents and brokers,4,Real estate and rental and leasing,150558,179408329,11.8,18.3,26.7,31.6,54.3,2022
+53121,Offices of real estate agents and brokers,5,Real estate and rental and leasing,150558,179408329,11.8,18.3,26.7,31.6,54.3,2022
+531210,Offices of real estate agents and brokers,6,Real estate and rental and leasing,150558,179408329,11.8,18.3,26.7,31.6,54.3,2022
+5313,Activities related to real estate,4,Real estate and rental and leasing,89038,142922705,10.6,13.6,18.4,23.7,40.7,2022
+53131,Real estate property managers,5,Real estate and rental and leasing,55282,109104792,13.6,16.6,21.1,26.2,63.3,2022
+531311,Residential property managers,6,Real estate and rental and leasing,39404,69603162,7.1,9.6,13.9,20.3,24.1,2022
+53132,Offices of real estate appraisers,5,Real estate and rental and leasing,12955,7920354,17.8,24.9,35.6,45.1,116.9,2022
+531320,Offices of real estate appraisers,6,Real estate and rental and leasing,12955,7920354,17.8,24.9,35.6,45.1,116.9,2022
+53139,Other activities related to real estate,5,Real estate and rental and leasing,20909,25897559,13.2,19.1,25.3,32.0,60.7,2022
+531390,Other activities related to real estate,6,Real estate and rental and leasing,20909,25897559,13.2,19.1,25.3,32.0,60.7,2022
+532,Rental and leasing services,3,Real estate and rental and leasing,23521,212105852,25.1,36.3,48.3,59.6,251.3,2022
+532111,Passenger car rental,6,Real estate and rental and leasing,2190,38771599,89.6,91.6,93.4,95.5,3029.2,2022
+53212,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",5,Real estate and rental and leasing,1693,37280090,58.9,70.6,79.4,87.2,1081.4,2022
+532120,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",6,Real estate and rental and leasing,1693,37280090,58.9,70.6,79.4,87.2,1081.4,2022
+5322,Consumer goods rental,4,Real estate and rental and leasing,8651,22237420,33.2,39.8,46.2,54.1,313.1,2022
+532284,Recreational goods rental,6,Real estate and rental and leasing,2633,2290405,16.6,22.5,29.1,38.0,90.6,2022
+532289,All other consumer goods rental,6,Real estate and rental and leasing,4232,7214792,9.3,14.7,24.0,35.1,43.5,2022
+5323,General rental centers,4,Real estate and rental and leasing,1919,3151403,7.3,11.4,20.1,32.1,30.5,2022
+53231,General rental centers,5,Real estate and rental and leasing,1919,3151403,7.3,11.4,20.1,32.1,30.5,2022
+532310,General rental centers,6,Real estate and rental and leasing,1919,3151403,7.3,11.4,20.1,32.1,30.5,2022
+5324,Commercial and industrial machinery and equipment rental and leasing,4,Real estate and rental and leasing,8859,95966481,22.0,30.5,41.9,53.5,194.3,2022
+532411,"Commercial air, rail, and water transportation equipment rental and leasing",6,Real estate and rental and leasing,526,13226812,47.4,69.9,89.0,95.8,798.4,2022
+53242,Office machinery and equipment rental and leasing,5,Real estate and rental and leasing,478,2572824,33.5,48.4,65.2,80.3,393.0,2022
+532420,Office machinery and equipment rental and leasing,6,Real estate and rental and leasing,478,2572824,33.5,48.4,65.2,80.3,393.0,2022
+53249,Other commercial and industrial machinery and equipment rental and leasing,5,Real estate and rental and leasing,5347,43776626,23.2,33.6,44.4,55.7,186.7,2022
+532490,Other commercial and industrial machinery and equipment rental and leasing,6,Real estate and rental and leasing,5347,43776626,23.2,33.6,44.4,55.7,186.7,2022
+533,Lessors of nonfinancial intangible assets (except copyrighted works),3,Real estate and rental and leasing,2446,62069642,28.4,42.8,63.8,81.9,329.0,2022
+5331,Lessors of nonfinancial intangible assets (except copyrighted works),4,Real estate and rental and leasing,2446,62069642,28.4,42.8,63.8,81.9,329.0,2022
+53311,Lessors of nonfinancial intangible assets (except copyrighted works),5,Real estate and rental and leasing,2446,62069642,28.4,42.8,63.8,81.9,329.0,2022
+533110,Lessors of nonfinancial intangible assets (except copyrighted works),6,Real estate and rental and leasing,2446,62069642,28.4,42.8,63.8,81.9,329.0,2022
+54,"Professional, scientific, and technical services",2,"Professional, scientific, and technical services",876176,2667262040,3.8,6.3,10.4,16.3,7.9,2022
+541,"Professional, scientific, and technical services",3,"Professional, scientific, and technical services",876176,2667262040,3.8,6.3,10.4,16.3,7.9,2022
+5411,Legal services,4,"Professional, scientific, and technical services",168337,374572500,3.8,6.1,11.3,20.4,10.3,2022
+54111,Offices of lawyers,5,"Professional, scientific, and technical services",156777,356046433,4.0,6.4,11.9,21.4,11.4,2022
+541110,Offices of lawyers,6,"Professional, scientific, and technical services",156777,356046433,4.0,6.4,11.9,21.4,11.4,2022
+54119,Other legal services,5,"Professional, scientific, and technical services",11643,18526067,12.1,16.8,26.1,35.0,67.2,2022
+541199,All other legal services,6,"Professional, scientific, and technical services",4860,5986226,20.2,26.7,36.9,47.3,152.5,2022
+5412,"Accounting, tax preparation, bookkeeping, and payroll services",4,"Professional, scientific, and technical services",120889,208847722,33.4,38.3,45.8,51.8,300.4,2022
+54121,"Accounting, tax preparation, bookkeeping, and payroll services",5,"Professional, scientific, and technical services",120889,208847722,33.4,38.3,45.8,51.8,300.4,2022
+541211,Offices of certified public accountants,6,"Professional, scientific, and technical services",49807,144729301,47.7,53.4,60.4,65.7,601.6,2022
+541214,Payroll services,6,"Professional, scientific, and technical services",4902,26566580,30.5,39.6,50.1,60.2,311.0,2022
+541219,Other accounting services,6,"Professional, scientific, and technical services",47767,30296065,6.7,9.0,13.1,18.9,16.0,2022
+5413,"Architectural, engineering, and related services",4,"Professional, scientific, and technical services",97304,406514457,6.3,9.7,16.4,24.6,19.9,2022
+54131,Architectural services,5,"Professional, scientific, and technical services",21258,48566045,5.5,8.4,14.8,22.2,18.0,2022
+541310,Architectural services,6,"Professional, scientific, and technical services",21258,48566045,5.5,8.4,14.8,22.2,18.0,2022
+54132,Landscape architectural services,5,"Professional, scientific, and technical services",4969,6598613,7.1,9.6,14.9,24.1,25.0,2022
+541320,Landscape architectural services,6,"Professional, scientific, and technical services",4969,6598613,7.1,9.6,14.9,24.1,25.0,2022
+54133,Engineering services,5,"Professional, scientific, and technical services",47367,304267132,8.4,13.0,21.8,31.7,34.6,2022
+541330,Engineering services,6,"Professional, scientific, and technical services",47367,304267132,8.4,13.0,21.8,31.7,34.6,2022
+54134,Drafting services,5,"Professional, scientific, and technical services",3153,2182792,15.0,19.9,28.4,38.6,84.4,2022
+541340,Drafting services,6,"Professional, scientific, and technical services",3153,2182792,15.0,19.9,28.4,38.6,84.4,2022
+54135,Building inspection services,5,"Professional, scientific, and technical services",7459,4464207,7.6,12.7,22.0,32.7,33.1,2022
+541350,Building inspection services,6,"Professional, scientific, and technical services",7459,4464207,7.6,12.7,22.0,32.7,33.1,2022
+54136,Geophysical surveying and mapping services,5,"Professional, scientific, and technical services",769,1530281,20.8,30.4,48.2,67.8,213.9,2022
+541360,Geophysical surveying and mapping services,6,"Professional, scientific, and technical services",769,1530281,20.8,30.4,48.2,67.8,213.9,2022
+54137,Surveying and mapping (except geophysical) services,5,"Professional, scientific, and technical services",7225,10973355,8.7,11.6,16.8,25.4,26.5,2022
+541370,Surveying and mapping (except geophysical) services,6,"Professional, scientific, and technical services",7225,10973355,8.7,11.6,16.8,25.4,26.5,2022
+54138,Testing laboratories and services,5,"Professional, scientific, and technical services",5690,27932032,15.3,24.4,37.0,49.8,103.0,2022
+541380,Testing laboratories and services,6,"Professional, scientific, and technical services",5690,27932032,15.3,24.4,37.0,49.8,103.0,2022
+5414,Specialized design services,4,"Professional, scientific, and technical services",37464,36832125,3.2,4.8,8.0,11.9,4.8,2022
+54141,Interior design services,5,"Professional, scientific, and technical services",16649,19704022,3.3,4.8,7.4,11.6,4.7,2022
+541410,Interior design services,6,"Professional, scientific, and technical services",16649,19704022,3.3,4.8,7.4,11.6,4.7,2022
+54142,Industrial design services,5,"Professional, scientific, and technical services",1680,4033369,20.9,28.2,39.9,56.1,187.4,2022
+541420,Industrial design services,6,"Professional, scientific, and technical services",1680,4033369,20.9,28.2,39.9,56.1,187.4,2022
+54143,Graphic design services,5,"Professional, scientific, and technical services",16233,9785125,2.7,4.6,8.0,13.8,4.9,2022
+541430,Graphic design services,6,"Professional, scientific, and technical services",16233,9785125,2.7,4.6,8.0,13.8,4.9,2022
+54149,Other specialized design services,5,"Professional, scientific, and technical services",2910,3309609,21.2,30.5,42.2,55.2,160.9,2022
+541490,Other specialized design services,6,"Professional, scientific, and technical services",2910,3309609,21.2,30.5,42.2,55.2,160.9,2022
+5415,Computer systems design and related services,4,"Professional, scientific, and technical services",125645,600590857,11.0,15.7,24.0,32.3,49.9,2022
+54151,Computer systems design and related services,5,"Professional, scientific, and technical services",125645,600590857,11.0,15.7,24.0,32.3,49.9,2022
+541511,Custom computer programming services,6,"Professional, scientific, and technical services",63144,278509030,11.8,17.5,23.7,30.8,54.7,2022
+541512,Computer systems design services,6,"Professional, scientific, and technical services",46074,243316132,21.1,28.7,39.9,49.5,189.6,2022
+541513,Computer facilities management services,6,"Professional, scientific, and technical services",5338,23792816,13.8,20.5,30.5,44.1,80.3,2022
+541519,Other computer related services,6,"Professional, scientific, and technical services",11570,54972879,23.2,28.9,36.9,45.8,186.6,2022
+5416,"Management, scientific, and technical consulting services",4,"Professional, scientific, and technical services",211100,435022191,10.8,15.3,21.4,26.5,43.6,2022
+54161,Management consulting services,5,"Professional, scientific, and technical services",178871,360094160,10.9,15.2,21.8,27.3,47.5,2022
+541611,Administrative management and general management consulting services,6,"Professional, scientific, and technical services",101761,219100685,17.8,24.6,30.8,36.9,118.4,2022
+541612,Human resources consulting services,6,"Professional, scientific, and technical services",7694,24602937,31.2,37.4,48.3,59.7,281.3,2022
+541613,Marketing consulting services,6,"Professional, scientific, and technical services",50507,77451090,7.1,10.6,16.5,24.4,24.1,2022
+541614,"Process, physical distribution, and logistics consulting services",6,"Professional, scientific, and technical services",8668,26038041,7.2,12.0,20.2,31.9,30.0,2022
+54162,Environmental consulting services,5,"Professional, scientific, and technical services",8498,21384227,12.1,18.6,28.9,40.0,62.6,2022
+541620,Environmental consulting services,6,"Professional, scientific, and technical services",8498,21384227,12.1,18.6,28.9,40.0,62.6,2022
+5417,Scientific research and development services,4,"Professional, scientific, and technical services",18219,340522804,11.1,16.8,28.3,42.3,59.0,2022
+54171,"Research and development in the physical, engineering, and life sciences",5,"Professional, scientific, and technical services",16450,331224409,11.4,17.3,29.1,43.3,62.2,2022
+541713,Research and development in nanotechnology,6,"Professional, scientific, and technical services",1605,44503065,38.6,57.0,73.0,83.5,551.3,2022
+541714,Research and development in biotechnology (except nanobiotechnology),6,"Professional, scientific, and technical services",4593,90982176,12.9,21.5,37.0,52.9,90.9,2022
+541715,"Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)",6,"Professional, scientific, and technical services",10504,195739168,17.7,25.3,37.5,49.5,117.2,2022
+54172,Research and development in the social sciences and humanities,5,"Professional, scientific, and technical services",1782,9298395,30.0,43.0,57.8,73.0,390.2,2022
+541720,Research and development in the social sciences and humanities,6,"Professional, scientific, and technical services",1782,9298395,30.0,43.0,57.8,73.0,390.2,2022
+5418,"Advertising, public relations, and related services",4,"Professional, scientific, and technical services",34694,134760114,15.8,21.0,28.6,36.1,79.3,2022
+54182,Public relations agencies,5,"Professional, scientific, and technical services",8125,15830716,14.4,20.1,28.0,37.5,73.7,2022
+541820,Public relations agencies,6,"Professional, scientific, and technical services",8125,15830716,14.4,20.1,28.0,37.5,73.7,2022
+54183,Media buying agencies,5,"Professional, scientific, and technical services",632,8996771,34.5,52.7,70.0,83.7,441.6,2022
+541830,Media buying agencies,6,"Professional, scientific, and technical services",632,8996771,34.5,52.7,70.0,83.7,441.6,2022
+54186,Direct mail advertising,5,"Professional, scientific, and technical services",1694,8595945,14.8,23.5,39.8,54.9,106.0,2022
+541860,Direct mail advertising,6,"Professional, scientific, and technical services",1694,8595945,14.8,23.5,39.8,54.9,106.0,2022
+54187,Advertising material distribution services,5,"Professional, scientific, and technical services",754,2377437,27.0,40.6,61.6,79.4,311.3,2022
+541870,Advertising material distribution services,6,"Professional, scientific, and technical services",754,2377437,27.0,40.6,61.6,79.4,311.3,2022
+54189,Other services related to advertising,5,"Professional, scientific, and technical services",7067,22061451,16.2,23.1,32.2,42.3,94.9,2022
+541890,Other services related to advertising,6,"Professional, scientific, and technical services",7067,22061451,16.2,23.1,32.2,42.3,94.9,2022
+5419,"Other professional, scientific, and technical services",4,"Professional, scientific, and technical services",64771,129599270,11.2,15.7,23.5,32.1,54.8,2022
+54191,Marketing research and public opinion polling,5,"Professional, scientific, and technical services",3649,25151509,21.5,32.7,49.0,64.1,189.2,2022
+541910,Marketing research and public opinion polling,6,"Professional, scientific, and technical services",3649,25151509,21.5,32.7,49.0,64.1,189.2,2022
+541922,Commercial photography,6,"Professional, scientific, and technical services",5313,2631904,6.6,9.7,15.8,24.4,19.4,2022
+54193,Translation and interpretation services,5,"Professional, scientific, and technical services",2728,6850915,35.1,47.9,64.0,74.7,395.4,2022
+541930,Translation and interpretation services,6,"Professional, scientific, and technical services",2728,6850915,35.1,47.9,64.0,74.7,395.4,2022
+54199,"All other professional, scientific, and technical services",5,"Professional, scientific, and technical services",17530,28003887,14.2,19.7,28.7,39.0,77.5,2022
+541990,"All other professional, scientific, and technical services",6,"Professional, scientific, and technical services",17530,28003887,14.2,19.7,28.7,39.0,77.5,2022
+56,Administrative and support and waste management and remediation services,2,Administrative and support and waste management and remediation services,381490,1347672352,7.5,10.8,17.2,25.2,23.0,2022
+561,Administrative and support services,3,Administrative and support and waste management and remediation services,359824,1209248536,7.8,10.9,17.4,25.6,25.1,2022
+5611,Office administrative services,4,Administrative and support and waste management and remediation services,34536,90788752,3.4,5.5,9.9,16.5,7.4,2022
+56111,Office administrative services,5,Administrative and support and waste management and remediation services,34536,90788752,3.4,5.5,9.9,16.5,7.4,2022
+561110,Office administrative services,6,Administrative and support and waste management and remediation services,34536,90788752,3.4,5.5,9.9,16.5,7.4,2022
+5612,Facilities support services,4,Administrative and support and waste management and remediation services,2941,41192674,22.3,36.3,50.4,60.2,211.6,2022
+56121,Facilities support services,5,Administrative and support and waste management and remediation services,2941,41192674,22.3,36.3,50.4,60.2,211.6,2022
+561210,Facilities support services,6,Administrative and support and waste management and remediation services,2941,41192674,22.3,36.3,50.4,60.2,211.6,2022
+5613,Employment services,4,Administrative and support and waste management and remediation services,31331,557867373,17.0,23.2,34.1,47.1,105.4,2022
+56131,Employment placement agencies and executive search services,5,Administrative and support and waste management and remediation services,12459,33972057,10.2,15.3,23.4,33.6,43.5,2022
+561311,Employment placement agencies,6,Administrative and support and waste management and remediation services,6270,21375462,10.4,15.5,26.0,36.9,55.6,2022
+561312,Executive search services,6,Administrative and support and waste management and remediation services,6198,12596595,23.6,29.2,38.3,45.9,163.8,2022
+56132,Temporary help services,5,Administrative and support and waste management and remediation services,16340,326027203,18.1,25.2,37.6,48.8,137.7,2022
+561320,Temporary help services,6,Administrative and support and waste management and remediation services,16340,326027203,18.1,25.2,37.6,48.8,137.7,2022
+56133,Professional employer organizations,5,Administrative and support and waste management and remediation services,2735,197868113,35.4,46.5,61.5,74.0,470.3,2022
+561330,Professional employer organizations,6,Administrative and support and waste management and remediation services,2735,197868113,35.4,46.5,61.5,74.0,470.3,2022
+5614,Business support services,4,Administrative and support and waste management and remediation services,22259,84095887,13.9,22.4,33.3,44.4,82.2,2022
+56142,Telephone call centers,5,Administrative and support and waste management and remediation services,3300,28168233,20.4,27.6,38.9,53.7,144.7,2022
+561421,Telephone answering services,6,Administrative and support and waste management and remediation services,934,2592138,19.6,31.0,48.1,65.3,172.4,2022
+561422,Telemarketing bureaus and other contact centers,6,Administrative and support and waste management and remediation services,2380,25576095,21.8,29.7,42.1,57.9,165.2,2022
+56145,Credit bureaus,5,Administrative and support and waste management and remediation services,222,14666741,75.1,90.0,96.6,99.0,1559.8,2022
+561450,Credit bureaus,6,Administrative and support and waste management and remediation services,222,14666741,75.1,90.0,96.6,99.0,1559.8,2022
+56149,Other business support services,5,Administrative and support and waste management and remediation services,6576,13870038,17.7,27.2,40.9,53.3,126.8,2022
+561491,Repossession services,6,Administrative and support and waste management and remediation services,566,1114072,24.3,33.2,45.2,60.6,207.7,2022
+561499,All other business support services,6,Administrative and support and waste management and remediation services,3022,9685595,22.7,33.3,47.5,60.7,187.2,2022
+5615,Travel arrangement and reservation services,4,Administrative and support and waste management and remediation services,12519,69017444,34.2,41.2,52.1,64.3,396.4,2022
+56152,Tour operators,5,Administrative and support and waste management and remediation services,2513,9029899,23.3,32.9,44.3,56.0,193.1,2022
+561520,Tour operators,6,Administrative and support and waste management and remediation services,2513,9029899,23.3,32.9,44.3,56.0,193.1,2022
+56159,Other travel arrangement and reservation services,5,Administrative and support and waste management and remediation services,2522,27645638,29.7,39.7,58.4,72.5,362.1,2022
+561591,Convention and visitors bureaus,6,Administrative and support and waste management and remediation services,863,2656992,15.7,23.0,38.1,58.4,118.1,2022
+561599,All other travel arrangement and reservation services,6,Administrative and support and waste management and remediation services,1661,24988646,32.8,43.9,64.7,79.5,442.5,2022
+5616,Investigation and security services,4,Administrative and support and waste management and remediation services,21607,80744118,25.6,33.5,41.9,49.9,215.5,2022
+561611,Investigation and personal background check services,6,Administrative and support and waste management and remediation services,3799,6154657,23.4,34.1,46.8,59.5,199.8,2022
+561613,Armored car services,6,Administrative and support and waste management and remediation services,108,3605043,89.9,93.1,96.9,99.5,2721.0,2022
+561622,Locksmiths,6,Administrative and support and waste management and remediation services,3895,2626866,6.5,9.1,14.0,21.6,17.5,2022
+5617,Services to buildings and dwellings,4,Administrative and support and waste management and remediation services,216555,226044687,6.4,9.6,14.0,18.5,17.2,2022
+56171,Exterminating and pest control services,5,Administrative and support and waste management and remediation services,13928,19895993,31.1,37.9,44.1,48.7,327.2,2022
+561710,Exterminating and pest control services,6,Administrative and support and waste management and remediation services,13928,19895993,31.1,37.9,44.1,48.7,327.2,2022
+56173,Landscaping services,5,Administrative and support and waste management and remediation services,114570,115405806,7.4,9.6,12.5,15.5,18.1,2022
+561730,Landscaping services,6,Administrative and support and waste management and remediation services,114570,115405806,7.4,9.6,12.5,15.5,18.1,2022
+5619,Other support services,4,Administrative and support and waste management and remediation services,18855,59497601,7.6,12.5,20.4,30.6,29.8,2022
+56191,Packaging and labeling services,5,Administrative and support and waste management and remediation services,1964,12433752,20.1,27.2,38.5,52.0,147.6,2022
+561910,Packaging and labeling services,6,Administrative and support and waste management and remediation services,1964,12433752,20.1,27.2,38.5,52.0,147.6,2022
+56192,Convention and trade show organizers,5,Administrative and support and waste management and remediation services,6345,17385657,13.3,20.0,30.5,42.6,78.8,2022
+561920,Convention and trade show organizers,6,Administrative and support and waste management and remediation services,6345,17385657,13.3,20.0,30.5,42.6,78.8,2022
+56199,All other support services,5,Administrative and support and waste management and remediation services,10554,29678192,14.0,19.8,30.4,42.4,75.2,2022
+561990,All other support services,6,Administrative and support and waste management and remediation services,10554,29678192,14.0,19.8,30.4,42.4,75.2,2022
+562,Waste management and remediation services,3,Administrative and support and waste management and remediation services,21788,138423816,29.1,34.8,42.3,49.6,293.3,2022
+5621,Waste collection,4,Administrative and support and waste management and remediation services,8976,72592193,42.2,48.1,56.1,63.1,580.5,2022
+56211,Waste collection,5,Administrative and support and waste management and remediation services,8976,72592193,42.2,48.1,56.1,63.1,580.5,2022
+562111,Solid waste collection,6,Administrative and support and waste management and remediation services,7218,65755987,45.8,52.1,60.4,66.4,679.1,2022
+562112,Hazardous waste collection,6,Administrative and support and waste management and remediation services,302,3203712,35.3,46.3,65.3,81.9,401.8,2022
+562119,Other waste collection,6,Administrative and support and waste management and remediation services,1486,3632494,34.8,42.9,50.9,61.2,340.3,2022
+5622,Waste treatment and disposal,4,Administrative and support and waste management and remediation services,1630,24760933,38.5,54.5,71.0,80.5,537.0,2022
+56221,Waste treatment and disposal,5,Administrative and support and waste management and remediation services,1630,24760933,38.5,54.5,71.0,80.5,537.0,2022
+562211,Hazardous waste treatment and disposal,6,Administrative and support and waste management and remediation services,321,9011637,51.3,67.1,82.4,92.9,925.1,2022
+562219,Other nonhazardous waste treatment and disposal,6,Administrative and support and waste management and remediation services,486,1993209,28.4,42.5,58.8,74.8,303.9,2022
+5629,Remediation and other waste management services,4,Administrative and support and waste management and remediation services,11344,41070690,7.2,11.1,18.3,28.5,27.1,2022
+56291,Remediation services,5,Administrative and support and waste management and remediation services,5115,22739109,9.0,14.3,25.1,37.4,43.2,2022
+562910,Remediation services,6,Administrative and support and waste management and remediation services,5115,22739109,9.0,14.3,25.1,37.4,43.2,2022
+56299,All other waste management services,5,Administrative and support and waste management and remediation services,5097,9910086,12.7,17.8,25.0,34.3,59.8,2022
+562991,Septic tank and related services,6,Administrative and support and waste management and remediation services,3821,6317781,15.5,19.8,26.8,35.5,92.1,2022
+562998,All other miscellaneous waste management services,6,Administrative and support and waste management and remediation services,1279,3592305,20.9,28.3,40.1,53.4,176.8,2022
+61,Educational services,2,Educational services,82897,89551664,5.0,7.4,11.9,18.5,11.0,2022
+611,Educational services,3,Educational services,82897,89551664,5.0,7.4,11.9,18.5,11.0,2022
+6114,Business schools and computer and management training,4,Educational services,10423,19188294,7.0,12.1,20.1,31.7,29.2,2022
+61142,Computer training,5,Educational services,1859,4487460,22.2,29.3,39.4,53.0,177.4,2022
+611420,Computer training,6,Educational services,1859,4487460,22.2,29.3,39.4,53.0,177.4,2022
+61143,Professional and management development training,5,Educational services,8511,14574660,7.7,13.1,21.7,34.8,35.0,2022
+611430,Professional and management development training,6,Educational services,8511,14574660,7.7,13.1,21.7,34.8,35.0,2022
+611511,Cosmetology and barber schools,6,Educational services,1322,2041111,13.0,19.0,27.7,38.8,67.4,2022
+611513,Apprenticeship training,6,Educational services,1001,2153792,10.4,17.0,29.8,45.8,65.5,2022
+611519,Other technical and trade schools,6,Educational services,3590,6964533,13.2,21.4,33.1,48.0,83.8,2022
+6116,Other schools and instruction,4,Educational services,55176,33319358,5.0,7.3,11.5,16.6,11.5,2022
+61161,Fine arts schools,5,Educational services,15977,6876841,1.7,2.9,5.5,9.4,2.2,2022
+611610,Fine arts schools,6,Educational services,15977,6876841,1.7,2.9,5.5,9.4,2.2,2022
+61162,Sports and recreation instruction,5,Educational services,19703,11640631,5.9,8.3,10.9,14.3,13.0,2022
+611620,Sports and recreation instruction,6,Educational services,19703,11640631,5.9,8.3,10.9,14.3,13.0,2022
+61163,Language schools,5,Educational services,1318,1291747,29.2,36.1,48.1,58.6,266.3,2022
+611630,Language schools,6,Educational services,1318,1291747,29.2,36.1,48.1,58.6,266.3,2022
+61169,All other schools and instruction,5,Educational services,18193,13510139,11.9,16.7,24.7,33.4,59.4,2022
+611691,Exam preparation and tutoring,6,Educational services,8565,7286419,22.1,29.9,40.7,50.5,186.6,2022
+611692,Automobile driving schools,6,Educational services,2396,1330809,18.7,24.4,31.0,40.1,121.1,2022
+611699,All other miscellaneous schools and instruction,6,Educational services,7239,4892911,10.2,14.1,21.2,29.6,37.5,2022
+6117,Educational support services,4,Educational services,10504,21756939,16.8,23.1,34.4,48.6,105.3,2022
+61171,Educational support services,5,Educational services,10504,21756939,16.8,23.1,34.4,48.6,105.3,2022
+611710,Educational support services,6,Educational services,10504,21756939,16.8,23.1,34.4,48.6,105.3,2022
+62,Health care and social assistance,2,Health care and social assistance,691347,3330304719,4.4,6.7,11.7,18.9,10.4,2022
+621,Ambulatory health care services,3,Health care and social assistance,505862,1409918294,4.1,7.2,12.4,18.4,10.3,2022
+6211,Offices of physicians,4,Health care and social assistance,149963,640432147,6.1,9.3,15.0,22.8,18.0,2022
+62111,Offices of physicians,5,Health care and social assistance,149963,640432147,6.1,9.3,15.0,22.8,18.0,2022
+621111,Offices of physicians (except mental health specialists),6,Health care and social assistance,138120,630209309,6.2,9.4,15.3,23.2,18.5,2022
+621112,"Offices of physicians, mental health specialists",6,Health care and social assistance,11973,10222838,5.9,8.8,14.7,22.3,16.2,2022
+6212,Offices of dentists,4,Health care and social assistance,121011,160316394,3.9,5.7,7.8,10.0,5.5,2022
+62121,Offices of dentists,5,Health care and social assistance,121011,160316394,3.9,5.7,7.8,10.0,5.5,2022
+621210,Offices of dentists,6,Health care and social assistance,121011,160316394,3.9,5.7,7.8,10.0,5.5,2022
+6213,Offices of other health practitioners,4,Health care and social assistance,164486,125773479,5.2,7.2,11.4,15.1,12.4,2022
+62132,Offices of optometrists,5,Health care and social assistance,18582,20092058,7.8,10.1,13.3,16.4,21.7,2022
+621320,Offices of optometrists,6,Health care and social assistance,18582,20092058,7.8,10.1,13.3,16.4,21.7,2022
+62133,Offices of mental health practitioners (except physicians),5,Health care and social assistance,39395,23303118,3.6,5.9,9.6,14.3,6.6,2022
+621330,Offices of mental health practitioners (except physicians),6,Health care and social assistance,39395,23303118,3.6,5.9,9.6,14.3,6.6,2022
+62139,Offices of all other health practitioners,5,Health care and social assistance,36311,23699155,12.2,13.9,16.2,19.6,51.4,2022
+621391,Offices of podiatrists,6,Health care and social assistance,6546,5366809,4.8,7.0,11.5,17.6,11.1,2022
+621399,Offices of all other miscellaneous health practitioners,6,Health care and social assistance,29775,18332346,15.8,17.6,20.2,24.3,85.4,2022
+6214,Outpatient care centers,4,Health care and social assistance,26449,222493560,22.6,31.0,36.7,43.9,163.4,2022
+62141,Family planning centers,5,Health care and social assistance,1671,4618698,11.9,21.4,36.1,55.4,90.7,2022
+621410,Family planning centers,6,Health care and social assistance,1671,4618698,11.9,21.4,36.1,55.4,90.7,2022
+62142,Outpatient mental health and substance abuse centers,5,Health care and social assistance,9647,30637899,3.8,6.1,11.2,18.5,9.2,2022
+621420,Outpatient mental health and substance abuse centers,6,Health care and social assistance,9647,30637899,3.8,6.1,11.2,18.5,9.2,2022
+62149,Other outpatient care centers,5,Health care and social assistance,15373,187236963,26.9,36.8,43.6,51.9,230.5,2022
+621491,HMO medical centers,6,Health care and social assistance,56,43616202,88.8,95.0,100.0,100.0,2449.2,2022
+621493,Freestanding ambulatory surgical and emergency centers,6,Health care and social assistance,6092,44080482,17.5,23.2,30.7,39.3,116.4,2022
+621498,All other outpatient care centers,6,Health care and social assistance,8942,69611270,7.2,11.3,20.0,29.6,27.7,2022
+621512,Diagnostic imaging centers,6,Health care and social assistance,4717,25007979,12.9,18.9,30.0,43.9,76.1,2022
+6216,Home health care services,4,Health care and social assistance,27774,114187602,9.1,15.3,23.9,33.5,42.2,2022
+62161,Home health care services,5,Health care and social assistance,27774,114187602,9.1,15.3,23.9,33.5,42.2,2022
+621610,Home health care services,6,Health care and social assistance,27774,114187602,9.1,15.3,23.9,33.5,42.2,2022
+6219,Other ambulatory health care services,4,Health care and social assistance,10627,65619482,19.3,28.1,39.8,50.2,143.3,2022
+62199,All other ambulatory health care services,5,Health care and social assistance,7638,45295764,20.5,31.5,44.9,56.5,161.4,2022
+621991,Blood and organ banks,6,Health care and social assistance,371,19882476,41.5,56.8,72.3,86.3,573.6,2022
+621999,All other miscellaneous ambulatory health care services,6,Health care and social assistance,7270,25413288,21.4,28.7,38.8,50.4,167.8,2022
+622,Hospitals,3,Health care and social assistance,2787,1357452771,8.0,12.5,20.8,33.3,34.4,2022
+6221,General medical and surgical hospitals,4,Health care and social assistance,2280,1269963203,8.4,13.1,21.6,34.6,37.6,2022
+62211,General medical and surgical hospitals,5,Health care and social assistance,2280,1269963203,8.4,13.1,21.6,34.6,37.6,2022
+622110,General medical and surgical hospitals,6,Health care and social assistance,2280,1269963203,8.4,13.1,21.6,34.6,37.6,2022
+6223,Specialty (except psychiatric and substance abuse) hospitals,4,Health care and social assistance,280,58403308,28.6,44.2,65.3,81.8,334.8,2022
+62231,Specialty (except psychiatric and substance abuse) hospitals,5,Health care and social assistance,280,58403308,28.6,44.2,65.3,81.8,334.8,2022
+622310,Specialty (except psychiatric and substance abuse) hospitals,6,Health care and social assistance,280,58403308,28.6,44.2,65.3,81.8,334.8,2022
+623,Nursing and residential care facilities,3,Health care and social assistance,42994,283683193,3.8,6.5,11.2,17.2,8.6,2022
+6231,Nursing care facilities (skilled nursing facilities),4,Health care and social assistance,10663,135396289,6.8,10.3,16.5,25.2,21.0,2022
+62311,Nursing care facilities (skilled nursing facilities),5,Health care and social assistance,10663,135396289,6.8,10.3,16.5,25.2,21.0,2022
+623110,Nursing care facilities (skilled nursing facilities),6,Health care and social assistance,10663,135396289,6.8,10.3,16.5,25.2,21.0,2022
+6232,"Residential intellectual and developmental disability, mental health, and substance abuse facilities",4,Health care and social assistance,11654,59181132,9.4,12.3,17.4,23.5,34.3,2022
+62322,Residential mental health and substance abuse facilities,5,Health care and social assistance,4504,21380981,9.8,13.8,19.5,27.7,36.1,2022
+623220,Residential mental health and substance abuse facilities,6,Health care and social assistance,4504,21380981,9.8,13.8,19.5,27.7,36.1,2022
+6233,Continuing care retirement communities and assisted living facilities for the elderly,4,Health care and social assistance,18102,79939729,9.2,13.4,20.1,29.4,34.8,2022
+62331,Continuing care retirement communities and assisted living facilities for the elderly,5,Health care and social assistance,18102,79939729,9.2,13.4,20.1,29.4,34.8,2022
+623311,Continuing care retirement communities,6,Health care and social assistance,3694,41082584,8.0,12.4,21.5,33.1,35.5,2022
+623312,Assisted living facilities for the elderly,6,Health care and social assistance,14674,38857145,15.7,20.1,27.9,38.0,86.7,2022
+624,Social assistance,3,Health care and social assistance,144894,279250461,3.1,4.7,7.4,11.3,4.6,2022
+6241,Individual and family services,4,Health care and social assistance,68643,153300158,3.5,4.8,7.5,11.6,6.5,2022
+62411,Child and youth services,5,Health care and social assistance,11047,24059551,4.0,6.8,12.8,21.4,11.7,2022
+624110,Child and youth services,6,Health care and social assistance,11047,24059551,4.0,6.8,12.8,21.4,11.7,2022
+62412,Services for the elderly and persons with disabilities,5,Health care and social assistance,30629,77281380,3.4,5.8,10.6,15.6,7.3,2022
+624120,Services for the elderly and persons with disabilities,6,Health care and social assistance,30629,77281380,3.4,5.8,10.6,15.6,7.3,2022
+6242,"Community food and housing, and emergency and other relief services",4,Health care and social assistance,11309,53177378,10.0,15.4,24.3,34.5,43.1,2022
+62421,Community food services,5,Health care and social assistance,3864,17575880,6.1,10.9,22.3,40.6,37.9,2022
+624210,Community food services,6,Health care and social assistance,3864,17575880,6.1,10.9,22.3,40.6,37.9,2022
+62422,Community housing services,5,Health care and social assistance,6874,20643990,7.9,10.8,15.7,23.6,22.6,2022
+624221,Temporary shelters,6,Health care and social assistance,3555,8810009,6.0,9.4,16.8,26.3,21.9,2022
+624229,Other community housing services,6,Health care and social assistance,3556,11833981,13.9,17.2,23.5,32.8,58.4,2022
+62423,Emergency and other relief services,5,Health care and social assistance,714,14957508,35.5,54.7,79.0,91.5,477.1,2022
+624230,Emergency and other relief services,6,Health care and social assistance,714,14957508,35.5,54.7,79.0,91.5,477.1,2022
+6243,Vocational rehabilitation services,4,Health care and social assistance,3895,14345481,8.0,13.5,23.3,32.7,35.5,2022
+62431,Vocational rehabilitation services,5,Health care and social assistance,3895,14345481,8.0,13.5,23.3,32.7,35.5,2022
+624310,Vocational rehabilitation services,6,Health care and social assistance,3895,14345481,8.0,13.5,23.3,32.7,35.5,2022
+6244,Child care services,4,Health care and social assistance,63487,58427444,7.9,9.2,11.5,14.8,22.5,2022
+62441,Child care services,5,Health care and social assistance,63487,58427444,7.9,9.2,11.5,14.8,22.5,2022
+624410,Child care services,6,Health care and social assistance,63487,58427444,7.9,9.2,11.5,14.8,22.5,2022
+71,"Arts, entertainment, and recreation",2,"Arts, entertainment, and recreation",145976,339209552,7.3,9.8,15.1,22.1,20.4,2022
+7111,Performing arts companies,4,"Arts, entertainment, and recreation",9700,18270625,9.7,13.7,20.1,30.7,37.0,2022
+71111,Theater companies and dinner theaters,5,"Arts, entertainment, and recreation",3385,8731490,10.9,15.8,26.8,40.6,56.4,2022
+711110,Theater companies and dinner theaters,6,"Arts, entertainment, and recreation",3385,8731490,10.9,15.8,26.8,40.6,56.4,2022
+71112,Dance companies,5,"Arts, entertainment, and recreation",592,1028008,21.2,33.8,54.0,75.2,207.8,2022
+711120,Dance companies,6,"Arts, entertainment, and recreation",592,1028008,21.2,33.8,54.0,75.2,207.8,2022
+71113,Musical groups and artists,5,"Arts, entertainment, and recreation",5460,6779268,6.4,11.0,21.1,34.3,30.4,2022
+711130,Musical groups and artists,6,"Arts, entertainment, and recreation",5460,6779268,6.4,11.0,21.1,34.3,30.4,2022
+71119,Other performing arts companies,5,"Arts, entertainment, and recreation",268,1731859,84.7,89.7,94.0,97.1,2416.3,2022
+711190,Other performing arts companies,6,"Arts, entertainment, and recreation",268,1731859,84.7,89.7,94.0,97.1,2416.3,2022
+7112,Spectator sports,4,"Arts, entertainment, and recreation",4028,56259277,6.8,11.7,24.0,50.6,54.1,2022
+71121,Spectator sports,5,"Arts, entertainment, and recreation",4028,56259277,6.8,11.7,24.0,50.6,54.1,2022
+711211,Sports teams and clubs,6,"Arts, entertainment, and recreation",926,44029584,7.5,13.2,28.4,60.8,77.3,2022
+711212,Racetracks,6,"Arts, entertainment, and recreation",499,7975422,39.2,59.2,82.2,93.4,570.0,2022
+711219,Other spectator sports,6,"Arts, entertainment, and recreation",2611,4254271,16.3,24.6,36.2,49.2,104.2,2022
+71131,"Promoters of performing arts, sports, and similar events with facilities",5,"Arts, entertainment, and recreation",3485,21643588,23.0,28.6,40.0,55.6,192.2,2022
+711310,"Promoters of performing arts, sports, and similar events with facilities",6,"Arts, entertainment, and recreation",3485,21643588,23.0,28.6,40.0,55.6,192.2,2022
+7114,"Agents and managers for artists, athletes, entertainers, and other public figures",4,"Arts, entertainment, and recreation",4767,10812102,30.0,36.1,43.2,51.1,289.9,2022
+71141,"Agents and managers for artists, athletes, entertainers, and other public figures",5,"Arts, entertainment, and recreation",4767,10812102,30.0,36.1,43.2,51.1,289.9,2022
+711410,"Agents and managers for artists, athletes, entertainers, and other public figures",6,"Arts, entertainment, and recreation",4767,10812102,30.0,36.1,43.2,51.1,289.9,2022
+7115,"Independent artists, writers, and performers",4,"Arts, entertainment, and recreation",38711,28629312,2.2,3.7,6.9,11.0,3.3,2022
+71151,"Independent artists, writers, and performers",5,"Arts, entertainment, and recreation",38711,28629312,2.2,3.7,6.9,11.0,3.3,2022
+711510,"Independent artists, writers, and performers",6,"Arts, entertainment, and recreation",38711,28629312,2.2,3.7,6.9,11.0,3.3,2022
+712,"Museums, historical sites, and similar institutions",3,"Arts, entertainment, and recreation",7436,21792889,9.0,12.1,19.0,29.6,31.2,2022
+7121,"Museums, historical sites, and similar institutions",4,"Arts, entertainment, and recreation",7436,21792889,9.0,12.1,19.0,29.6,31.2,2022
+71211,Museums,5,"Arts, entertainment, and recreation",5065,13528862,12.9,17.0,25.5,39.1,63.2,2022
+712110,Museums,6,"Arts, entertainment, and recreation",5065,13528862,12.9,17.0,25.5,39.1,63.2,2022
+71212,Historical sites,5,"Arts, entertainment, and recreation",1091,1338727,23.3,30.5,42.5,57.6,215.7,2022
+712120,Historical sites,6,"Arts, entertainment, and recreation",1091,1338727,23.3,30.5,42.5,57.6,215.7,2022
+71213,Zoos and botanical gardens,5,"Arts, entertainment, and recreation",710,5716833,15.2,21.8,36.0,58.5,123.1,2022
+712130,Zoos and botanical gardens,6,"Arts, entertainment, and recreation",710,5716833,15.2,21.8,36.0,58.5,123.1,2022
+713,"Amusement, gambling, and recreation industries",3,"Arts, entertainment, and recreation",73647,162515522,9.3,13.5,21.6,30.9,39.3,2022
+7131,Amusement parks and arcades,4,"Arts, entertainment, and recreation",3659,25672773,56.7,71.4,78.9,82.5,1084.7,2022
+71311,Amusement and theme parks,5,"Arts, entertainment, and recreation",478,19170768,75.1,86.5,91.6,94.8,1853.4,2022
+713110,Amusement and theme parks,6,"Arts, entertainment, and recreation",478,19170768,75.1,86.5,91.6,94.8,1853.4,2022
+7132,Gambling industries,4,"Arts, entertainment, and recreation",2096,36844898,16.1,26.0,45.0,66.4,143.0,2022
+71321,Casinos (except casino hotels),5,"Arts, entertainment, and recreation",217,18423632,18.5,31.4,55.1,83.2,207.6,2022
+713210,Casinos (except casino hotels),6,"Arts, entertainment, and recreation",217,18423632,18.5,31.4,55.1,83.2,207.6,2022
+71329,Other gambling industries,5,"Arts, entertainment, and recreation",1910,18421266,30.8,43.1,58.4,70.9,333.1,2022
+713290,Other gambling industries,6,"Arts, entertainment, and recreation",1910,18421266,30.8,43.1,58.4,70.9,333.1,2022
+7139,Other amusement and recreation industries,4,"Arts, entertainment, and recreation",67952,99997851,6.2,9.9,13.7,17.9,15.3,2022
+71391,Golf courses and country clubs,5,"Arts, entertainment, and recreation",9126,31314635,9.0,11.6,15.0,19.4,29.7,2022
+713910,Golf courses and country clubs,6,"Arts, entertainment, and recreation",9126,31314635,9.0,11.6,15.0,19.4,29.7,2022
+71392,Skiing facilities,5,"Arts, entertainment, and recreation",315,3368456,41.7,56.1,69.5,82.4,650.5,2022
+713920,Skiing facilities,6,"Arts, entertainment, and recreation",315,3368456,41.7,56.1,69.5,82.4,650.5,2022
+71393,Marinas,5,"Arts, entertainment, and recreation",3438,6056427,6.9,10.3,15.8,23.1,20.0,2022
+713930,Marinas,6,"Arts, entertainment, and recreation",3438,6056427,6.9,10.3,15.8,23.1,20.0,2022
+72,Accommodation and food services,2,Accommodation and food services,574892,1196315575,5.4,8.4,13.3,18.8,13.2,2022
+721,Accommodation,3,Accommodation and food services,57587,295697706,16.4,21.9,30.5,40.5,98.9,2022
+7211,Traveler accommodation,4,Accommodation and food services,49279,285767869,17.0,22.6,31.5,41.9,105.8,2022
+72112,Casino hotels,5,Accommodation and food services,223,75928928,35.3,46.9,63.7,81.0,465.5,2022
+721120,Casino hotels,6,Accommodation and food services,223,75928928,35.3,46.9,63.7,81.0,465.5,2022
+721191,Bed-and-breakfast inns,6,Accommodation and food services,2367,1176816,2.3,4.3,8.8,16.8,6.2,2022
+7212,RV (recreational vehicle) parks and recreational camps,4,Accommodation and food services,7043,7961499,7.1,10.2,15.0,21.6,19.6,2022
+72121,RV (recreational vehicle) parks and recreational camps,5,Accommodation and food services,7043,7961499,7.1,10.2,15.0,21.6,19.6,2022
+721211,RV (recreational vehicle) parks and campgrounds,6,Accommodation and food services,4474,4251045,13.3,18.2,24.8,31.6,59.6,2022
+721214,Recreational and vacation camps (except campgrounds),6,Accommodation and food services,2577,3710454,5.3,8.1,14.0,22.7,15.0,2022
+7213,"Rooming and boarding houses, dormitories, and workers' camps",4,Accommodation and food services,1313,1968338,39.3,49.4,60.4,67.6,492.8,2022
+72131,"Rooming and boarding houses, dormitories, and workers' camps",5,Accommodation and food services,1313,1968338,39.3,49.4,60.4,67.6,492.8,2022
+721310,"Rooming and boarding houses, dormitories, and workers' camps",6,Accommodation and food services,1313,1968338,39.3,49.4,60.4,67.6,492.8,2022
+722,Food services and drinking places,3,Accommodation and food services,517626,900617869,5.7,8.5,12.9,16.5,13.1,2022
+7223,Special food services,4,Accommodation and food services,26393,66844163,47.5,54.8,60.3,65.1,766.8,2022
+72231,Food service contractors,5,Accommodation and food services,4080,50858684,62.3,72.0,79.1,84.9,1318.8,2022
+722310,Food service contractors,6,Accommodation and food services,4080,50858684,62.3,72.0,79.1,84.9,1318.8,2022
+72232,Caterers,5,Accommodation and food services,12289,12966223,4.1,5.7,9.0,14.3,7.3,2022
+722320,Caterers,6,Accommodation and food services,12289,12966223,4.1,5.7,9.0,14.3,7.3,2022
+72233,Mobile food services,5,Accommodation and food services,10062,3019256,1.5,2.6,4.8,8.8,1.8,2022
+722330,Mobile food services,6,Accommodation and food services,10062,3019256,1.5,2.6,4.8,8.8,1.8,2022
+7224,Drinking places (alcoholic beverages),4,Accommodation and food services,39627,33653442,2.6,3.5,5.2,7.5,3.0,2022
+72241,Drinking places (alcoholic beverages),5,Accommodation and food services,39627,33653442,2.6,3.5,5.2,7.5,3.0,2022
+722410,Drinking places (alcoholic beverages),6,Accommodation and food services,39627,33653442,2.6,3.5,5.2,7.5,3.0,2022
+7225,Restaurants and other eating places,4,Accommodation and food services,452314,800120264,5.2,7.4,11.5,14.6,11.3,2022
+72251,Restaurants and other eating places,5,Accommodation and food services,452314,800120264,5.2,7.4,11.5,14.6,11.3,2022
+722513,Limited-service restaurants,6,Accommodation and food services,166733,358864144,5.7,8.8,12.3,16.8,13.5,2022
+722514,"Cafeterias, grill buffets, and buffets",6,Accommodation and food services,4017,5683111,8.0,10.8,15.7,22.2,25.8,2022
+81,Other services (except public administration),2,Other services (except public administration),529687,720850262,4.6,6.9,11.0,15.6,9.8,2022
+811,Repair and maintenance,3,Other services (except public administration),202678,240243406,5.4,7.0,9.8,14.1,9.9,2022
+8111,Automotive repair and maintenance,4,Other services (except public administration),148957,158026955,6.6,8.5,11.5,14.4,14.9,2022
+81111,Automotive mechanical and electrical repair and maintenance,5,Other services (except public administration),86807,76914023,2.4,3.4,5.3,8.2,2.3,2022
+811111,General automotive repair,6,Other services (except public administration),79149,71002726,2.5,3.6,5.6,8.6,2.6,2022
+811114,Specialized automotive repair,6,Other services (except public administration),7708,5911297,6.4,7.9,10.9,15.1,15.6,2022
+81112,"Automotive body, paint, interior, and glass repair",5,Other services (except public administration),36843,53412428,19.3,22.2,24.7,27.0,114.1,2022
+81119,Other automotive repair and maintenance,5,Other services (except public administration),25559,27700504,10.5,15.5,22.3,29.9,42.7,2022
+811191,Automotive oil change and lubrication shops,6,Other services (except public administration),5527,9646760,24.8,33.9,43.3,50.9,212.0,2022
+811192,Car washes,6,Other services (except public administration),15613,14807987,11.7,15.7,22.1,28.6,57.0,2022
+811198,All other automotive repair and maintenance,6,Other services (except public administration),4471,3245757,15.2,20.1,27.3,34.4,86.0,2022
+8112,Electronic and precision equipment repair and maintenance,4,Other services (except public administration),10441,16664385,12.1,18.1,28.6,40.9,66.2,2022
+81121,Electronic and precision equipment repair and maintenance,5,Other services (except public administration),10441,16664385,12.1,18.1,28.6,40.9,66.2,2022
+811210,Electronic and precision equipment repair and maintenance,6,Other services (except public administration),10441,16664385,12.1,18.1,28.6,40.9,66.2,2022
+8114,Personal and household goods repair and maintenance,4,Other services (except public administration),21348,10911321,3.2,4.6,7.3,11.6,4.5,2022
+81141,Home and garden equipment and appliance repair and maintenance,5,Other services (except public administration),6822,3592962,4.9,7.9,13.2,19.0,12.5,2022
+811411,Home and garden equipment repair and maintenance,6,Other services (except public administration),1587,728564,8.7,11.1,16.4,25.5,29.3,2022
+811412,Appliance repair and maintenance,6,Other services (except public administration),5235,2864398,6.2,9.8,15.6,22.3,18.3,2022
+81142,Reupholstery and furniture repair,5,Other services (except public administration),3249,1348832,4.2,6.6,11.1,18.8,10.5,2022
+811420,Reupholstery and furniture repair,6,Other services (except public administration),3249,1348832,4.2,6.6,11.1,18.8,10.5,2022
+81143,Footwear and leather goods repair,5,Other services (except public administration),690,208714,14.7,25.0,37.2,51.0,101.7,2022
+811430,Footwear and leather goods repair,6,Other services (except public administration),690,208714,14.7,25.0,37.2,51.0,101.7,2022
+81149,Other personal and household goods repair and maintenance,5,Other services (except public administration),10588,5760813,5.6,7.4,11.1,16.9,12.1,2022
+811490,Other personal and household goods repair and maintenance,6,Other services (except public administration),10588,5760813,5.6,7.4,11.1,16.9,12.1,2022
+812,Personal and laundry services,3,Other services (except public administration),228465,144056265,10.2,13.4,17.8,22.0,36.8,2022
+8121,Personal care services,4,Other services (except public administration),140553,54756173,3.4,4.7,6.6,8.6,5.3,2022
+81211,"Hair, nail, and skin care services",5,Other services (except public administration),112541,38693550,1.7,2.4,3.4,4.9,1.1,2022
+812111,Barber shops,6,Other services (except public administration),6370,1663159,10.2,12.8,17.6,24.3,39.2,2022
+812112,Beauty salons,6,Other services (except public administration),73148,25664020,2.6,3.4,4.9,7.0,2.4,2022
+812113,Nail salons,6,Other services (except public administration),33066,11366371,0.4,0.6,1.1,2.1,0.1,2022
+812199,Other personal care services,6,Other services (except public administration),26697,13677122,5.9,8.4,12.6,16.1,13.4,2022
+81232,Drycleaning and laundry services (except coin-operated),5,Other services (except public administration),14200,7112666,2.6,4.2,7.4,12.7,4.4,2022
+812320,Drycleaning and laundry services (except coin-operated),6,Other services (except public administration),14200,7112666,2.6,4.2,7.4,12.7,4.4,2022
+812331,Linen supply,6,Other services (except public administration),523,6560256,28.0,39.9,55.0,72.0,351.7,2022
+8129,Other personal services,4,Other services (except public administration),49123,34687816,12.5,17.3,23.8,31.2,52.8,2022
+81291,Pet care (except veterinary) services,5,Other services (except public administration),24098,10109818,3.1,4.9,7.5,10.4,4.2,2022
+812910,Pet care (except veterinary) services,6,Other services (except public administration),24098,10109818,3.1,4.9,7.5,10.4,4.2,2022
+812922,One-hour photofinishing,6,Other services (except public administration),59,17013,32.2,49.2,73.4,98.5,423.1,2022
+81293,Parking lots and garages,5,Other services (except public administration),2829,10712803,32.0,41.2,54.9,67.4,345.2,2022
+812930,Parking lots and garages,6,Other services (except public administration),2829,10712803,32.0,41.2,54.9,67.4,345.2,2022
+813,"Religious, grantmaking, civic, professional, and similar organizations",3,Other services (except public administration),98656,336550591,9.3,13.1,18.5,25.8,35.1,2022
+8132,Grantmaking and giving services,4,Other services (except public administration),19915,181898631,17.2,24.3,33.4,43.8,116.6,2022
+81321,Grantmaking and giving services,5,Other services (except public administration),19915,181898631,17.2,24.3,33.4,43.8,116.6,2022
+813211,Grantmaking foundations,6,Other services (except public administration),12586,130846909,23.8,30.9,40.1,51.2,202.0,2022
+813212,Voluntary health organizations,6,Other services (except public administration),3096,29232341,37.2,44.7,57.1,69.2,447.9,2022
+813219,Other grantmaking and giving services,6,Other services (except public administration),4257,21819381,17.4,24.6,37.1,51.0,128.7,2022
+8133,Social advocacy organizations,4,Other services (except public administration),17283,48399740,10.2,15.6,23.4,34.2,43.4,2022
+81331,Social advocacy organizations,5,Other services (except public administration),17283,48399740,10.2,15.6,23.4,34.2,43.4,2022
+813311,Human rights organizations,6,Other services (except public administration),3461,14496686,30.6,40.0,50.0,60.2,284.0,2022
+813312,"Environment, conservation and wildlife organizations",6,Other services (except public administration),6638,17427758,13.5,20.5,33.2,43.8,97.4,2022
+813319,Other social advocacy organizations,6,Other services (except public administration),7210,16475296,11.2,17.2,27.3,38.6,61.2,2022
+8134,Civic and social organizations,4,Other services (except public administration),22430,18502943,3.3,5.7,10.2,15.7,7.0,2022
+81341,Civic and social organizations,5,Other services (except public administration),22430,18502943,3.3,5.7,10.2,15.7,7.0,2022
+813410,Civic and social organizations,6,Other services (except public administration),22430,18502943,3.3,5.7,10.2,15.7,7.0,2022
+8139,"Business, professional, labor, political, and similar organizations",4,Other services (except public administration),39139,87749277,5.4,8.4,14.9,22.8,15.7,2022
+81391,Business associations,5,Other services (except public administration),14599,30220478,6.5,10.0,16.3,24.5,20.0,2022
+813910,Business associations,6,Other services (except public administration),14599,30220478,6.5,10.0,16.3,24.5,20.0,2022
+81392,Professional organizations,5,Other services (except public administration),6306,22659598,10.6,15.8,24.4,35.5,51.6,2022
+813920,Professional organizations,6,Other services (except public administration),6306,22659598,10.6,15.8,24.4,35.5,51.6,2022
+81399,"Other similar organizations (except business, professional, labor, and political organizations)",5,Other services (except public administration),18262,34869201,12.8,19.8,30.8,37.3,69.3,2022
+813990,"Other similar organizations (except business, professional, labor, and political organizations)",6,Other services (except public administration),18262,34869201,12.8,19.8,30.8,37.3,69.3,2022
