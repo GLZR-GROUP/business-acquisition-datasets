@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite both GLZR Group calculations and the original IBBA and M&A Source report."
+title: "Business valuation multiples: change within five deal-size bands, Q2 2023 to Q2 2026"
+type: dataset
+authors:
+  - name: "GLZR Group"
+date-released: "2026-11-26"
+url: "https://glzrgroup.com/valuation-multiples/#multiple-change"
+repository-code: "https://github.com/GLZR-GROUP/business-acquisition-datasets"

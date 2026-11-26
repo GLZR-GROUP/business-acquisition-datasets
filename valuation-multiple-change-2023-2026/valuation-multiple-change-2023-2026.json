@@ -1,0 +1,61 @@
+{
+  "method": "Within each band: change = 2026 multiple minus 2023 multiple; relative change (%) = (2026 / 2023 - 1) * 100. Figures rounded to four decimal places. Different transactions may underlie each period. Do not average the SDE and EBITDA bands.",
+  "credit": "Underlying reported multiples: IBBA and M&A Source, Market Pulse Q2 2026 Highlights. Arithmetic and presentation: GLZR Group. No relicensing of underlying source data.",
+  "rows": [
+    {
+      "enterprise_value_band_usd": "Under $500K",
+      "earnings_basis": "SDE",
+      "q2_2023_multiple": 2.0,
+      "q2_2026_multiple": 2.0,
+      "change_in_multiple": 0.0,
+      "relative_change_percent": 0.0,
+      "source_url": "https://www.ibba.org/wp-content/uploads/2026/08/mp-highlights-q2-2026.pdf",
+      "source_checked": "2026-11-26",
+      "calculation_by": "GLZR Group"
+    },
+    {
+      "enterprise_value_band_usd": "$500K–$1M",
+      "earnings_basis": "SDE",
+      "q2_2023_multiple": 2.8,
+      "q2_2026_multiple": 2.8,
+      "change_in_multiple": 0.0,
+      "relative_change_percent": 0.0,
+      "source_url": "https://www.ibba.org/wp-content/uploads/2026/08/mp-highlights-q2-2026.pdf",
+      "source_checked": "2026-11-26",
+      "calculation_by": "GLZR Group"
+    },
+    {
+      "enterprise_value_band_usd": "$1M–$2M",
+      "earnings_basis": "SDE",
+      "q2_2023_multiple": 3.0,
+      "q2_2026_multiple": 3.1,
+      "change_in_multiple": 0.1,
+      "relative_change_percent": 3.3333,
+      "source_url": "https://www.ibba.org/wp-content/uploads/2026/08/mp-highlights-q2-2026.pdf",
+      "source_checked": "2026-11-26",
+      "calculation_by": "GLZR Group"
+    },
+    {
+      "enterprise_value_band_usd": "$2M–$5M",
+      "earnings_basis": "EBITDA",
+      "q2_2023_multiple": 4.5,
+      "q2_2026_multiple": 4.0,
+      "change_in_multiple": -0.5,
+      "relative_change_percent": -11.1111,
+      "source_url": "https://www.ibba.org/wp-content/uploads/2026/08/mp-highlights-q2-2026.pdf",
+      "source_checked": "2026-11-26",
+      "calculation_by": "GLZR Group"
+    },
+    {
+      "enterprise_value_band_usd": "$5M–$50M",
+      "earnings_basis": "EBITDA",
+      "q2_2023_multiple": 4.8,
+      "q2_2026_multiple": 5.8,
+      "change_in_multiple": 1.0,
+      "relative_change_percent": 20.8333,
+      "source_url": "https://www.ibba.org/wp-content/uploads/2026/08/mp-highlights-q2-2026.pdf",
+      "source_checked": "2026-11-26",
+      "calculation_by": "GLZR Group"
+    }
+  ]
+}

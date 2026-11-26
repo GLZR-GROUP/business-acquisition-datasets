@@ -15,6 +15,10 @@ Public datasets on buying and selling a business, published by [GLZR Group](http
 
 Each folder holds the CSV and a card with the source, coverage, column definitions and licence. Datasets built from U.S. government data are U.S. government works; GLZR Group's own derived data (the valuation multiples) is CC BY 4.0: credit "GLZR Group" and link the dataset page.
 
+## Reproducible valuation comparison
+
+[Business valuation multiples: Q2 2023 to Q2 2026](valuation-multiple-change-2023-2026/) adds five within-band calculations from the IBBA and M&A Source report. It includes a source hash, CSV/JSON, chart, citation file and calculation code. The underlying third-party report is not relicensed. Read the folder's source and rights notes before reuse.
+
 ## Also published on
 
 - Kaggle: https://www.kaggle.com/glzrgroup

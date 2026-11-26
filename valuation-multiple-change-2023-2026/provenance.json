@@ -1,0 +1,18 @@
+{
+  "source_url": "https://www.ibba.org/wp-content/uploads/2026/08/mp-highlights-q2-2026.pdf",
+  "packaged_at": "2026-11-26T19:15:50.407796+00:00",
+  "source_retrieved_date": "2026-11-26",
+  "sha256": "15fa7e60cd745089e2791c00b9ea2046dad39f39364b900c22d3d12722d83572",
+  "source_title": "IBBA and M&A Source Market Pulse Q2 2026 Highlights",
+  "source_pdf_redistributed": false,
+  "retrieval_note": "Using verified source bytes fetched earlier on 26 November 2026; a fresh direct request in this release returned HTTP403. No access restriction bypassed.",
+  "source_location": "Multiples Q2 2023–2026 chart, page 1",
+  "transcription": "First and last quarter in each published enterprise-value band, visually checked against the source chart.",
+  "canonical_method": "https://glzrgroup.com/valuation-multiples/#multiple-change",
+  "limitations": [
+    "Different transactions can underlie each period.",
+    "No sample sizes or transaction-level observations in this extract.",
+    "No pooled SDE/EBITDA result, statistical significance, causal inference or price forecast.",
+    "Reported multiples are third-party data; no new licence is asserted over them."
+  ]
+}
